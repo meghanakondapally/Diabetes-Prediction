@@ -1,0 +1,1003 @@
+Patient name,patient id,state,marital status,diabetic pedigree function,age,gender,ethnicity,BMI,glucose_level,blood_pressure,insulin_level,physical_activity,smoking_status,alcohol_intake,diabetes_status,income,insurance,cost,medications
+bwqpjbioudaybxrf172,pcwqhzsgcxca172,California,Married,2.18,172,Female,Asian,19.75,168.13971522677122,93.36143609,24.87,Low,Never,High,Diabetic,172,Uninsured,1192.2370685089963,Metformin
+sqjebpglgkhwgwus225,hlksstgdkglk225,California,Single,1.58,225,Female,Hispanic,18.55705686138479,186.1,118.02,24.55,High,Current,Moderate,Non-Diabetic,225,Insured,650.2833484815307,GLP-1 agonist
+brqngqwurbitxtpa917,uieqpaqrrquc917,California,Single,0.37,917,Female,Asian,19.75,91.87,175.79,24.55,Moderate,Never,High,Diabetic,917,Insured,1181.6620256340148,Metformin
+scfrqrpsthkswkmh693,otjpyyzkirzm693,California,Married,2.28,693,Female,Hispanic,26.35,151.66542219376322,118.02,10.11686127233257,Moderate,Former,High,Diabetic,693,Insured,1181.6620256340148,
+lrthedbrcggxmjyv989,gxulgrlrkyuv989,California,Married,2.28,989,Female,Asian,19.75,91.87,118.02,24.55,Low,Former,Moderate,Non-Diabetic,989,Insured,811.8003645464281,Insulin
+uarepgqxmuoqbddu409,kqdvnuxlxteq409,California,Single,2.28,409,Male,Hispanic,19.75,168.13971522677122,152.9353998166657,10.11686127233257,Low,Former,High,Diabetic,409,Uninsured,1893.432070757025,Metformin
+szswekkinlawflia500,cjgahtgbqthz500,California,Married,2.21,500,Female,Black,19.75,168.13971522677122,94.12763863039169,3.56,Moderate,Current,,Diabetic,500,Uninsured,340.7877902157701,Metformin
+qlncyhbijdsscjlb911,ithiuxadfjfj911,California,Married,2.18,911,Female,Hispanic,22.04502064908496,91.87,130.28302095632574,20.85,Low,Never,,Diabetic,911,Insured,340.7877902157701,Insulin
+zfmzvyxcvnmvebgo32,ibvzqnpupxor32,California,Single,0.53,32,Female,Asian,26.35,81.98740438709201,130.28302095632574,4.541990697,Moderate,Former,,Diabetic,32,Insured,1288.8830549174445,
+bdatrkoewafcvufp526,gsxgzjluzkdj526,California,Married,0.37,526,Male,White,32.31,196.23,118.02,24.87,Low,Former,,Non-Diabetic,526,Insured,528.1553002754529,
+ejnramupsdncqvjy639,kwgznizpqgkm639,California,Married,1.58,639,Male,Hispanic,26.35,190.31,144.11896149120247,4.541990697,Moderate,Never,Moderate,Non-Diabetic,639,Uninsured,1192.2370685089963,
+lwrtugsjxdogmljn494,djdxkbcwdsun494,California,Married,1.96,494,Female,Black,25.653635126421914,186.1,144.11896149120247,4.541990697,Moderate,Current,Moderate,Non-Diabetic,494,Uninsured,1093.2694640570294,Metformin
+noijoechrguhqukz200,thjrhcudfhgp200,California,Married,2.21,200,Female,Hispanic,22.69909747656427,151.66542219376322,118.02,10.11686127233257,High,Former,High,Diabetic,200,Uninsured,340.7877902157701,
+wvymqmctnltgbuqa893,aqoyoqgrtoat893,California,Married,0.37,893,Female,Black,26.35,190.31,118.02,24.55,Low,Never,Moderate,Non-Diabetic,893,Insured,1093.2694640570294,Metformin
+wtvuqpccfmxmdhnm13,tydumrcuyjir13,California,Single,2.28,13,Female,Asian,18.55705686138479,186.1,118.02,24.55,High,Former,Moderate,Non-Diabetic,13,Insured,650.2833484815307,GLP-1 agonist
+qnqczrtonnasgtwu998,qikqbdyenddf998,California,Married,2.21,998,Female,Black,26.35,88.32,130.28302095632574,20.85,High,Never,,Diabetic,998,Insured,811.8003645464281,
+dnkpsncdorgelnmq735,blalhggziodo735,California,Single,0.53,735,Female,Hispanic,19.75,190.31,144.11896149120247,4.541990697,Low,Current,Moderate,Non-Diabetic,735,Insured,340.7877902157701,Insulin
+iiwxfyrazlgtefmh604,xzgvctpkoacv604,California,Single,2.18,604,Female,White,25.653635126421914,186.1,93.36143609,24.87,Low,Never,High,Non-Diabetic,604,Uninsured,1093.2694640570294,Metformin
+lvdgxsgrocdnxmjw173,xzaqmmazwqeq173,California,Married,2.18,173,Male,Hispanic,19.75,148.54,130.28302095632574,20.85,High,Never,High,Diabetic,173,Insured,616.0959452024674,Insulin
+hhvsvduzarnxxtvq902,faxlmpnyhufk902,California,Married,2.21,902,Male,Black,26.35,148.54,130.28302095632574,2.135448124552057,Low,Former,,Diabetic,902,Uninsured,650.2833484815307,Insulin
+lxezdmbqaeboyrhn165,konzwuvpashl165,California,Single,0.37,165,Female,Asian,18.55705686138479,186.1,175.79,24.55,Moderate,Never,Moderate,Non-Diabetic,165,Insured,650.2833484815307,
+poiocstfhziykyio747,cjpplegbbpqj747,California,Single,0.28,747,Male,White,19.75,91.87,177.08993914366752,24.87,Moderate,Current,High,Non-Diabetic,747,Uninsured,1893.432070757025,Insulin
+hcwphbcizptesgdp112,aldwfgckalpb112,California,Single,1.58,112,Female,Asian,32.31,190.31,144.11896149120247,4.541990697,Moderate,Never,Moderate,Non-Diabetic,112,Uninsured,650.2833484815307,
+yzlxdhgbsgxralbq572,kllkxehprrua572,California,Single,1.96,572,Female,Asian,25.653635126421914,81.98740438709201,130.28302095632574,4.541990697,High,Current,,Diabetic,572,Uninsured,811.8003645464281,
+scfrqrpsthkswkmh693,otjpyyzkirzm693,California,Married,2.28,693,Female,Hispanic,26.35,151.66542219376322,118.02,10.11686127233257,Moderate,Former,High,Diabetic,693,Insured,1181.6620256340148,
+wjzldzydxcbxsxda247,jxclcwbfvign247,California,Married,1.41,247,Female,Asian,19.75,196.23,93.36143609,24.87,High,Never,High,Diabetic,247,Insured,528.1553002754529,Insulin
+ffmuitbabdzmbfld995,ybixexrautqp995,California,Married,0.37,995,Male,Asian,22.04502064908496,148.54,94.12763863039169,3.56,Low,Never,,Diabetic,995,Uninsured,811.8003645464281,Insulin
+brqngqwurbitxtpa917,uieqpaqrrquc917,California,Single,0.37,917,Female,Asian,19.75,91.87,175.79,24.55,Moderate,Never,High,Diabetic,917,Insured,1181.6620256340148,Metformin
+kbkvsdczgiwdekpr341,ysofjrequxtp341,California,Married,0.37,341,Male,Asian,19.75,196.23,118.02,24.87,Low,Former,,Diabetic,341,Uninsured,811.8003645464281,Insulin
+znejqqvkmgtmyiyx188,xkjqshlfrnko188,California,Married,1.96,188,Female,Hispanic,19.75,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,188,Insured,1192.2370685089963,Insulin
+duxwshynxjqsfczm977,wdmrkfhgkuzb977,California,Single,1.58,977,Female,Asian,32.78,81.98740438709201,95.31,4.541990697,High,Never,,Diabetic,977,Uninsured,811.8003645464281,
+gikynmlbtssgtdiw716,jlwrornzhcjx716,California,Married,0.53,716,Female,Black,25.41868995566916,168.13971522677122,94.12763863039169,3.56,Low,Current,,Diabetic,716,Uninsured,528.1553002754529,GLP-1 agonist
+rnqymmjuqemfnnjs928,pykfxfuxnryp928,California,Single,2.18,928,Female,Asian,33.77556181601884,168.13971522677122,93.36143609,24.87,High,Never,High,Non-Diabetic,928,Uninsured,1093.2694640570294,GLP-1 agonist
+zfzclfzshjctnwtd457,wligawbioqos457,California,Single,0.53,457,Male,Hispanic,22.04502064908496,91.87,175.79,3.56,Low,Former,Moderate,Diabetic,457,Insured,1093.2694640570294,Insulin
+ywolzbmevrpwybux758,xuzhjgerwmzg758,California,Single,2.21,758,Male,White,33.77556181601884,151.66542219376322,152.9353998166657,3.56,Low,Never,,Diabetic,758,Uninsured,1093.2694640570294,
+gyksocarvlzypiqa796,neytewonpjos796,California,Married,0.53,796,Male,White,19.75,81.98740438709201,175.79,4.541990697,Moderate,Former,High,Diabetic,796,Uninsured,811.8003645464281,Metformin
+hwrhcuzqmpqwxvke492,ttvzpuvosspm492,California,Married,2.18,492,Female,Asian,18.55705686138479,168.13971522677122,93.36143609,24.87,High,Never,High,Non-Diabetic,492,Uninsured,1893.432070757025,GLP-1 agonist
+chhmwqcocuvfhzac410,eylpkuowwbol410,California,Married,2.28,410,Male,Hispanic,22.04502064908496,148.54,133.36,4.541990697,Moderate,Current,,Diabetic,410,Uninsured,616.0959452024674,Metformin
+nchbvklhibbjkckz757,txqlxmjfndao757,California,Married,1.96,757,Female,Asian,19.75,190.31,175.79,3.56,Low,Former,High,Diabetic,757,Uninsured,1893.432070757025,Metformin
+alaxjstmssojmbaz938,maszkjxqawzg938,California,Married,0.53,938,Female,White,22.04502064908496,91.59788160895998,94.12763863039169,10.15,High,Former,Moderate,Diabetic,938,Insured,1181.6620256340148,Insulin
+dehvbxhoqhnjzldz971,gbbfgnwvorlp971,California,Single,1.58,971,Female,Hispanic,26.35,91.87,118.02,20.85,Low,Never,,Diabetic,971,Insured,1093.2694640570294,Insulin
+qfvxngcfhzlqsqso927,kkszztxxwbhe927,California,Single,0.28,927,Male,White,25.41868995566916,91.87,177.08993914366752,24.87,Low,Current,High,Diabetic,927,Uninsured,1893.432070757025,Metformin
+fpmnxgphmsfzsipt670,jgosixdgdgbv670,California,Single,1.41,670,Female,White,19.75,91.59788160895998,130.28302095632574,10.15,Moderate,Former,Moderate,Diabetic,670,Insured,1181.6620256340148,Metformin
+zyrbwxmizewkrgop122,rmwsltuuzxtr122,California,Single,0.28,122,Female,Black,18.55705686138479,196.23,95.31,20.85,High,Former,High,Non-Diabetic,122,Uninsured,811.8003645464281,
+ojnwvvopsqdcgbwq349,mtfowkfbvdnz349,California,Married,1.96,349,Female,Hispanic,19.75,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,349,Uninsured,1192.2370685089963,Insulin
+jaanmfkwifrtysuo455,ledpwasiyrlx455,California,Single,2.18,455,Female,Hispanic,19.75,190.31,93.36143609,24.87,Low,Never,High,Diabetic,455,Uninsured,1192.2370685089963,Metformin
+mrsmxifxkcniplhw30,hdlpjefonzsh30,California,Married,1.96,30,Male,White,22.04502064908496,196.23,175.79,3.56,High,Former,Moderate,Diabetic,30,Insured,528.1553002754529,Insulin
+nubsmbjwczmvgecf953,xhhxayfqkmre953,California,Single,2.18,953,Female,Hispanic,19.75,91.87,130.28302095632574,20.85,Low,Never,,Diabetic,953,Uninsured,1192.2370685089963,Metformin
+nhcoucwmoqjdpang841,crgxlyslnequ841,California,Single,1.58,841,Male,Hispanic,26.35,91.87,130.28302095632574,20.85,Low,Never,,Diabetic,841,Insured,340.7877902157701,Insulin
+fjclnohoriqmaphh936,zffzpiyccejo936,California,Married,2.21,936,Female,Asian,19.75,168.13971522677122,130.28302095632574,20.85,High,Never,,Diabetic,936,Uninsured,1288.8830549174445,GLP-1 agonist
+hxckzvigsqlnywdl301,mjcjvuluwfot301,California,Married,0.53,301,Female,White,18.55705686138479,91.87,93.36143609,24.87,High,Never,High,Non-Diabetic,301,Insured,1893.432070757025,GLP-1 agonist
+hlmcavqdoexrjcnk669,ffaathxgmdeu669,California,Married,0.2,669,Female,Hispanic,32.78,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,669,Uninsured,616.0959452024674,Insulin
+oqvjhpufoqtrcqvw563,fgupvvqdtugw563,California,Married,0.37,563,Female,Asian,18.55705686138479,196.23,93.36143609,24.87,High,Former,High,Non-Diabetic,563,Insured,811.8003645464281,
+upmnlwpvgihohsjc259,edflyuurfhee259,California,Married,1.96,259,Male,Hispanic,19.75,91.87,175.79,3.56,Moderate,Former,Moderate,Diabetic,259,Uninsured,340.7877902157701,Metformin
+dwbwycvxndhhofwi233,oxsfcwxlqvmh233,California,Married,1.96,233,Male,Asian,25.653635126421914,88.32,133.36,5.35,High,Never,Moderate,Diabetic,233,Uninsured,811.8003645464281,
+yuyxlleucwhsymea821,qwsbmlnfcwbz821,California,Married,1.41,821,Male,Hispanic,19.75,91.87,130.28302095632574,20.85,Low,Never,,Diabetic,821,Insured,340.7877902157701,Insulin
+anjytdebowlzwutr197,bqlgmmayeevl197,California,Married,2.28,197,Male,Asian,26.35,196.23,93.36143609,2.135448124552057,Low,Never,,Diabetic,197,Insured,811.8003645464281,Insulin
+tgoxpecqlrpvjfbn23,iplvjgyidfoa23,California,Single,0.53,23,Male,Hispanic,25.653635126421914,186.1,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,23,Uninsured,1288.8830549174445,Metformin
+oxyalelinaeelvwm511,awbazbuhgzax511,California,Married,1.96,511,Female,Hispanic,22.69909747656427,151.66542219376322,144.11896149120247,20.85,Moderate,Current,Moderate,Diabetic,511,Uninsured,616.0959452024674,
+nkndmhkstsaduzsd809,emgaqzhusior809,California,Married,1.58,809,Female,Asian,19.75,186.1,177.08993914366752,24.55,Low,Current,Moderate,Non-Diabetic,809,Insured,650.2833484815307,Insulin
+rumgfknrsqxzzfzs859,xqxapelibyfs859,California,Single,2.18,859,Female,Black,26.35,196.23,130.28302095632574,20.85,High,Never,,Diabetic,859,Insured,1288.8830549174445,Insulin
+osajsnbezvvetnyr120,llpelpyxhgqz120,California,Single,2.21,120,Male,Black,25.653635126421914,196.23,130.28302095632574,20.85,High,Never,,Non-Diabetic,120,Insured,811.8003645464281,
+ywmmejizgvcjaqzp945,dohxnozicaxl945,California,Married,2.18,945,Male,Black,22.04502064908496,196.23,130.28302095632574,20.85,Moderate,Never,,Diabetic,945,Insured,1288.8830549174445,Insulin
+mtesutrgqcslixyw870,fqlgkhnschwb870,California,Single,0.28,870,Female,Asian,18.55705686138479,186.1,144.11896149120247,4.541990697,High,Never,Moderate,Non-Diabetic,870,Uninsured,650.2833484815307,GLP-1 agonist
+pgahbmbgomxarbgr933,esnqghvlowwq933,California,Married,1.96,933,Female,Hispanic,19.75,190.31,175.79,4.541990697,High,Current,High,Diabetic,933,Uninsured,1192.2370685089963,Metformin
+agfqjvbhoqwplojy157,dkpzhwymjceo157,California,Single,1.41,157,Female,White,33.77556181601884,151.66542219376322,175.79,2.135448124552057,Low,Former,High,Non-Diabetic,157,Uninsured,650.2833484815307,GLP-1 agonist
+gffpdztblywvcouc486,znohvooucmnb486,California,Married,0.37,486,Female,Black,25.41868995566916,148.54,93.36143609,24.55,High,Never,High,Diabetic,486,Insured,528.1553002754529,Metformin
+wowykxcgexmmweig512,zyihhdsejyzn512,California,Married,1.96,512,Female,Hispanic,26.35,190.31,144.11896149120247,4.541990697,Moderate,Current,Moderate,Non-Diabetic,512,Uninsured,650.2833484815307,
+feljjovablgpdgyf876,mnimfvuzkgzj876,California,Married,0.37,876,Male,White,19.75,91.87,118.02,24.87,Low,Former,,Diabetic,876,Uninsured,340.7877902157701,Insulin
+xeymwjfscplrntqs26,irvtziofvwde26,California,Single,2.28,26,Female,Asian,26.35,168.13971522677122,93.36143609,24.87,Moderate,Never,High,Diabetic,26,Insured,1893.432070757025,
+oisqpkeeoiedctsm640,highsalpkugi640,California,Married,2.18,640,Female,Black,26.35,196.23,130.28302095632574,20.85,High,Never,,Non-Diabetic,640,Uninsured,811.8003645464281,
+ydxpvpsyirqyuxoq471,ddbjqpmnycei471,California,Single,2.21,471,Female,Asian,32.31,91.59788160895998,130.28302095632574,20.85,Moderate,Never,High,Non-Diabetic,471,Insured,616.0959452024674,
+ebssrdfwxakmslul947,ltzhkixuwejo947,California,Married,2.28,947,Female,White,25.653635126421914,151.66542219376322,94.12763863039169,10.11686127233257,Low,Former,High,Diabetic,947,Insured,1093.2694640570294,
+jyqeqfkxkbtbziap838,jbxlcwiaglop838,California,Married,1.58,838,Male,Black,19.75,196.23,130.28302095632574,20.85,Low,Never,,Diabetic,838,Insured,811.8003645464281,Insulin
+jlxzbqyblppxwuec960,qvjbekbxfqmv960,California,Married,0.53,960,Female,Hispanic,25.653635126421914,88.32,130.28302095632574,3.56,High,Current,High,Diabetic,960,Insured,340.7877902157701,
+qzststlcnncmqbqp344,zldtqyruvijq344,California,Single,0.53,344,Female,Hispanic,19.75,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,344,Insured,1192.2370685089963,Insulin
+akfugqledovarpzz243,akyfysewvwrr243,California,Single,2.28,243,Female,White,33.77556181601884,151.66542219376322,118.02,10.11686127233257,Moderate,Former,High,Diabetic,243,Insured,650.2833484815307,
+msobzktpjiokujft569,ninvooyriblj569,California,Single,0.28,569,Female,Asian,25.653635126421914,196.23,177.08993914366752,24.87,High,Current,High,Non-Diabetic,569,Uninsured,528.1553002754529,Metformin
+lbbnggmfhlruxfdy829,zaosbzwhzbql829,California,Single,1.96,829,Male,White,22.04502064908496,196.23,133.36,10.11686127233257,Low,Never,High,Diabetic,829,Insured,650.2833484815307,Insulin
+erbyeefuutsosypi306,qqcdjytluqws306,California,Married,0.53,306,Male,Asian,19.75,148.54,94.12763863039169,3.56,Low,Former,,Diabetic,306,Insured,650.2833484815307,Insulin
+doxgepoycgkpgquy447,ukswqaqhmuua447,California,Married,0.28,447,Male,White,18.55705686138479,91.87,177.08993914366752,24.87,High,Current,High,Non-Diabetic,447,Insured,1893.432070757025,GLP-1 agonist
+ttnvfutxxzzoypxn957,ijyagsfgmhoj957,California,Married,2.21,957,Male,White,19.75,148.54,93.36143609,24.55,High,Never,High,Diabetic,957,Insured,650.2833484815307,Metformin
+oofqjwbvhiwzzcjd28,zumjiqiowwbu28,California,Married,0.37,28,Male,Asian,19.75,168.13971522677122,152.9353998166657,10.11686127233257,Low,Former,High,Diabetic,28,Insured,1893.432070757025,Metformin
+gajrjkayxcmmodem814,nqjzmxzlczts814,California,Married,1.41,814,Female,Black,19.75,196.23,133.36,20.85,High,Current,,Diabetic,814,Insured,1288.8830549174445,Insulin
+nwzksrjdvypmntze901,kgivdiwabrth901,California,Married,0.28,901,Male,Asian,19.75,196.23,118.02,24.87,High,Current,High,Diabetic,901,Uninsured,1093.2694640570294,Insulin
+djcjlmgsseinzkkk699,czfpffkjtsqm699,California,Single,2.21,699,Female,Asian,18.55705686138479,91.59788160895998,130.28302095632574,20.85,Moderate,Never,,Non-Diabetic,699,Uninsured,616.0959452024674,
+dixaodksdmrlgoob999,xxlrwzdpekcj999,California,Married,2.18,999,Male,Black,32.31,196.23,130.28302095632574,20.85,High,Never,,Non-Diabetic,999,Uninsured,811.8003645464281,
+xszwtncxsqdootcn785,parfbkzsusut785,California,Married,0.28,785,Female,Asian,19.75,196.23,94.12763863039169,24.87,Low,Current,,Diabetic,785,Uninsured,811.8003645464281,Insulin
+ohorasbawhxaxfrz675,lkghqyalnlkm675,California,Single,1.96,675,Female,Asian,19.75,190.31,144.11896149120247,4.541990697,Moderate,Current,Moderate,Non-Diabetic,675,Uninsured,1288.8830549174445,Insulin
+chhmwqcocuvfhzac410,eylpkuowwbol410,California,Married,2.28,410,Male,Hispanic,22.04502064908496,148.54,133.36,4.541990697,Moderate,Current,,Diabetic,410,Uninsured,616.0959452024674,Metformin
+udgtaopovemkantr110,ngdjtnekumhu110,California,Married,2.21,110,Female,Black,19.75,196.23,130.28302095632574,20.85,Low,Never,,Diabetic,110,Uninsured,811.8003645464281,Insulin
+zfmzvyxcvnmvebgo32,ibvzqnpupxor32,California,Single,0.53,32,Female,Asian,26.35,81.98740438709201,130.28302095632574,4.541990697,Moderate,Former,,Diabetic,32,Insured,1288.8830549174445,
+epjzmsdyzdnvgfhh657,qzaupotybavm657,California,Single,2.21,657,Male,Asian,19.75,148.54,94.12763863039169,3.56,Moderate,Current,,Diabetic,657,Uninsured,811.8003645464281,Metformin
+rqiyfyjsraebgjmc598,zhmavgwzapxg598,California,Married,2.18,598,Male,Hispanic,22.04502064908496,91.87,130.28302095632574,20.85,Moderate,Never,,Diabetic,598,Insured,340.7877902157701,Insulin
+vklfumhvitokxvlw609,zqanjcomjoel609,California,Married,2.28,609,Female,Asian,22.04502064908496,168.13971522677122,93.36143609,24.87,Low,Never,High,Diabetic,609,Uninsured,1192.2370685089963,Metformin
+mhfmytfnbbwnoeza536,wzlhzuezejkx536,California,Single,0.28,536,Male,Asian,32.31,196.23,177.08993914366752,24.87,Moderate,Current,High,Non-Diabetic,536,Uninsured,650.2833484815307,
+flvdthmhycjznjpz765,fouyseujbzdc765,California,Single,0.28,765,Male,Asian,32.31,196.23,177.08993914366752,24.87,Moderate,Current,High,Non-Diabetic,765,Uninsured,1093.2694640570294,
+cbxwfbzkfuwcsbke848,ygmqmkwwxqyb848,California,Married,1.96,848,Male,Asian,26.35,148.54,94.12763863039169,3.56,Low,Former,,Diabetic,848,Insured,811.8003645464281,Insulin
+uqmllsgctjamlsdl127,zjqzbszocegg127,California,Married,0.28,127,Female,Asian,19.75,196.23,144.11896149120247,2.135448124552057,Low,Never,,Diabetic,127,Uninsured,650.2833484815307,Insulin
+rasqsauknudfttsq77,shazqmvortpf77,California,Married,1.41,77,Female,Asian,25.41868995566916,88.32,133.36,5.35,Low,Never,Moderate,Diabetic,77,Uninsured,340.7877902157701,GLP-1 agonist
+gyahkckrbcccokmz34,ugpjzbplwyci34,California,Married,1.41,34,Male,Black,22.04502064908496,148.54,130.28302095632574,2.135448124552057,Low,Former,,Diabetic,34,Insured,811.8003645464281,Insulin
+scfrqrpsthkswkmh693,otjpyyzkirzm693,California,Married,2.28,693,Female,Hispanic,26.35,151.66542219376322,118.02,10.11686127233257,Moderate,Former,High,Diabetic,693,Insured,1181.6620256340148,
+rkrctmjeynkdceol686,muqcvaymwxpa686,California,Married,1.41,686,Female,White,18.55705686138479,151.66542219376322,95.31,24.55,High,Former,Moderate,Non-Diabetic,686,Uninsured,650.2833484815307,GLP-1 agonist
+mgyqecohkjxgfzku966,xciqpnqyftqm966,California,Married,0.2,966,Female,White,22.69909747656427,91.59788160895998,118.02,10.15,High,Never,Moderate,Diabetic,966,Insured,650.2833484815307,Metformin
+nusrfisvhafvhhgr751,gkoeubgdhvoe751,California,Married,0.37,751,Female,White,33.77556181601884,186.1,118.02,24.87,Moderate,Never,High,Non-Diabetic,751,Uninsured,1192.2370685089963,GLP-1 agonist
+zfmzvyxcvnmvebgo32,ibvzqnpupxor32,California,Single,0.53,32,Female,Asian,26.35,81.98740438709201,130.28302095632574,4.541990697,Moderate,Former,,Diabetic,32,Insured,1288.8830549174445,
+qudxndgdlxpodmvu558,huiuwxcezasu558,California,Single,0.28,558,Female,White,18.55705686138479,151.66542219376322,118.02,24.55,Low,Current,Moderate,Non-Diabetic,558,Insured,616.0959452024674,GLP-1 agonist
+wfhbfzkwufhwacvn199,bpibyhwoglkw199,California,Single,2.28,199,Male,Asian,22.04502064908496,168.13971522677122,152.9353998166657,10.11686127233257,High,Former,High,Diabetic,199,Uninsured,1288.8830549174445,Metformin
+feljjovablgpdgyf876,mnimfvuzkgzj876,California,Married,0.37,876,Male,White,19.75,91.87,118.02,24.87,Low,Former,,Diabetic,876,Uninsured,340.7877902157701,Insulin
+izxvkbyafgoprjms472,qtelbrykhfkz472,California,Married,0.37,472,Female,Asian,26.35,186.1,175.79,24.55,High,Never,Moderate,Non-Diabetic,472,Insured,340.7877902157701,
+ydxpvpsyirqyuxoq471,ddbjqpmnycei471,California,Single,2.21,471,Female,Asian,32.31,91.59788160895998,130.28302095632574,20.85,Moderate,Never,High,Non-Diabetic,471,Insured,616.0959452024674,
+dszdqedsqevdjcsp671,nbhbkdbpioxz671,California,Single,2.21,671,Female,White,19.75,91.59788160895998,93.36143609,10.15,Moderate,Never,Moderate,Diabetic,671,Uninsured,1181.6620256340148,Metformin
+edhrgvubskjeknuk421,doutydqcrcrk421,California,Single,1.96,421,Female,White,22.04502064908496,186.1,144.11896149120247,4.541990697,Moderate,Current,Moderate,Non-Diabetic,421,Uninsured,811.8003645464281,Metformin
+oohkqgonqsaacqsf269,kfvdwtpyoahu269,California,Married,0.53,269,Male,Black,26.35,151.66542219376322,177.08993914366752,18.67,Low,Never,,Diabetic,269,Insured,1093.2694640570294,
+vfitrmeqsyotpxni149,gcfftbezxcdk149,California,Married,2.18,149,Female,Asian,33.77556181601884,168.13971522677122,93.36143609,24.87,High,Never,High,Non-Diabetic,149,Uninsured,1093.2694640570294,GLP-1 agonist
+yavatgvhxoqusqiw111,czuqqpkmhkbv111,California,Married,0.37,111,Female,Black,26.35,88.32,118.02,24.87,Moderate,Former,,Non-Diabetic,111,Insured,1181.6620256340148,
+isqiksziowcylign704,cbjtgacntmnm704,California,Single,0.53,704,Female,White,19.75,91.59788160895998,93.36143609,10.15,Moderate,Never,Moderate,Diabetic,704,Uninsured,1181.6620256340148,Metformin
+zhtsnctnumjpetzk253,nzothzgirpxp253,California,Single,0.28,253,Male,White,26.35,186.1,94.12763863039169,24.87,Moderate,Current,,Non-Diabetic,253,Uninsured,1288.8830549174445,
+gcyjbjxyylqmjblo703,sglbqlzcpati703,California,Married,2.21,703,Male,Asian,22.04502064908496,148.54,94.12763863039169,3.56,Low,Never,,Diabetic,703,Uninsured,340.7877902157701,Insulin
+mrrddamhqwtwtbdb984,ulevlejrolcw984,California,Single,2.28,984,Female,Asian,22.04502064908496,186.1,118.02,24.55,High,Former,Moderate,Non-Diabetic,984,Insured,650.2833484815307,Metformin
+vklfumhvitokxvlw609,zqanjcomjoel609,California,Married,2.28,609,Female,Asian,22.04502064908496,168.13971522677122,93.36143609,24.87,Low,Never,High,Diabetic,609,Uninsured,1192.2370685089963,Metformin
+hzwvpzafvkfikwci227,pxfhnycauwyz227,California,Married,1.96,227,Female,Black,19.75,91.59788160895998,118.02,3.56,Moderate,Former,Moderate,Diabetic,227,Uninsured,1893.432070757025,Insulin
+rksilehtksneknli725,rlexbbznvqub725,California,Married,2.21,725,Female,Hispanic,32.78,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,725,Uninsured,1192.2370685089963,Insulin
+gmpprxctttjesarf528,bspkznwjophy528,California,Single,2.28,528,Male,Asian,19.75,91.59788160895998,94.12763863039169,2.135448124552057,High,Current,,Diabetic,528,Uninsured,528.1553002754529,Metformin
+gybeqccyiuithnwi348,yprgrepqrkof348,California,Married,0.53,348,Male,White,32.78,186.1,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,348,Insured,1181.6620256340148,Insulin
+bnpoxpuiiqvwcfyd337,yommnkggminr337,California,Married,1.58,337,Male,White,19.75,91.59788160895998,118.02,10.15,Moderate,Current,Moderate,Diabetic,337,Insured,1181.6620256340148,Metformin
+rxgobihezazbsoaj205,htuxskixuuig205,California,Single,1.96,205,Female,White,19.75,168.13971522677122,133.36,20.85,Low,Current,,Diabetic,205,Uninsured,1093.2694640570294,Metformin
+gyksocarvlzypiqa796,neytewonpjos796,California,Married,0.53,796,Male,White,19.75,81.98740438709201,175.79,4.541990697,Moderate,Former,High,Diabetic,796,Uninsured,811.8003645464281,Metformin
+zvbjcmzwigxltref529,kszjxghkjcsb529,California,Married,0.37,529,Male,Black,33.77556181601884,151.66542219376322,130.28302095632574,3.56,Low,Never,,Diabetic,529,Insured,1093.2694640570294,
+colswujgixeyysoa963,yczopmqagdri963,California,Single,0.2,963,Female,Hispanic,19.75,91.87,118.02,20.85,High,Never,,Diabetic,963,Uninsured,1192.2370685089963,Insulin
+gvkxxsybafhzzfzm596,ycbxkixbumpu596,California,Single,0.2,596,Female,Hispanic,22.04502064908496,91.87,130.28302095632574,20.85,High,Never,,Diabetic,596,Uninsured,1192.2370685089963,Insulin
+bwlsagssntdbhxmh116,mfuafodbbwrh116,California,Married,1.96,116,Female,Asian,22.04502064908496,190.31,144.11896149120247,4.541990697,Low,Current,Moderate,Non-Diabetic,116,Uninsured,1893.432070757025,Metformin
+wrrorcdphvlhuriu374,oqgqbgwrebhx374,California,Single,2.28,374,Female,White,22.04502064908496,196.23,152.9353998166657,10.11686127233257,Low,Former,High,Diabetic,374,Uninsured,650.2833484815307,Insulin
+nfyufckhgyegkczs763,yqotjrknipyw763,California,Single,1.96,763,Male,Asian,25.41868995566916,148.54,177.08993914366752,3.56,Moderate,Former,,Diabetic,763,Uninsured,811.8003645464281,Metformin
+oorvnoctpsxbkifz176,mrcedswyqiyc176,California,Married,0.28,176,Male,Asian,19.75,91.59788160895998,94.12763863039169,2.135448124552057,High,Current,,Diabetic,176,Uninsured,528.1553002754529,Metformin
+pbsnisnesaynynyf710,jiipclkeqabv710,California,Married,2.21,710,Male,Black,33.77556181601884,168.13971522677122,152.9353998166657,10.11686127233257,Moderate,Former,High,Diabetic,710,Uninsured,1192.2370685089963,GLP-1 agonist
+txsoyicnblqzjbpa696,dsjktvhtzofk696,California,Single,2.28,696,Female,Asian,22.04502064908496,91.59788160895998,144.11896149120247,2.135448124552057,Moderate,Never,,Diabetic,696,Uninsured,616.0959452024674,Metformin
+mkdnijvkcxsugufa90,suotsrrzrgzf90,California,Single,2.28,90,Female,Asian,25.653635126421914,81.98740438709201,133.36,4.541990697,Moderate,Never,High,Diabetic,90,Insured,616.0959452024674,
+yifndfuvnfacunwa161,avtawcfvsmxn161,California,Married,0.28,161,Male,Black,19.75,91.87,130.28302095632574,24.87,High,Current,,Diabetic,161,Uninsured,528.1553002754529,Metformin
+epggedonpbzxwprv264,xtfmbvrpbekx264,California,Single,1.96,264,Female,Black,26.35,148.54,175.79,24.55,High,Never,Moderate,Non-Diabetic,264,Uninsured,528.1553002754529,Metformin
+zedxendcueunaihb979,twlfcpqqjupt979,California,Single,2.28,979,Female,Asian,26.35,186.1,118.02,24.55,Moderate,Current,Moderate,Non-Diabetic,979,Insured,650.2833484815307,
+wmokdfrhfbvrvitr825,lpltxdfpiwfa825,California,Married,1.58,825,Male,Hispanic,18.55705686138479,190.31,144.11896149120247,4.541990697,Moderate,Never,Moderate,Non-Diabetic,825,Uninsured,616.0959452024674,
+nyqdglpppifsrwbn310,djoysawznbwp310,California,Married,0.28,310,Female,White,32.31,186.1,177.08993914366752,24.87,Moderate,Current,High,Non-Diabetic,310,Uninsured,616.0959452024674,Metformin
+srmtyxwaorrtzeja906,sfcgaqpjaxrh906,California,Married,1.96,906,Male,Asian,19.75,148.54,94.12763863039169,3.56,Low,Former,,Diabetic,906,Uninsured,650.2833484815307,Metformin
+myvpeyjeqqoejolx467,cmzfaulfrrbb467,California,Married,2.18,467,Male,Black,22.04502064908496,196.23,130.28302095632574,20.85,Low,Never,,Diabetic,467,Insured,811.8003645464281,Insulin
+crgazeawxkgadeba485,wdchsqwnehoc485,California,Single,1.41,485,Male,Asian,25.653635126421914,186.1,177.08993914366752,5.35,High,Current,,Non-Diabetic,485,Insured,650.2833484815307,Metformin
+zroqbshwmukabmnt175,gnbocjrvesgg175,California,Single,2.21,175,Male,Asian,19.75,168.13971522677122,118.02,10.11686127233257,Moderate,Former,High,Diabetic,175,Insured,616.0959452024674,Metformin
+deambqqeeavskvsl676,rwkxuqdltmed676,California,Married,2.21,676,Female,White,18.55705686138479,81.98740438709201,144.11896149120247,10.15,High,Never,,Non-Diabetic,676,Uninsured,340.7877902157701,GLP-1 agonist
+wohltrieybquogrc650,ajwjklrxbewu650,California,Married,1.96,650,Male,Black,22.04502064908496,168.13971522677122,152.9353998166657,3.56,Low,Former,,Diabetic,650,Uninsured,340.7877902157701,Insulin
+qgklwcmfpywsadlc167,czbculngspyz167,California,Married,1.96,167,Female,Hispanic,25.653635126421914,186.1,94.12763863039169,5.35,Moderate,Never,Moderate,Diabetic,167,Uninsured,1288.8830549174445,
+lbvpyhppjxaqvwcl221,lfoyfsyxtbgj221,California,Married,0.37,221,Female,Black,22.04502064908496,190.31,118.02,24.55,Moderate,Never,Moderate,Non-Diabetic,221,Insured,1181.6620256340148,Metformin
+jluomstkwhohwlgl559,snwqunogywdq559,California,Married,2.21,559,Male,Black,32.31,148.54,175.79,24.55,Moderate,Never,Moderate,Non-Diabetic,559,Insured,811.8003645464281,Metformin
+dgfowauvepgvooxn399,wlaokuzumkqx399,California,Married,2.21,399,Female,Black,25.41868995566916,168.13971522677122,94.12763863039169,3.56,Moderate,Current,,Diabetic,399,Insured,340.7877902157701,Metformin
+wgarefipwrsqnybq422,oydqdkrxgpff422,California,Married,1.58,422,Female,Black,19.75,190.31,94.12763863039169,24.55,Moderate,Current,High,Diabetic,422,Insured,811.8003645464281,Metformin
+ilggcxqycxkkvfjs74,sgiegcdoxbtx74,California,Single,1.58,74,Female,Asian,33.77556181601884,168.13971522677122,118.02,24.87,Moderate,Never,High,Non-Diabetic,74,Insured,811.8003645464281,GLP-1 agonist
+ckumcwtcxbxcvnxt625,bltxpaezhoyp625,California,Single,1.96,625,Male,Asian,18.55705686138479,186.1,144.11896149120247,4.541990697,Moderate,Current,Moderate,Non-Diabetic,625,Uninsured,650.2833484815307,
+hwrhcuzqmpqwxvke492,ttvzpuvosspm492,California,Married,2.18,492,Female,Asian,18.55705686138479,168.13971522677122,93.36143609,24.87,High,Never,High,Non-Diabetic,492,Uninsured,1893.432070757025,GLP-1 agonist
+zpykxubhgvczomhk801,cpnxuqjumgak801,California,Married,2.21,801,Female,White,18.55705686138479,168.13971522677122,130.28302095632574,20.85,High,Never,High,Non-Diabetic,801,Uninsured,1893.432070757025,GLP-1 agonist
+nwzksrjdvypmntze901,kgivdiwabrth901,California,Married,0.28,901,Male,Asian,19.75,196.23,118.02,24.87,High,Current,High,Diabetic,901,Uninsured,1093.2694640570294,Insulin
+mmmbnmbehjdfsucp867,pgylvclvseht867,California,Married,0.37,867,Female,Asian,22.04502064908496,148.54,130.28302095632574,3.56,Low,Never,,Diabetic,867,Insured,650.2833484815307,Metformin
+gqzudptyqzmbudtc754,jlcbkncygpol754,California,Single,0.53,754,Male,Hispanic,26.35,88.32,118.02,10.15,High,Former,Moderate,Diabetic,754,Insured,1192.2370685089963,
+mmpoitbomtpcqteo155,eitqczzmwpmr155,California,Single,0.28,155,Male,Asian,32.31,196.23,118.02,24.87,Moderate,Current,High,Non-Diabetic,155,Uninsured,528.1553002754529,
+cggzpkhudkexaews759,frqktpueswyc759,California,Married,1.41,759,Female,White,22.04502064908496,196.23,95.31,2.135448124552057,High,Former,,Diabetic,759,Insured,528.1553002754529,Insulin
+asfujuhhhogipgfg429,lwiduzlnbgre429,California,Single,0.53,429,Female,Asian,22.04502064908496,190.31,130.28302095632574,3.56,High,Current,High,Diabetic,429,Uninsured,1288.8830549174445,Metformin
+chajaztthuwpsqeg702,vqcwrytbeuwj702,California,Married,1.96,702,Male,Black,19.75,168.13971522677122,94.12763863039169,3.56,High,Former,,Diabetic,702,Uninsured,1192.2370685089963,Insulin
+vtbmhpotienijsuy432,wmexdvxslsoe432,California,Single,1.96,432,Male,Asian,19.75,148.54,94.12763863039169,3.56,Moderate,Never,,Diabetic,432,Uninsured,340.7877902157701,Metformin
+mqxlzikbzwbxnvgd502,xuirbupgkuqa502,California,Married,1.96,502,Male,Hispanic,22.04502064908496,151.66542219376322,95.31,10.11686127233257,Low,Never,High,Diabetic,502,Uninsured,340.7877902157701,Insulin
+moxjijnkigetoiyh380,uchpfycevewb380,California,Married,2.28,380,Male,Asian,18.55705686138479,91.59788160895998,177.08993914366752,2.135448124552057,High,Current,High,Non-Diabetic,380,Insured,528.1553002754529,
+noijoechrguhqukz200,thjrhcudfhgp200,California,Married,2.21,200,Female,Hispanic,22.69909747656427,151.66542219376322,118.02,10.11686127233257,High,Former,High,Diabetic,200,Uninsured,340.7877902157701,
+fpmnxgphmsfzsipt670,jgosixdgdgbv670,California,Single,1.41,670,Female,White,19.75,91.59788160895998,130.28302095632574,10.15,Moderate,Former,Moderate,Diabetic,670,Insured,1181.6620256340148,Metformin
+quuxrsjcdbfdttms376,zpmulnnroafx376,California,Married,0.53,376,Female,Hispanic,22.04502064908496,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,376,Uninsured,1192.2370685089963,Metformin
+coaduvlpllfypcnl628,kxwwcatsaiks628,California,Single,2.18,628,Male,White,19.75,168.13971522677122,133.36,10.11686127233257,Low,Former,High,Diabetic,628,Uninsured,1093.2694640570294,Metformin
+wmnzataxmoudzhav599,cudbcjfemrxw599,California,Married,1.96,599,Female,Black,18.55705686138479,148.54,175.79,24.55,High,Never,Moderate,Non-Diabetic,599,Insured,650.2833484815307,GLP-1 agonist
+smqjcxazzemmsshk582,fgxkebmvitpl582,California,Single,2.18,582,Female,White,22.69909747656427,88.32,130.28302095632574,20.85,Moderate,Never,,Diabetic,582,Uninsured,1893.432070757025,
+sgjsylrsofbujgwe242,lhnrhkpcctos242,California,Married,1.96,242,Male,Hispanic,22.04502064908496,91.87,177.08993914366752,3.56,High,Former,Moderate,Diabetic,242,Uninsured,1192.2370685089963,Insulin
+swszfoyfsjpdnkld119,wjexnimbnfug119,California,Single,0.37,119,Female,Asian,26.35,186.1,118.02,24.55,Moderate,Never,Moderate,Non-Diabetic,119,Insured,340.7877902157701,Metformin
+dulmatlhiinprkqs645,iyhylwcyjdgk645,California,Married,2.21,645,Female,White,19.75,91.59788160895998,93.36143609,10.15,Moderate,Never,Moderate,Diabetic,645,Uninsured,1181.6620256340148,Metformin
+iulteijhqvupltlm606,xtqisqbvzqac606,California,Single,1.96,606,Female,Hispanic,19.75,91.87,175.79,3.56,Low,Former,Moderate,Diabetic,606,Uninsured,340.7877902157701,Insulin
+wvymqmctnltgbuqa893,aqoyoqgrtoat893,California,Married,0.37,893,Female,Black,26.35,190.31,118.02,24.55,Low,Never,Moderate,Non-Diabetic,893,Insured,1093.2694640570294,Metformin
+wlixmurhxdfxqnhj18,hkkgbrrmlwzn18,California,Single,0.2,18,Female,Asian,18.55705686138479,190.31,144.11896149120247,4.541990697,Moderate,Current,Moderate,Non-Diabetic,18,Uninsured,616.0959452024674,
+kccxgicjcqrtrnqe89,ijkuxaigymzu89,California,Single,2.18,89,Female,Asian,32.31,91.59788160895998,130.28302095632574,20.85,High,Never,,Non-Diabetic,89,Uninsured,340.7877902157701,
+scfrqrpsthkswkmh693,otjpyyzkirzm693,California,Married,2.28,693,Female,Hispanic,26.35,151.66542219376322,118.02,10.11686127233257,Moderate,Former,High,Diabetic,693,Insured,1181.6620256340148,
+edspwubccdfvnmkl345,gqbmovqvsncd345,California,Married,0.37,345,Female,Black,19.75,190.31,175.79,24.55,Low,Never,High,Diabetic,345,Insured,1093.2694640570294,Metformin
+whidcodrxouuseue729,hfimuydlrxei729,California,Married,2.28,729,Female,White,19.75,91.87,93.36143609,24.87,Low,Former,High,Diabetic,729,Uninsured,1893.432070757025,Metformin
+gkvteywogeninlrw186,qrgkhkzebqut186,California,Single,1.96,186,Female,Hispanic,18.55705686138479,190.31,144.11896149120247,4.541990697,Low,Current,Moderate,Non-Diabetic,186,Uninsured,340.7877902157701,Insulin
+inxsqwdhlryuwjkv719,qxluyxkalpgo719,California,Married,0.37,719,Female,Asian,19.75,186.1,175.79,24.55,Low,Never,Moderate,Non-Diabetic,719,Insured,650.2833484815307,Insulin
+gimppwkxdtcyjzug668,kbyujiqnipoa668,California,Married,0.28,668,Female,Black,19.75,190.31,177.08993914366752,24.87,High,Current,High,Non-Diabetic,668,Uninsured,1093.2694640570294,Insulin
+swyvjbamaeewpgsc468,htkhlcdmkocd468,California,Married,1.96,468,Female,Asian,18.55705686138479,186.1,175.79,24.55,High,Never,Moderate,Non-Diabetic,468,Insured,650.2833484815307,GLP-1 agonist
+luvwcowfphzbwcej539,ibvqrgjnrjfb539,California,Married,2.21,539,Female,Hispanic,19.75,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,539,Uninsured,1192.2370685089963,Insulin
+fscvhckzcigzlnor78,irgncfyvcimf78,California,Married,1.96,78,Male,Asian,22.04502064908496,148.54,152.9353998166657,3.56,High,Former,,Diabetic,78,Uninsured,650.2833484815307,Metformin
+xfsbgzccswjfjhzu626,ycckyqcevnlf626,California,Single,0.53,626,Female,Hispanic,18.55705686138479,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,626,Insured,1192.2370685089963,
+muvoylfqsjnmwedj236,pfwdgqvqtakv236,California,Married,1.96,236,Female,Black,22.69909747656427,88.32,177.08993914366752,20.85,High,Current,Moderate,Diabetic,236,Uninsured,340.7877902157701,
+zzjicpwbefyffthk387,rpponvmsbnkz387,California,Married,1.96,387,Male,Hispanic,22.69909747656427,88.32,175.79,3.56,Moderate,Former,High,Diabetic,387,Uninsured,616.0959452024674,
+mgyqecohkjxgfzku966,xciqpnqyftqm966,California,Married,0.2,966,Female,White,22.69909747656427,91.59788160895998,118.02,10.15,High,Never,Moderate,Diabetic,966,Insured,650.2833484815307,Metformin
+iowcmpamplmrrabo62,jhfiatsxojiz62,California,Married,0.2,62,Female,Hispanic,18.55705686138479,186.1,118.02,24.55,High,Current,Moderate,Non-Diabetic,62,Insured,1093.2694640570294,GLP-1 agonist
+wbetnwocxqbdsqbx786,wlyhviufzznu786,California,Married,0.37,786,Female,Black,19.75,168.13971522677122,152.9353998166657,3.56,Moderate,Never,,Diabetic,786,Insured,1181.6620256340148,Metformin
+oqvjhpufoqtrcqvw563,fgupvvqdtugw563,California,Married,0.37,563,Female,Asian,18.55705686138479,196.23,93.36143609,24.87,High,Former,High,Non-Diabetic,563,Insured,811.8003645464281,
+fqwvnwqyghmwuzxx613,tsirbgjhdcwo613,California,Married,1.58,613,Female,Asian,19.75,91.59788160895998,130.28302095632574,20.85,High,Never,,Diabetic,613,Insured,1181.6620256340148,Insulin
+vhsdjacebgjnbygc48,selckjucexfo48,California,Married,2.21,48,Female,Black,22.04502064908496,168.13971522677122,94.12763863039169,3.56,Low,Current,,Diabetic,48,Insured,1192.2370685089963,Metformin
+scndtsksizemrvtw6,tygnlaxemqdv6,California,Single,2.28,6,Male,Black,22.04502064908496,148.54,118.02,2.135448124552057,High,Former,,Diabetic,6,Uninsured,528.1553002754529,Insulin
+hdxvczbjztpkqlzl216,tcdckvsnzhgy216,California,Single,0.28,216,Male,White,22.04502064908496,81.98740438709201,133.36,4.541990697,Moderate,Former,High,Diabetic,216,Uninsured,811.8003645464281,Metformin
+jollervgaxfepggu584,krqkdfxjppof584,California,Single,0.28,584,Male,Hispanic,18.55705686138479,91.87,177.08993914366752,24.87,High,Current,High,Non-Diabetic,584,Insured,340.7877902157701,GLP-1 agonist
+qikkvqwmzjtkhbvk958,htkijeqgmhlg958,California,Single,1.96,958,Female,Asian,32.31,190.31,144.11896149120247,4.541990697,Moderate,Current,Moderate,Non-Diabetic,958,Uninsured,616.0959452024674,
+vvdcbqznhecjmlse298,cyxajdmwjxwm298,California,Married,2.28,298,Female,Asian,32.78,186.1,175.79,24.55,Low,Never,Moderate,Non-Diabetic,298,Uninsured,650.2833484815307,Insulin
+uarepgqxmuoqbddu409,kqdvnuxlxteq409,California,Single,2.28,409,Male,Hispanic,19.75,168.13971522677122,152.9353998166657,10.11686127233257,Low,Former,High,Diabetic,409,Uninsured,1893.432070757025,Metformin
+czvlyfhqztdcftns99,uodlmxqgzihq99,California,Single,0.53,99,Male,Asian,19.75,186.1,94.12763863039169,3.56,High,Current,,Diabetic,99,Uninsured,650.2833484815307,GLP-1 agonist
+xtcxyzdnooabdcel491,dqloaxwbdquq491,California,Married,2.28,491,Male,Black,19.75,91.87,118.02,24.55,High,Former,Moderate,Non-Diabetic,491,Insured,528.1553002754529,Insulin
+ormjzuvokralxasd232,jpgsklgtxdlo232,California,Married,0.53,232,Female,Black,19.75,91.59788160895998,175.79,3.56,Low,Former,Moderate,Diabetic,232,Uninsured,650.2833484815307,Metformin
+echfobfjxryzzurm864,sjpsekhpkygo864,California,Single,1.96,864,Female,Hispanic,19.75,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,864,Insured,1192.2370685089963,Insulin
+cmrxispcdfjhsyfb921,xnfyibdqsuhm921,California,Single,2.18,921,Female,Hispanic,22.04502064908496,91.87,130.28302095632574,20.85,Low,Never,,Diabetic,921,Insured,340.7877902157701,Insulin
+etxxqhunwrfdhdyu871,luxrvozyozbn871,California,Married,2.21,871,Male,Black,22.04502064908496,196.23,130.28302095632574,20.85,Low,Never,High,Diabetic,871,Insured,811.8003645464281,Insulin
+shtkkgbqjrrqndgr180,sgvqsmrwbzws180,California,Married,1.58,180,Female,Asian,19.75,168.13971522677122,130.28302095632574,20.85,Low,Never,High,Diabetic,180,Insured,1192.2370685089963,Metformin
+dxcdfbtjagvmdhge552,ovbeqeoncgcx552,California,Married,2.28,552,Male,Black,19.75,148.54,144.11896149120247,2.135448124552057,High,Never,,Diabetic,552,Uninsured,528.1553002754529,Metformin
+qlncyhbijdsscjlb911,ithiuxadfjfj911,California,Married,2.18,911,Female,Hispanic,22.04502064908496,91.87,130.28302095632574,20.85,Low,Never,,Diabetic,911,Insured,340.7877902157701,Insulin
+twpmwflfgupaqcex981,mesuigixezjc981,California,Single,2.21,981,Female,Hispanic,19.75,190.31,144.11896149120247,4.541990697,Low,Current,Moderate,Non-Diabetic,981,Uninsured,340.7877902157701,Insulin
+nubsmbjwczmvgecf953,xhhxayfqkmre953,California,Single,2.18,953,Female,Hispanic,19.75,91.87,130.28302095632574,20.85,Low,Never,,Diabetic,953,Uninsured,1192.2370685089963,Metformin
+gsbsmcswrjouwpdq653,cxhapeakhaob653,California,Married,0.28,653,Male,Hispanic,19.75,190.31,175.79,4.541990697,Low,Never,High,Diabetic,653,Uninsured,1192.2370685089963,Metformin
+dtvvkredsrkwvepf377,ffexojrocttl377,California,Single,1.41,377,Male,Hispanic,32.31,186.1,118.02,5.35,Low,Current,,Non-Diabetic,377,Insured,1893.432070757025,Metformin
+jtlcdmshbzhoahbk806,pucqvmaqzysi806,California,Married,2.21,806,Female,White,33.77556181601884,81.98740438709201,94.12763863039169,10.15,Moderate,Never,,Non-Diabetic,806,Uninsured,811.8003645464281,GLP-1 agonist
+rfojxmllpavqcjmi300,ldzprgqtaiqi300,California,Married,0.53,300,Male,Asian,22.04502064908496,196.23,93.36143609,24.87,High,Never,High,Non-Diabetic,300,Uninsured,1093.2694640570294,Metformin
+whbzhggizdinoshs22,odstvncsgihw22,California,Married,2.28,22,Male,Hispanic,19.75,196.23,93.36143609,2.135448124552057,Moderate,Never,,Diabetic,22,Uninsured,1893.432070757025,Insulin
+mrhmifffzqpzbghh541,ujnbgicmxous541,California,Single,2.28,541,Female,White,18.55705686138479,196.23,118.02,24.87,Low,Never,High,Non-Diabetic,541,Insured,528.1553002754529,
+eibgrdpezhsvzdps278,dyewtnexiuso278,California,Single,0.2,278,Male,White,26.35,148.54,118.02,24.55,Low,Current,Moderate,Non-Diabetic,278,Insured,1093.2694640570294,Metformin
+colswujgixeyysoa963,yczopmqagdri963,California,Single,0.2,963,Female,Hispanic,19.75,91.87,118.02,20.85,High,Never,,Diabetic,963,Uninsured,1192.2370685089963,Insulin
+uuuysdjyguiptzvc592,txvkrwkdlcrm592,California,Married,1.58,592,Male,Black,25.653635126421914,196.23,130.28302095632574,20.85,High,Never,,Non-Diabetic,592,Uninsured,811.8003645464281,
+bdmyejteixkcgukg594,amdlamnzittq594,California,Married,0.53,594,Male,White,19.75,91.59788160895998,94.12763863039169,10.15,High,Current,Moderate,Diabetic,594,Uninsured,650.2833484815307,Metformin
+gfjamrfqktqabqtb986,ljnciazlaefq986,California,Married,1.58,986,Female,Hispanic,33.77556181601884,91.87,130.28302095632574,20.85,Moderate,Never,,Non-Diabetic,986,Insured,1192.2370685089963,GLP-1 agonist
+zjcjyqhqscpegihk644,adlhyqvahhfq644,California,Married,0.53,644,Female,Black,33.77556181601884,88.32,118.02,24.87,Low,Never,,Diabetic,644,Uninsured,650.2833484815307,GLP-1 agonist
+hcammkqgzbqfscns131,bvtamsvchkzg131,California,Married,0.53,131,Male,Hispanic,22.04502064908496,91.87,118.02,3.56,Moderate,Former,Moderate,Diabetic,131,Insured,340.7877902157701,Insulin
+qozwouzdwvrrwflf445,cgeadftskqum445,California,Single,1.96,445,Female,Hispanic,26.35,91.87,144.11896149120247,3.56,High,Former,High,Diabetic,445,Insured,1093.2694640570294,Insulin
+pabecabkblprccmk660,ecgwbnrzcbuh660,California,Married,2.21,660,Female,Black,19.75,196.23,130.28302095632574,20.85,High,Never,,Diabetic,660,Insured,1288.8830549174445,Insulin
+zzjicpwbefyffthk387,rpponvmsbnkz387,California,Married,1.96,387,Male,Hispanic,22.69909747656427,88.32,175.79,3.56,Moderate,Former,High,Diabetic,387,Uninsured,616.0959452024674,
+rmcshvbpgpkjiwyn795,dvcmxgcuzrzn795,California,Married,0.28,795,Male,Hispanic,19.75,190.31,144.11896149120247,4.541990697,High,Never,Moderate,Non-Diabetic,795,Uninsured,1192.2370685089963,Insulin
+vrzclxbuwmpxdfyj412,ehigvhpgzuro412,California,Married,0.53,412,Male,Asian,22.04502064908496,148.54,94.12763863039169,3.56,Low,Current,,Diabetic,412,Insured,1093.2694640570294,Insulin
+dtyxxchiesaxkunt941,sbxlvyjuexbk941,California,Married,0.37,941,Female,Asian,22.04502064908496,148.54,94.12763863039169,3.56,Low,Never,,Diabetic,941,Insured,650.2833484815307,Insulin
+jollervgaxfepggu584,krqkdfxjppof584,California,Single,0.28,584,Male,Hispanic,18.55705686138479,91.87,177.08993914366752,24.87,High,Current,High,Non-Diabetic,584,Insured,340.7877902157701,GLP-1 agonist
+yuyxlleucwhsymea821,qwsbmlnfcwbz821,California,Married,1.41,821,Male,Hispanic,19.75,91.87,130.28302095632574,20.85,Low,Never,,Diabetic,821,Insured,340.7877902157701,Insulin
+kbkvsdczgiwdekpr341,ysofjrequxtp341,California,Married,0.37,341,Male,Asian,19.75,196.23,118.02,24.87,Low,Former,,Diabetic,341,Uninsured,811.8003645464281,Insulin
+zkcbjornnsesvwpx649,ptjlhdwgooqp649,California,Married,0.2,649,Male,Hispanic,22.04502064908496,148.54,95.31,20.85,Moderate,Former,High,Diabetic,649,Insured,616.0959452024674,Metformin
+iigjjvjdqfdidrvg276,izlylqgdmthz276,California,Married,1.58,276,Female,Black,19.75,190.31,93.36143609,24.87,Low,Never,High,Non-Diabetic,276,Insured,1093.2694640570294,Insulin
+balrhzlflleahebn849,fwejplikeenf849,California,Married,2.21,849,Female,Asian,25.41868995566916,88.32,93.36143609,10.15,Low,Never,Moderate,Diabetic,849,Uninsured,1192.2370685089963,GLP-1 agonist
+ifposradnzlhbfss140,papuotacpwpm140,California,Married,1.58,140,Male,Hispanic,22.04502064908496,148.54,144.11896149120247,20.85,Moderate,Never,High,Non-Diabetic,140,Insured,616.0959452024674,Metformin
+luxapudadmxbghtr70,gyoykjoetrjs70,California,Married,0.37,70,Female,Black,25.653635126421914,148.54,175.79,24.55,Moderate,Never,Moderate,Non-Diabetic,70,Insured,811.8003645464281,Metformin
+rleyfjwgulibzije473,goozvmawkvdv473,California,Married,1.96,473,Male,Black,32.31,190.31,175.79,24.55,Moderate,Never,Moderate,Non-Diabetic,473,Uninsured,1093.2694640570294,
+lvfdpkggdgvnnxri436,tzscrtvuutcw436,California,Married,1.58,436,Male,Hispanic,32.78,190.31,144.11896149120247,4.541990697,Low,Never,Moderate,Non-Diabetic,436,Insured,340.7877902157701,Insulin
+hmnqlsfszxhtwqpo924,qaulgoysagwn924,California,Married,0.53,924,Female,Hispanic,26.35,190.31,144.11896149120247,4.541990697,Moderate,Current,Moderate,Non-Diabetic,924,Insured,528.1553002754529,
+mehzovmswqolflbp504,jijsvjgewaqa504,California,Married,1.58,504,Female,Hispanic,19.75,148.54,95.31,4.541990697,Moderate,Never,,Diabetic,504,Insured,616.0959452024674,Metformin
+wjcticomsefdfcba328,alcmttzhagwr328,California,Married,1.96,328,Female,Asian,26.35,186.1,175.79,3.56,High,Former,Moderate,Diabetic,328,Uninsured,340.7877902157701,
+wlixmurhxdfxqnhj18,hkkgbrrmlwzn18,California,Single,0.2,18,Female,Asian,18.55705686138479,190.31,144.11896149120247,4.541990697,Moderate,Current,Moderate,Non-Diabetic,18,Uninsured,616.0959452024674,
+limyopgvkxhqejvo820,ehclkwvywfbv820,California,Married,1.96,820,Male,White,32.78,186.1,144.11896149120247,4.541990697,Moderate,Current,,Diabetic,820,Uninsured,1192.2370685089963,
+gyksocarvlzypiqa796,neytewonpjos796,California,Married,0.53,796,Male,White,19.75,81.98740438709201,175.79,4.541990697,Moderate,Former,High,Diabetic,796,Uninsured,811.8003645464281,Metformin
+zfzclfzshjctnwtd457,wligawbioqos457,California,Single,0.53,457,Male,Hispanic,22.04502064908496,91.87,175.79,3.56,Low,Former,Moderate,Diabetic,457,Insured,1093.2694640570294,Insulin
+ivdqliqnuqvxikyb882,thigsvfnehpx882,California,Single,2.28,882,Male,White,32.31,196.23,175.79,2.135448124552057,Moderate,Current,High,Non-Diabetic,882,Insured,650.2833484815307,
+saozdrkmkfomqpwj357,ijhxismijhsk357,California,Married,0.28,357,Female,Asian,19.75,91.87,152.9353998166657,24.55,Low,Former,High,Diabetic,357,Uninsured,811.8003645464281,Insulin
+npnrflbdzqqmplip720,phavdxsclirz720,California,Single,2.21,720,Female,Hispanic,22.04502064908496,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,720,Insured,528.1553002754529,Metformin
+gwsoqykqmpdwjjxi93,hxpsgjegthzq93,California,Married,0.2,93,Female,Hispanic,19.75,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,93,Uninsured,1192.2370685089963,Insulin
+hopqwgtzgczjrtup309,oqlujwdvwxoa309,California,Single,2.18,309,Female,Asian,26.35,186.1,94.12763863039169,3.56,Moderate,Never,,Diabetic,309,Uninsured,650.2833484815307,
+mgyepiajniummxfk707,gjplyojpluwm707,California,Single,0.53,707,Male,Asian,19.75,81.98740438709201,175.79,4.541990697,Moderate,Former,High,Diabetic,707,Uninsured,1181.6620256340148,Metformin
+vljoszwmshbuccwp9,aieizdnpnfsi9,California,Single,2.28,9,Female,Asian,19.75,81.98740438709201,118.02,4.541990697,Moderate,Never,High,Diabetic,9,Uninsured,1181.6620256340148,Metformin
+wtwkhutntsajbefl718,dcsvplmiyxpv718,California,Married,2.28,718,Female,Hispanic,25.41868995566916,168.13971522677122,94.12763863039169,10.11686127233257,Low,Never,High,Diabetic,718,Insured,1192.2370685089963,GLP-1 agonist
+unvcdrnryetxffok263,cmdqjxetnxvm263,California,Married,2.28,263,Female,Hispanic,33.77556181601884,91.87,130.28302095632574,20.85,High,Never,,Non-Diabetic,263,Insured,340.7877902157701,GLP-1 agonist
+dnetjlhosffiueoq900,excsfmvmvsqy900,California,Married,0.28,900,Female,Asian,18.55705686138479,196.23,177.08993914366752,24.87,High,Current,High,Non-Diabetic,900,Uninsured,650.2833484815307,
+jtlcdmshbzhoahbk806,pucqvmaqzysi806,California,Married,2.21,806,Female,White,33.77556181601884,81.98740438709201,94.12763863039169,10.15,Moderate,Never,,Non-Diabetic,806,Uninsured,811.8003645464281,GLP-1 agonist
+bdfbdiddcgpyygbb980,elamsuugfknn980,California,Married,1.58,980,Male,Asian,18.55705686138479,196.23,93.36143609,24.87,High,Never,High,Non-Diabetic,980,Uninsured,811.8003645464281,
+jqokklsntatqfypi323,pcorfnfqgnne323,California,Married,0.28,323,Male,Hispanic,26.35,81.98740438709201,118.02,4.541990697,High,Never,High,Diabetic,323,Uninsured,811.8003645464281,
+lwxcjziinzkhzzge257,noawvdkqrvcq257,California,Single,2.21,257,Male,White,22.04502064908496,148.54,144.11896149120247,4.541990697,Low,Current,Moderate,Non-Diabetic,257,Uninsured,650.2833484815307,Metformin
+colswujgixeyysoa963,yczopmqagdri963,California,Single,0.2,963,Female,Hispanic,19.75,91.87,118.02,20.85,High,Never,,Diabetic,963,Uninsured,1192.2370685089963,Insulin
+gzpuivddenuclmfi17,eaznnxdrkgkw17,California,Married,0.2,17,Female,Black,18.55705686138479,190.31,118.02,24.55,High,Current,Moderate,Non-Diabetic,17,Uninsured,1192.2370685089963,
+ulfgbzjdibnsprly248,uvnfgjfwohgx248,California,Single,2.28,248,Female,White,25.653635126421914,151.66542219376322,118.02,10.11686127233257,Low,Former,High,Diabetic,248,Insured,1093.2694640570294,
+luvwcowfphzbwcej539,ibvqrgjnrjfb539,California,Married,2.21,539,Female,Hispanic,19.75,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,539,Uninsured,1192.2370685089963,Insulin
+fearytqiqnhupdez730,kcaysepmgwus730,California,Single,1.96,730,Female,Hispanic,25.41868995566916,168.13971522677122,94.12763863039169,10.11686127233257,Low,Never,High,Diabetic,730,Insured,1192.2370685089963,GLP-1 agonist
+prjztlgsbtwvnmyr866,qndqgagatzsb866,California,Single,1.41,866,Female,Asian,25.653635126421914,88.32,130.28302095632574,5.35,High,Current,Moderate,Diabetic,866,Insured,340.7877902157701,
+ghknggftslnrzqfo65,jwzawyeprjum65,California,Married,0.28,65,Male,Black,19.75,91.87,177.08993914366752,24.87,High,Current,High,Diabetic,65,Uninsured,528.1553002754529,Insulin
+xikjztftamjaxceq629,ycsupoxovxtv629,California,Single,0.53,629,Male,Asian,19.75,81.98740438709201,130.28302095632574,4.541990697,Moderate,Former,,Diabetic,629,Uninsured,811.8003645464281,GLP-1 agonist
+svxctbwqjkuhqxxi631,ggjgcmlbwjer631,California,Single,1.96,631,Female,Asian,25.41868995566916,88.32,133.36,5.35,Moderate,Never,Moderate,Diabetic,631,Insured,811.8003645464281,GLP-1 agonist
+kcmspfxbheoiicyh88,bxfsddxmlecz88,California,Married,2.18,88,Female,Asian,18.55705686138479,168.13971522677122,93.36143609,24.87,High,Never,High,Non-Diabetic,88,Uninsured,1181.6620256340148,GLP-1 agonist
+ryatoiyzqmwodlhy509,exuucyprnlzv509,California,Single,0.53,509,Female,Asian,19.75,81.98740438709201,133.36,4.541990697,Moderate,Former,,Diabetic,509,Uninsured,616.0959452024674,Metformin
+kuahgxmnxkextdmq991,heikiaxcbcxc991,California,Married,1.96,991,Male,Asian,19.75,148.54,94.12763863039169,3.56,Low,Former,,Diabetic,991,Uninsured,1093.2694640570294,Metformin
+jzarjritnjlmwpii86,lxsvkvcwlmrv86,California,Single,2.28,86,Male,White,19.75,168.13971522677122,94.12763863039169,10.11686127233257,Low,Former,High,Diabetic,86,Uninsured,1893.432070757025,Metformin
+favqplovoxxrlhea568,rcxpleilqbpr568,California,Single,2.28,568,Female,Asian,26.35,186.1,118.02,24.55,Moderate,Former,Moderate,Non-Diabetic,568,Insured,1181.6620256340148,Metformin
+cmvmqxdjorxujvmr969,xasqifevndnp969,California,Married,1.58,969,Male,White,18.55705686138479,151.66542219376322,118.02,24.55,Low,Current,Moderate,Non-Diabetic,969,Insured,650.2833484815307,GLP-1 agonist
+zichsrrdhpxlojnt403,fqpfjkgelfrt403,California,Married,0.28,403,Female,Black,19.75,190.31,177.08993914366752,24.87,Low,Current,High,Non-Diabetic,403,Uninsured,1093.2694640570294,Insulin
+kukdlixrnvijkwwj951,wguajczhvkns951,California,Single,0.37,951,Female,Hispanic,18.55705686138479,186.1,118.02,24.55,Low,Never,Moderate,Non-Diabetic,951,Insured,1093.2694640570294,
+lvdgxsgrocdnxmjw173,xzaqmmazwqeq173,California,Married,2.18,173,Male,Hispanic,19.75,148.54,130.28302095632574,20.85,High,Never,High,Diabetic,173,Insured,616.0959452024674,Insulin
+cprfdaijpiodrlgx929,akqbirhsiqbs929,California,Single,2.28,929,Female,White,25.653635126421914,151.66542219376322,118.02,10.11686127233257,Moderate,Former,High,Diabetic,929,Insured,650.2833484815307,
+hlbbppvowxmvebtq797,tczkfrnxaolc797,California,Married,2.28,797,Male,Black,25.41868995566916,148.54,94.12763863039169,24.55,High,Current,High,Diabetic,797,Uninsured,528.1553002754529,Metformin
+uilxmtkcnhabesrc815,lbvvdvyabgvb815,California,Married,2.18,815,Female,White,19.75,91.59788160895998,130.28302095632574,10.15,Moderate,Former,Moderate,Diabetic,815,Insured,1181.6620256340148,Metformin
+mmpoitbomtpcqteo155,eitqczzmwpmr155,California,Single,0.28,155,Male,Asian,32.31,196.23,118.02,24.87,Moderate,Current,High,Non-Diabetic,155,Uninsured,528.1553002754529,
+iulteijhqvupltlm606,xtqisqbvzqac606,California,Single,1.96,606,Female,Hispanic,19.75,91.87,175.79,3.56,Low,Former,Moderate,Diabetic,606,Uninsured,340.7877902157701,Insulin
+ddemhnpwtdxdtpgn142,jvkswhzhyjer142,California,Married,2.28,142,Male,Black,19.75,148.54,130.28302095632574,2.135448124552057,Moderate,Current,,Diabetic,142,Insured,811.8003645464281,Metformin
+jtlcdmshbzhoahbk806,pucqvmaqzysi806,California,Married,2.21,806,Female,White,33.77556181601884,81.98740438709201,94.12763863039169,10.15,Moderate,Never,,Non-Diabetic,806,Uninsured,811.8003645464281,GLP-1 agonist
+wrhmdcddcwuqbhua634,jzmorrahhkoj634,California,Single,0.28,634,Female,White,22.04502064908496,196.23,177.08993914366752,24.87,Low,Current,High,Non-Diabetic,634,Uninsured,650.2833484815307,Metformin
+ypmlreuigfcmqrmh595,htiaozikhuuc595,California,Married,1.96,595,Female,Hispanic,19.75,186.1,133.36,5.35,Moderate,Never,,Non-Diabetic,595,Uninsured,1288.8830549174445,Insulin
+mezeyffmbgogknfh220,ovhdfvaylpis220,California,Single,1.58,220,Male,Hispanic,18.55705686138479,148.54,130.28302095632574,20.85,Low,Never,High,Non-Diabetic,220,Insured,528.1553002754529,GLP-1 agonist
+kcmspfxbheoiicyh88,bxfsddxmlecz88,California,Married,2.18,88,Female,Asian,18.55705686138479,168.13971522677122,93.36143609,24.87,High,Never,High,Non-Diabetic,88,Uninsured,1181.6620256340148,GLP-1 agonist
+idckqntvtdgytgwr543,raornkhzlvjk543,California,Single,2.28,543,Female,Asian,25.653635126421914,91.59788160895998,175.79,2.135448124552057,Moderate,Never,High,Non-Diabetic,543,Insured,616.0959452024674,
+yezjlrweubjdlgpq228,oingfdqnkqrv228,California,Single,2.21,228,Female,Hispanic,22.04502064908496,148.54,130.28302095632574,20.85,High,Never,High,Non-Diabetic,228,Insured,528.1553002754529,Metformin
+gwsoqykqmpdwjjxi93,hxpsgjegthzq93,California,Married,0.2,93,Female,Hispanic,19.75,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,93,Uninsured,1192.2370685089963,Insulin
+mrsmxifxkcniplhw30,hdlpjefonzsh30,California,Married,1.96,30,Male,White,22.04502064908496,196.23,175.79,3.56,High,Former,Moderate,Diabetic,30,Insured,528.1553002754529,Insulin
+noijoechrguhqukz200,thjrhcudfhgp200,California,Married,2.21,200,Female,Hispanic,22.69909747656427,151.66542219376322,118.02,10.11686127233257,High,Former,High,Diabetic,200,Uninsured,340.7877902157701,
+ozkbiwbnhnvjdewa84,gbfszkhnfrar84,California,Single,0.28,84,Female,Black,32.31,190.31,177.08993914366752,24.87,High,Current,High,Non-Diabetic,84,Uninsured,811.8003645464281,
+dswgxblruwzlpxik329,eyssfilzfxbw329,California,Married,2.21,329,Male,Hispanic,22.04502064908496,91.87,175.79,3.56,High,Current,Moderate,Diabetic,329,Insured,1192.2370685089963,Insulin
+xssmyyqapueyilvq798,pwccglmxzzeb798,California,Single,2.18,798,Female,Asian,19.75,91.59788160895998,118.02,20.85,Moderate,Never,,Diabetic,798,Uninsured,616.0959452024674,Metformin
+colswujgixeyysoa963,yczopmqagdri963,California,Single,0.2,963,Female,Hispanic,19.75,91.87,118.02,20.85,High,Never,,Diabetic,963,Uninsured,1192.2370685089963,Insulin
+hcylguzuoyjowitz932,gfpkszlwapxt932,California,Single,1.96,932,Male,Asian,22.04502064908496,148.54,94.12763863039169,3.56,Moderate,Former,,Diabetic,932,Uninsured,811.8003645464281,Metformin
+czvlyfhqztdcftns99,uodlmxqgzihq99,California,Single,0.53,99,Male,Asian,19.75,186.1,94.12763863039169,3.56,High,Current,,Diabetic,99,Uninsured,650.2833484815307,GLP-1 agonist
+xubrwscftxvrwanw819,fqxsfrqykrtl819,California,Married,2.18,819,Male,Black,22.04502064908496,196.23,130.28302095632574,20.85,Low,Never,,Diabetic,819,Insured,811.8003645464281,Insulin
+vjtlmhnpedhklnli294,jawiwzkgkhxn294,California,Married,2.21,294,Female,Black,26.35,186.1,93.36143609,10.15,Low,Never,Moderate,Diabetic,294,Uninsured,616.0959452024674,
+ydhchuvqsqbkcaop813,zeoployshwtq813,California,Married,1.96,813,Female,Hispanic,18.55705686138479,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,813,Uninsured,1192.2370685089963,
+ivrkhjivbzyjwfbh381,ewitajbtlgxp381,California,Married,0.37,381,Male,Asian,22.04502064908496,91.59788160895998,94.12763863039169,2.135448124552057,High,Current,,Diabetic,381,Insured,1181.6620256340148,Insulin
+lvdgxsgrocdnxmjw173,xzaqmmazwqeq173,California,Married,2.18,173,Male,Hispanic,19.75,148.54,130.28302095632574,20.85,High,Never,High,Diabetic,173,Insured,616.0959452024674,Insulin
+scndtsksizemrvtw6,tygnlaxemqdv6,California,Single,2.28,6,Male,Black,22.04502064908496,148.54,118.02,2.135448124552057,High,Former,,Diabetic,6,Uninsured,528.1553002754529,Insulin
+abthzuqlxiqezeal240,ilacrqfjkmjj240,California,Single,1.58,240,Male,Hispanic,22.04502064908496,190.31,144.11896149120247,4.541990697,High,Never,Moderate,Non-Diabetic,240,Insured,528.1553002754529,Metformin
+jnlwvzeyaziwpaql268,qdcyjnfvwivv268,California,Married,1.41,268,Female,Black,25.653635126421914,88.32,94.12763863039169,24.87,Low,Never,,Diabetic,268,Insured,528.1553002754529,
+voituddtnqflokwz392,wievxhwxjkcq392,California,Married,2.21,392,Male,Black,22.04502064908496,196.23,130.28302095632574,20.85,High,Never,,Diabetic,392,Insured,1288.8830549174445,Insulin
+bdlqllcmjflacgqh97,sbcyxjpgnsgi97,California,Married,2.28,97,Male,Asian,25.41868995566916,148.54,118.02,4.541990697,High,Never,,Diabetic,97,Uninsured,650.2833484815307,Metformin
+qkyhwqnqewefhxuz113,vdltfsfvdytn113,California,Single,0.53,113,Female,White,19.75,91.59788160895998,93.36143609,10.15,Low,Never,Moderate,Diabetic,113,Insured,650.2833484815307,Insulin
+tsfvivrzaiawuose605,ugmlqlanqhje605,California,Single,0.37,605,Female,Asian,19.75,91.59788160895998,93.36143609,2.135448124552057,Moderate,Never,,Diabetic,605,Insured,616.0959452024674,Metformin
+ycaiiohubcgdajst440,rvbaizixayxx440,California,Married,0.53,440,Male,White,19.75,81.98740438709201,175.79,4.541990697,Low,Former,High,Diabetic,440,Uninsured,1093.2694640570294,Metformin
+vcpolrroahhfrimq87,wcjblfigujdm87,California,Single,1.96,87,Male,Black,22.04502064908496,196.23,130.28302095632574,20.85,High,Never,,Diabetic,87,Uninsured,1288.8830549174445,Insulin
+ivenyyosftlpizpv277,ikflvwcjgdvd277,California,Married,2.28,277,Female,Asian,25.653635126421914,196.23,93.36143609,24.87,Low,Former,High,Non-Diabetic,277,Insured,1093.2694640570294,
+gebpyjxqdrnfbkab5,gkpjdtfdkwux5,California,Married,0.28,5,Female,Asian,18.55705686138479,168.13971522677122,118.02,24.87,High,Current,High,Non-Diabetic,5,Insured,1893.432070757025,GLP-1 agonist
+cdkjvwcxfsfsuswa695,svascvrszxoz695,California,Single,0.53,695,Female,Asian,33.77556181601884,168.13971522677122,93.36143609,24.87,High,Never,High,Diabetic,695,Uninsured,1093.2694640570294,GLP-1 agonist
+sftjwzognjylqpvl152,xyvcysnksqll152,California,Single,1.96,152,Male,Asian,25.41868995566916,148.54,94.12763863039169,3.56,Moderate,Former,,Diabetic,152,Uninsured,340.7877902157701,Metformin
+scfrqrpsthkswkmh693,otjpyyzkirzm693,California,Married,2.28,693,Female,Hispanic,26.35,151.66542219376322,118.02,10.11686127233257,Moderate,Former,High,Diabetic,693,Insured,1181.6620256340148,
+bkutpynavltlzuhj400,fvqhtluqrxnh400,California,Married,0.2,400,Male,Black,19.75,196.23,130.28302095632574,20.85,Low,Never,,Diabetic,400,Uninsured,811.8003645464281,Insulin
+uqooumuqunofvjme49,xnwtfohqwaqw49,California,Married,2.18,49,Male,Hispanic,22.04502064908496,168.13971522677122,118.02,10.11686127233257,Moderate,Former,High,Diabetic,49,Insured,1181.6620256340148,Metformin
+wwfepjnkecwwlwec523,ijnisbojekcy523,California,Married,0.37,523,Female,Hispanic,32.31,186.1,175.79,24.55,Moderate,Never,Moderate,Non-Diabetic,523,Insured,1288.8830549174445,
+smmmfzlzipilpwrf736,legzptraipie736,California,Married,0.53,736,Male,Black,19.75,168.13971522677122,94.12763863039169,3.56,Low,Former,,Diabetic,736,Uninsured,1192.2370685089963,Metformin
+edhrgvubskjeknuk421,doutydqcrcrk421,California,Single,1.96,421,Female,White,22.04502064908496,186.1,144.11896149120247,4.541990697,Moderate,Current,Moderate,Non-Diabetic,421,Uninsured,811.8003645464281,Metformin
+glgsnejsddmripiu190,hcrmosjezziz190,California,Single,2.21,190,Male,Asian,22.04502064908496,148.54,94.12763863039169,3.56,Moderate,Current,,Diabetic,190,Uninsured,811.8003645464281,Metformin
+hlmcavqdoexrjcnk669,ffaathxgmdeu669,California,Married,0.2,669,Female,Hispanic,32.78,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,669,Uninsured,616.0959452024674,Insulin
+fxwemupjlogthrbp913,bvmavhtmlvth913,California,Married,0.53,913,Male,Hispanic,22.04502064908496,91.87,118.02,3.56,Moderate,Former,Moderate,Diabetic,913,Insured,340.7877902157701,Insulin
+yjnrturjhflhnzmf210,vvqhbnmzzuzc210,California,Single,0.28,210,Male,Asian,18.55705686138479,168.13971522677122,177.08993914366752,24.87,High,Current,High,Non-Diabetic,210,Uninsured,1093.2694640570294,GLP-1 agonist
+rmygifbaksjkswoq159,uqzmtsxyhtff159,California,Married,0.37,159,Female,Black,25.41868995566916,168.13971522677122,94.12763863039169,3.56,High,Current,,Diabetic,159,Uninsured,1181.6620256340148,GLP-1 agonist
+txsoyicnblqzjbpa696,dsjktvhtzofk696,California,Single,2.28,696,Female,Asian,22.04502064908496,91.59788160895998,144.11896149120247,2.135448124552057,Moderate,Never,,Diabetic,696,Uninsured,616.0959452024674,Metformin
+tsydeinoetbfhwgq271,hglgyykutjnl271,California,Single,1.96,271,Female,Asian,26.35,190.31,144.11896149120247,4.541990697,Moderate,Current,Moderate,Non-Diabetic,271,Uninsured,1093.2694640570294,
+dehvbxhoqhnjzldz971,gbbfgnwvorlp971,California,Single,1.58,971,Female,Hispanic,26.35,91.87,118.02,20.85,Low,Never,,Diabetic,971,Insured,1093.2694640570294,Insulin
+zkcbjornnsesvwpx649,ptjlhdwgooqp649,California,Married,0.2,649,Male,Hispanic,22.04502064908496,148.54,95.31,20.85,Moderate,Former,High,Diabetic,649,Insured,616.0959452024674,Metformin
+zfmzvyxcvnmvebgo32,ibvzqnpupxor32,California,Single,0.53,32,Female,Asian,26.35,81.98740438709201,130.28302095632574,4.541990697,Moderate,Former,,Diabetic,32,Insured,1288.8830549174445,
+nkndmhkstsaduzsd809,emgaqzhusior809,California,Married,1.58,809,Female,Asian,19.75,186.1,177.08993914366752,24.55,Low,Current,Moderate,Non-Diabetic,809,Insured,650.2833484815307,Insulin
+etxxqhunwrfdhdyu871,luxrvozyozbn871,California,Married,2.21,871,Male,Black,22.04502064908496,196.23,130.28302095632574,20.85,Low,Never,High,Diabetic,871,Insured,811.8003645464281,Insulin
+mrmejsgzpyxtxjus715,exvlpqomanid715,California,Married,2.21,715,Female,Asian,22.04502064908496,148.54,152.9353998166657,3.56,Low,Never,,Diabetic,715,Uninsured,811.8003645464281,Insulin
+hxckzvigsqlnywdl301,mjcjvuluwfot301,California,Married,0.53,301,Female,White,18.55705686138479,91.87,93.36143609,24.87,High,Never,High,Non-Diabetic,301,Insured,1893.432070757025,GLP-1 agonist
+zfheemqwmbirkaxs139,jnxxftktwzlc139,California,Married,2.18,139,Female,Hispanic,19.75,91.87,130.28302095632574,20.85,Low,Never,,Diabetic,139,Uninsured,1093.2694640570294,Metformin
+zauczomdonrjwlzc353,gnhnrudegwci353,California,Single,0.2,353,Female,White,22.04502064908496,91.59788160895998,94.12763863039169,10.15,Moderate,Never,Moderate,Diabetic,353,Insured,1181.6620256340148,Metformin
+dehvbxhoqhnjzldz971,gbbfgnwvorlp971,California,Single,1.58,971,Female,Hispanic,26.35,91.87,118.02,20.85,Low,Never,,Diabetic,971,Insured,1093.2694640570294,Insulin
+fktgfahjcxurvzwm267,jyjwpjpmihnf267,California,Married,0.28,267,Female,Hispanic,18.55705686138479,190.31,177.08993914366752,24.87,High,Current,High,Non-Diabetic,267,Uninsured,1192.2370685089963,
+mfkssmtdepopqlnl930,wchvgnajnujh930,California,Single,1.96,930,Female,Asian,26.35,190.31,144.11896149120247,4.541990697,Moderate,Current,Moderate,Non-Diabetic,930,Uninsured,650.2833484815307,
+cywfclsjshgnqazy944,usmfeljipbjb944,California,Single,0.37,944,Male,Hispanic,19.75,168.13971522677122,152.9353998166657,10.11686127233257,Low,Former,High,Diabetic,944,Insured,1893.432070757025,Metformin
+wtwkhutntsajbefl718,dcsvplmiyxpv718,California,Married,2.28,718,Female,Hispanic,25.41868995566916,168.13971522677122,94.12763863039169,10.11686127233257,Low,Never,High,Diabetic,718,Insured,1192.2370685089963,GLP-1 agonist
+wowykxcgexmmweig512,zyihhdsejyzn512,California,Married,1.96,512,Female,Hispanic,26.35,190.31,144.11896149120247,4.541990697,Moderate,Current,Moderate,Non-Diabetic,512,Uninsured,650.2833484815307,
+awmkordoyautelgi627,ycetxtlmintu627,California,Married,2.28,627,Female,Asian,18.55705686138479,186.1,118.02,24.55,Low,Current,Moderate,Non-Diabetic,627,Insured,1093.2694640570294,
+pqjrsluoiewzgwpx858,ekwjepvaonpz858,California,Married,1.58,858,Male,Asian,22.04502064908496,196.23,152.9353998166657,4.541990697,Low,Current,High,Diabetic,858,Insured,811.8003645464281,Insulin
+pfgqqffcsthojoal805,mjhqmpluqkra805,California,Single,0.2,805,Female,Hispanic,19.75,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,805,Uninsured,1192.2370685089963,Insulin
+fdqoaulmbapnpqkc769,lowaruheyacx769,California,Married,0.28,769,Male,White,33.77556181601884,91.87,177.08993914366752,24.87,High,Current,High,Non-Diabetic,769,Uninsured,1893.432070757025,GLP-1 agonist
+qgklwcmfpywsadlc167,czbculngspyz167,California,Married,1.96,167,Female,Hispanic,25.653635126421914,186.1,94.12763863039169,5.35,Moderate,Never,Moderate,Diabetic,167,Uninsured,1288.8830549174445,
+llekifqlnuyrlciv212,lwcgnsyktnsl212,California,Married,0.28,212,Female,White,19.75,190.31,144.11896149120247,4.541990697,High,Never,Moderate,Non-Diabetic,212,Uninsured,1181.6620256340148,Insulin
+jsjippgenodxyexj869,slqdlvwafbas869,California,Single,2.18,869,Female,White,25.41868995566916,91.59788160895998,118.02,10.15,Low,Former,Moderate,Diabetic,869,Uninsured,650.2833484815307,Metformin
+luxapudadmxbghtr70,gyoykjoetrjs70,California,Married,0.37,70,Female,Black,25.653635126421914,148.54,175.79,24.55,Moderate,Never,Moderate,Non-Diabetic,70,Insured,811.8003645464281,Metformin
+ptwgyhkotrqawvmn224,bdrawnhxeyku224,California,Married,0.28,224,Male,Asian,19.75,81.98740438709201,175.79,4.541990697,High,Never,High,Diabetic,224,Uninsured,528.1553002754529,Metformin
+eozjvkxuqqzbsntk475,nnacximywvwn475,California,Married,0.28,475,Female,White,32.78,190.31,177.08993914366752,24.87,Moderate,Current,High,Non-Diabetic,475,Uninsured,1893.432070757025,Insulin
+mfqltsgogccvcsxh700,jhidizczontu700,California,Married,2.21,700,Female,Hispanic,19.75,88.32,130.28302095632574,3.56,Moderate,Current,High,Diabetic,700,Uninsured,811.8003645464281,GLP-1 agonist
+qbpnqdpwzlvehngs898,upsckitevxyy898,California,Married,0.53,898,Male,Black,32.31,168.13971522677122,94.12763863039169,3.56,Moderate,Current,,Diabetic,898,Insured,528.1553002754529,GLP-1 agonist
+szswekkinlawflia500,cjgahtgbqthz500,California,Married,2.21,500,Female,Black,19.75,168.13971522677122,94.12763863039169,3.56,Moderate,Current,,Diabetic,500,Uninsured,340.7877902157701,Metformin
+qegagotepymimhoi141,ggumhcpgfgsx141,California,Married,0.37,141,Female,Asian,25.653635126421914,151.66542219376322,94.12763863039169,3.56,Low,Current,,Diabetic,141,Insured,1093.2694640570294,
+fxwemupjlogthrbp913,bvmavhtmlvth913,California,Married,0.53,913,Male,Hispanic,22.04502064908496,91.87,118.02,3.56,Moderate,Former,Moderate,Diabetic,913,Insured,340.7877902157701,Insulin
+ccvmuostjrvztzvx104,jgufsclkzefe104,California,Married,2.28,104,Male,Hispanic,26.35,91.87,175.79,3.56,High,Former,Moderate,Diabetic,104,Uninsured,1192.2370685089963,Insulin
+npnrflbdzqqmplip720,phavdxsclirz720,California,Single,2.21,720,Female,Hispanic,22.04502064908496,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,720,Insured,528.1553002754529,Metformin
+oxyalelinaeelvwm511,awbazbuhgzax511,California,Married,1.96,511,Female,Hispanic,22.69909747656427,151.66542219376322,144.11896149120247,20.85,Moderate,Current,Moderate,Diabetic,511,Uninsured,616.0959452024674,
+quooamlertotjiku308,ihveacvkquyu308,California,Married,0.37,308,Female,Black,26.35,88.32,175.79,24.87,Moderate,Former,,Non-Diabetic,308,Insured,1181.6620256340148,Metformin
+mrsmxifxkcniplhw30,hdlpjefonzsh30,California,Married,1.96,30,Male,White,22.04502064908496,196.23,175.79,3.56,High,Former,Moderate,Diabetic,30,Insured,528.1553002754529,Insulin
+ccpbzymmncrudpen617,ejqxsbosojqt617,California,Single,1.96,617,Female,Asian,32.31,186.1,175.79,24.55,Moderate,Never,Moderate,Non-Diabetic,617,Uninsured,650.2833484815307,
+hdqfynblaolyuomq40,opwruzzpvvyg40,California,Single,0.28,40,Male,White,25.41868995566916,81.98740438709201,133.36,4.541990697,Low,Never,High,Diabetic,40,Uninsured,1893.432070757025,Metformin
+uftwoyennfocjsyn948,hgoinblpqcvf948,California,Married,0.2,948,Female,Hispanic,18.55705686138479,190.31,144.11896149120247,4.541990697,Low,Current,Moderate,Non-Diabetic,948,Uninsured,340.7877902157701,Insulin
+aczgewzaakyvajwa842,btzljnahzzxf842,California,Single,2.18,842,Male,Hispanic,19.75,91.87,130.28302095632574,20.85,High,Never,,Diabetic,842,Insured,1192.2370685089963,Insulin
+fqwvnwqyghmwuzxx613,tsirbgjhdcwo613,California,Married,1.58,613,Female,Asian,19.75,91.59788160895998,130.28302095632574,20.85,High,Never,,Diabetic,613,Insured,1181.6620256340148,Insulin
+fstebrrjeaxmrdeb923,nmnzjdzgfwoy923,California,Single,1.96,923,Female,Asian,19.75,190.31,144.11896149120247,4.541990697,Moderate,Current,Moderate,Non-Diabetic,923,Uninsured,1893.432070757025,Insulin
+jzotdnusmjbhrvbi576,sjzzhyuimbgo576,California,Married,0.2,576,Male,Black,25.41868995566916,148.54,94.12763863039169,24.55,Moderate,Current,High,Diabetic,576,Insured,811.8003645464281,Metformin
+qufmfkbgscojmapg770,zcgjdwrxapxf770,California,Single,1.58,770,Female,White,26.35,91.59788160895998,93.36143609,24.87,Moderate,Never,Moderate,Non-Diabetic,770,Uninsured,650.2833484815307,
+tajxfmnobmwezkji482,ghbnuegzjwyo482,California,Married,1.58,482,Female,Hispanic,19.75,81.98740438709201,133.36,4.541990697,Moderate,Never,,Diabetic,482,Insured,1093.2694640570294,Metformin
+ntsbaxknbllzndlg620,nuqhdyhefysx620,California,Married,0.53,620,Male,Hispanic,22.69909747656427,81.98740438709201,133.36,4.541990697,Moderate,Former,,Diabetic,620,Insured,1181.6620256340148,
+dzobjkgjetducisi393,vjacqjaicapf393,California,Single,1.96,393,Female,Hispanic,33.77556181601884,186.1,175.79,24.55,High,Never,Moderate,Non-Diabetic,393,Insured,1288.8830549174445,GLP-1 agonist
+muqbwqrqkdvrtaeh332,ufebnshdbymm332,California,Married,2.21,332,Male,White,19.75,148.54,118.02,10.11686127233257,High,Former,High,Diabetic,332,Insured,650.2833484815307,Metformin
+kkcjhhqaxqhqjmmp564,sxmhjdphuzyr564,California,Married,2.18,564,Female,Hispanic,25.41868995566916,91.87,130.28302095632574,20.85,Low,Never,,Diabetic,564,Uninsured,1192.2370685089963,Metformin
+adpfwweendgsamdj844,zcaojpfxbxcg844,California,Married,0.53,844,Female,White,19.75,91.59788160895998,93.36143609,10.15,High,Never,Moderate,Diabetic,844,Insured,1181.6620256340148,Insulin
+quuxrsjcdbfdttms376,zpmulnnroafx376,California,Married,0.53,376,Female,Hispanic,22.04502064908496,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,376,Uninsured,1192.2370685089963,Metformin
+gvzemkocfkpypvmn865,ayvnvipxatkz865,California,Married,2.21,865,Female,Asian,32.31,186.1,175.79,24.55,High,Never,Moderate,Non-Diabetic,865,Insured,650.2833484815307,Metformin
+dtgevrtezvdesbuy469,vxiqzmjjggzp469,California,Married,2.18,469,Male,Hispanic,19.75,168.13971522677122,152.9353998166657,10.11686127233257,Moderate,Former,High,Diabetic,469,Uninsured,811.8003645464281,Metformin
+dtyxxchiesaxkunt941,sbxlvyjuexbk941,California,Married,0.37,941,Female,Asian,22.04502064908496,148.54,94.12763863039169,3.56,Low,Never,,Diabetic,941,Insured,650.2833484815307,Insulin
+vxbavwtckbzhlnvw21,mdiisrhdkwfp21,California,Single,0.53,21,Male,White,33.77556181601884,81.98740438709201,144.11896149120247,10.15,Moderate,Never,,Non-Diabetic,21,Insured,811.8003645464281,GLP-1 agonist
+hfzkfqgccahxkogq988,kbcrosoazxsu988,California,Married,0.37,988,Male,Black,32.78,88.32,130.28302095632574,3.56,Moderate,Never,High,Diabetic,988,Insured,528.1553002754529,
+mfqltsgogccvcsxh700,jhidizczontu700,California,Married,2.21,700,Female,Hispanic,19.75,88.32,130.28302095632574,3.56,Moderate,Current,High,Diabetic,700,Uninsured,811.8003645464281,GLP-1 agonist
+smmmfzlzipilpwrf736,legzptraipie736,California,Married,0.53,736,Male,Black,19.75,168.13971522677122,94.12763863039169,3.56,Low,Former,,Diabetic,736,Uninsured,1192.2370685089963,Metformin
+mhfmytfnbbwnoeza536,wzlhzuezejkx536,California,Single,0.28,536,Male,Asian,32.31,196.23,177.08993914366752,24.87,Moderate,Current,High,Non-Diabetic,536,Uninsured,650.2833484815307,
+reusuqmvsqssjlge256,dsdmswxequoe256,California,Single,0.37,256,Female,Hispanic,32.78,186.1,118.02,24.55,Low,Never,Moderate,Non-Diabetic,256,Uninsured,1093.2694640570294,Insulin
+cywfclsjshgnqazy944,usmfeljipbjb944,California,Single,0.37,944,Male,Hispanic,19.75,168.13971522677122,152.9353998166657,10.11686127233257,Low,Former,High,Diabetic,944,Insured,1893.432070757025,Metformin
+xwslihdsqplseyub430,uexeweqixahp430,California,Single,2.21,430,Female,Hispanic,19.75,168.13971522677122,175.79,10.11686127233257,Low,Never,High,Diabetic,430,Insured,1893.432070757025,Metformin
+hopqwgtzgczjrtup309,oqlujwdvwxoa309,California,Single,2.18,309,Female,Asian,26.35,186.1,94.12763863039169,3.56,Moderate,Never,,Diabetic,309,Uninsured,650.2833484815307,
+kgpidumtpwnmdbxe218,psutlnkglfdv218,California,Married,0.53,218,Female,Asian,18.55705686138479,168.13971522677122,93.36143609,24.87,High,Never,High,Non-Diabetic,218,Insured,1288.8830549174445,GLP-1 agonist
+pavmneicnutrwrdy593,ultlwflquasd593,California,Married,2.21,593,Male,Hispanic,22.04502064908496,91.87,130.28302095632574,20.85,Moderate,Never,,Diabetic,593,Uninsured,340.7877902157701,Insulin
+nukhslmsgpimstau217,uqbxrbbfvqdt217,California,Married,0.2,217,Male,Asian,22.04502064908496,196.23,175.79,4.541990697,Low,Current,High,Diabetic,217,Uninsured,650.2833484815307,Insulin
+qudxndgdlxpodmvu558,huiuwxcezasu558,California,Single,0.28,558,Female,White,18.55705686138479,151.66542219376322,118.02,24.55,Low,Current,Moderate,Non-Diabetic,558,Insured,616.0959452024674,GLP-1 agonist
+nubsmbjwczmvgecf953,xhhxayfqkmre953,California,Single,2.18,953,Female,Hispanic,19.75,91.87,130.28302095632574,20.85,Low,Never,,Diabetic,953,Uninsured,1192.2370685089963,Metformin
+yozbgregqlgcldvn29,uksirlvdilda29,California,Single,0.37,29,Female,Asian,19.75,190.31,130.28302095632574,3.56,Moderate,Current,High,Diabetic,29,Insured,616.0959452024674,Metformin
+xssmyyqapueyilvq798,pwccglmxzzeb798,California,Single,2.18,798,Female,Asian,19.75,91.59788160895998,118.02,20.85,Moderate,Never,,Diabetic,798,Uninsured,616.0959452024674,Metformin
+ebgatgbxnqesdcor648,qfpsekbgblpw648,California,Married,0.28,648,Female,Black,18.55705686138479,91.87,118.02,24.87,Low,Former,High,Non-Diabetic,648,Uninsured,340.7877902157701,GLP-1 agonist
+vafdqgzouofehvay685,jbmnsnujfqpe685,California,Single,2.18,685,Female,Asian,18.55705686138479,168.13971522677122,93.36143609,24.87,High,Never,High,Non-Diabetic,685,Uninsured,1288.8830549174445,GLP-1 agonist
+wmnzataxmoudzhav599,cudbcjfemrxw599,California,Married,1.96,599,Female,Black,18.55705686138479,148.54,175.79,24.55,High,Never,Moderate,Non-Diabetic,599,Insured,650.2833484815307,GLP-1 agonist
+qkyhwqnqewefhxuz113,vdltfsfvdytn113,California,Single,0.53,113,Female,White,19.75,91.59788160895998,93.36143609,10.15,Low,Never,Moderate,Diabetic,113,Insured,650.2833484815307,Insulin
+cggzpkhudkexaews759,frqktpueswyc759,California,Married,1.41,759,Female,White,22.04502064908496,196.23,95.31,2.135448124552057,High,Former,,Diabetic,759,Insured,528.1553002754529,Insulin
+cjckijekrtvmkzye985,umprtiabbeae985,California,Single,1.96,985,Female,Hispanic,22.04502064908496,91.87,177.08993914366752,3.56,Low,Former,Moderate,Diabetic,985,Insured,340.7877902157701,Insulin
+pthliavjurekutli855,heluuvjkaofu855,California,Single,0.37,855,Female,Asian,18.55705686138479,91.59788160895998,175.79,2.135448124552057,Moderate,Never,High,Non-Diabetic,855,Insured,616.0959452024674,
+bqdnddowlhcamixb407,kdyzatwdzngb407,California,Married,1.41,407,Male,White,25.41868995566916,168.13971522677122,95.31,2.135448124552057,High,Former,,Diabetic,407,Uninsured,1093.2694640570294,GLP-1 agonist
+vqrljhfhsifzaqnl375,pphjwuelhoat375,California,Single,2.28,375,Male,Hispanic,33.77556181601884,168.13971522677122,152.9353998166657,10.11686127233257,Low,Former,High,Diabetic,375,Insured,1192.2370685089963,GLP-1 agonist
+qzbbbsqlivsgdjjy521,yqnmocykhubq521,California,Married,2.18,521,Male,Hispanic,22.04502064908496,91.87,130.28302095632574,20.85,Moderate,Never,,Diabetic,521,Insured,340.7877902157701,Insulin
+tnwxgavnliejthfv47,tmtvmwthwjsm47,California,Married,2.18,47,Female,Black,22.04502064908496,196.23,130.28302095632574,20.85,Low,Never,,Diabetic,47,Insured,811.8003645464281,Insulin
+jljroklhxvjiqnfu630,hsjwepylmjur630,California,Married,1.58,630,Male,Hispanic,19.75,91.87,130.28302095632574,20.85,High,Never,,Diabetic,630,Uninsured,1192.2370685089963,Insulin
+pbsnisnesaynynyf710,jiipclkeqabv710,California,Married,2.21,710,Male,Black,33.77556181601884,168.13971522677122,152.9353998166657,10.11686127233257,Moderate,Former,High,Diabetic,710,Uninsured,1192.2370685089963,GLP-1 agonist
+kmlokyyejildftin822,ykuhrgotokxy822,California,Married,0.2,822,Male,White,25.41868995566916,148.54,177.08993914366752,24.55,High,Current,High,Diabetic,822,Insured,1093.2694640570294,Metformin
+dyzfpvynnxmpfedl711,oildmzhdwrqz711,California,Single,0.53,711,Female,Asian,19.75,190.31,144.11896149120247,4.541990697,Moderate,Current,Moderate,Non-Diabetic,711,Insured,1893.432070757025,Insulin
+abnvimcxcvzatdun551,dgfgnddbkwry551,California,Married,1.96,551,Male,Black,33.77556181601884,168.13971522677122,94.12763863039169,3.56,Moderate,Former,,Diabetic,551,Insured,1181.6620256340148,GLP-1 agonist
+tchksxxmvmgtfpra994,mqgcslxqkmho994,California,Single,2.18,994,Female,Hispanic,33.77556181601884,91.87,130.28302095632574,20.85,High,Never,,Non-Diabetic,994,Uninsured,1093.2694640570294,GLP-1 agonist
+whidcodrxouuseue729,hfimuydlrxei729,California,Married,2.28,729,Female,White,19.75,91.87,93.36143609,24.87,Low,Former,High,Diabetic,729,Uninsured,1893.432070757025,Metformin
+cmctynzuuxuyjbpl226,uhezgmqthuju226,California,Single,2.18,226,Male,Black,26.35,196.23,130.28302095632574,20.85,High,Never,,Non-Diabetic,226,Uninsured,811.8003645464281,
+fvbtophygruhyidd827,inakatmnkdkv827,California,Single,2.28,827,Female,Asian,22.04502064908496,186.1,118.02,24.55,High,Former,Moderate,Non-Diabetic,827,Insured,650.2833484815307,Metformin
+wjzldzydxcbxsxda247,jxclcwbfvign247,California,Married,1.41,247,Female,Asian,19.75,196.23,93.36143609,24.87,High,Never,High,Diabetic,247,Insured,528.1553002754529,Insulin
+bkjixgzbpluovirc857,nythfzaeaszn857,California,Married,0.37,857,Female,White,26.35,151.66542219376322,94.12763863039169,10.11686127233257,High,Former,High,Diabetic,857,Insured,650.2833484815307,
+dyzfpvynnxmpfedl711,oildmzhdwrqz711,California,Single,0.53,711,Female,Asian,19.75,190.31,144.11896149120247,4.541990697,Moderate,Current,Moderate,Non-Diabetic,711,Insured,1893.432070757025,Insulin
+zwbtexxnuxevgmrr683,vyhkeowxyjyr683,California,Single,0.28,683,Female,Black,18.55705686138479,88.32,94.12763863039169,24.87,High,Current,,Non-Diabetic,683,Uninsured,340.7877902157701,
+hamzwpeppvpkslyo38,wtakzlpdcgor38,California,Single,1.41,38,Female,Asian,18.55705686138479,91.59788160895998,175.79,2.135448124552057,High,Former,High,Non-Diabetic,38,Insured,340.7877902157701,
+wlixmurhxdfxqnhj18,hkkgbrrmlwzn18,California,Single,0.2,18,Female,Asian,18.55705686138479,190.31,144.11896149120247,4.541990697,Moderate,Current,Moderate,Non-Diabetic,18,Uninsured,616.0959452024674,
+ejgaczlowtyyxjrn52,jmjyzcupgywc52,California,Married,2.18,52,Female,Asian,22.04502064908496,196.23,93.36143609,24.87,Low,Never,Moderate,Non-Diabetic,52,Uninsured,1893.432070757025,Metformin
+drzplezlnvhjensl748,sewzrxwenfxr748,California,Married,1.58,748,Male,Hispanic,32.78,186.1,94.12763863039169,24.55,Low,Current,Moderate,Non-Diabetic,748,Insured,650.2833484815307,Insulin
+zfheemqwmbirkaxs139,jnxxftktwzlc139,California,Married,2.18,139,Female,Hispanic,19.75,91.87,130.28302095632574,20.85,Low,Never,,Diabetic,139,Uninsured,1093.2694640570294,Metformin
+eibgrdpezhsvzdps278,dyewtnexiuso278,California,Single,0.2,278,Male,White,26.35,148.54,118.02,24.55,Low,Current,Moderate,Non-Diabetic,278,Insured,1093.2694640570294,Metformin
+aczgewzaakyvajwa842,btzljnahzzxf842,California,Single,2.18,842,Male,Hispanic,19.75,91.87,130.28302095632574,20.85,High,Never,,Diabetic,842,Insured,1192.2370685089963,Insulin
+ikcwnmcphoelyzzt313,bfxuhtdodpju313,California,Married,0.37,313,Female,Black,22.04502064908496,91.59788160895998,175.79,3.56,Low,Never,Moderate,Diabetic,313,Uninsured,811.8003645464281,Insulin
+jeptgipxunbwrzbo873,ricozzoicblf873,California,Single,0.37,873,Female,Asian,19.75,91.59788160895998,93.36143609,2.135448124552057,Moderate,Never,,Diabetic,873,Insured,1181.6620256340148,Metformin
+bdatrkoewafcvufp526,gsxgzjluzkdj526,California,Married,0.37,526,Male,White,32.31,196.23,118.02,24.87,Low,Former,,Non-Diabetic,526,Insured,528.1553002754529,
+omftnwhdmwluatsv179,ogkkgyqhstsx179,California,Married,1.58,179,Male,White,19.75,91.59788160895998,118.02,10.15,High,Current,Moderate,Diabetic,179,Insured,650.2833484815307,Metformin
+xemfjfbjisykvaqj535,epkncgxrmcyq535,California,Single,0.28,535,Male,Asian,19.75,91.59788160895998,94.12763863039169,2.135448124552057,Moderate,Current,,Diabetic,535,Uninsured,1181.6620256340148,Metformin
+fearytqiqnhupdez730,kcaysepmgwus730,California,Single,1.96,730,Female,Hispanic,25.41868995566916,168.13971522677122,94.12763863039169,10.11686127233257,Low,Never,High,Diabetic,730,Insured,1192.2370685089963,GLP-1 agonist
+lcbgqemcnnpfkcdf784,mfengqwiymjr784,California,Married,0.37,784,Male,Asian,22.04502064908496,168.13971522677122,152.9353998166657,10.11686127233257,High,Former,High,Diabetic,784,Insured,1288.8830549174445,Metformin
+rwozvqwkvcnonhka560,ueaqlwlsowly560,California,Single,0.28,560,Male,Asian,25.653635126421914,196.23,94.12763863039169,24.87,Moderate,Current,,Non-Diabetic,560,Uninsured,811.8003645464281,Metformin
+lfqclmcoknkeittx642,yawjmcvoejvt642,California,Married,1.41,642,Female,Hispanic,18.55705686138479,186.1,118.02,5.35,High,Current,,Non-Diabetic,642,Uninsured,1288.8830549174445,GLP-1 agonist
+inxsqwdhlryuwjkv719,qxluyxkalpgo719,California,Married,0.37,719,Female,Asian,19.75,186.1,175.79,24.55,Low,Never,Moderate,Non-Diabetic,719,Insured,650.2833484815307,Insulin
+dzobjkgjetducisi393,vjacqjaicapf393,California,Single,1.96,393,Female,Hispanic,33.77556181601884,186.1,175.79,24.55,High,Never,Moderate,Non-Diabetic,393,Insured,1288.8830549174445,GLP-1 agonist
+dswgxblruwzlpxik329,eyssfilzfxbw329,California,Married,2.21,329,Male,Hispanic,22.04502064908496,91.87,175.79,3.56,High,Current,Moderate,Diabetic,329,Insured,1192.2370685089963,Insulin
+ywolzbmevrpwybux758,xuzhjgerwmzg758,California,Single,2.21,758,Male,White,33.77556181601884,151.66542219376322,152.9353998166657,3.56,Low,Never,,Diabetic,758,Uninsured,1093.2694640570294,
+mgyepiajniummxfk707,gjplyojpluwm707,California,Single,0.53,707,Male,Asian,19.75,81.98740438709201,175.79,4.541990697,Moderate,Former,High,Diabetic,707,Uninsured,1181.6620256340148,Metformin
+wsiuawkgueqnxsby260,cwfebbwhtust260,California,Married,0.37,260,Female,Asian,22.04502064908496,196.23,93.36143609,24.87,Low,Former,High,Diabetic,260,Uninsured,1093.2694640570294,Insulin
+gfonfxrsghinaybv664,eyydouwthibv664,California,Married,2.21,664,Female,Asian,26.35,148.54,152.9353998166657,3.56,Low,Never,,Diabetic,664,Insured,340.7877902157701,Insulin
+yjnrturjhflhnzmf210,vvqhbnmzzuzc210,California,Single,0.28,210,Male,Asian,18.55705686138479,168.13971522677122,177.08993914366752,24.87,High,Current,High,Non-Diabetic,210,Uninsured,1093.2694640570294,GLP-1 agonist
+oisqpkeeoiedctsm640,highsalpkugi640,California,Married,2.18,640,Female,Black,26.35,196.23,130.28302095632574,20.85,High,Never,,Non-Diabetic,640,Uninsured,811.8003645464281,
+rxwiuoizpludlnaf320,suvmudjzqkjq320,California,Single,0.53,320,Female,Black,25.41868995566916,81.98740438709201,130.28302095632574,3.56,High,Current,High,Diabetic,320,Uninsured,528.1553002754529,Metformin
+apwhxjjzsvycnypc503,jhtlvjrmzknl503,California,Single,2.18,503,Female,Asian,32.31,196.23,175.79,24.87,Moderate,Never,Moderate,Non-Diabetic,503,Uninsured,1893.432070757025,
+feqnifmffdpxdknx852,lykzseavafve852,California,Single,2.18,852,Male,Hispanic,26.35,151.66542219376322,152.9353998166657,20.85,High,Never,Moderate,Diabetic,852,Uninsured,340.7877902157701,
+xszwtncxsqdootcn785,parfbkzsusut785,California,Married,0.28,785,Female,Asian,19.75,196.23,94.12763863039169,24.87,Low,Current,,Diabetic,785,Uninsured,811.8003645464281,Insulin
+hmaiqqxsxnrifqsi96,qlocezzhgzwk96,California,Married,0.28,96,Male,White,18.55705686138479,91.87,118.02,24.87,High,Current,,Non-Diabetic,96,Insured,1893.432070757025,GLP-1 agonist
+wdbwcilunmyclpem731,kdpdgaiitcwl731,California,Married,2.21,731,Male,Hispanic,33.77556181601884,168.13971522677122,133.36,10.11686127233257,Low,Never,High,Diabetic,731,Uninsured,1192.2370685089963,GLP-1 agonist
+dyzfpvynnxmpfedl711,oildmzhdwrqz711,California,Single,0.53,711,Female,Asian,19.75,190.31,144.11896149120247,4.541990697,Moderate,Current,Moderate,Non-Diabetic,711,Insured,1893.432070757025,Insulin
+tfrfufszdmdrojjf701,coiectfbgcna701,California,Single,0.53,701,Female,Black,26.35,88.32,133.36,5.35,High,Never,Moderate,Diabetic,701,Insured,340.7877902157701,
+ieiykbfsuyuzbhqa358,csdczgruktkg358,California,Married,2.18,358,Female,Hispanic,22.04502064908496,91.87,130.28302095632574,20.85,Moderate,Never,,Diabetic,358,Uninsured,340.7877902157701,Metformin
+btvkyrhdslymnnbz346,rjxenrubcvrg346,California,Married,2.28,346,Female,Hispanic,22.69909747656427,151.66542219376322,94.12763863039169,10.11686127233257,High,Former,High,Diabetic,346,Insured,340.7877902157701,
+htxamrsecvbyuimh708,icovepzvqjye708,California,Single,1.58,708,Female,Asian,25.653635126421914,81.98740438709201,95.31,4.541990697,Moderate,Never,,Diabetic,708,Uninsured,1288.8830549174445,
+cpjsexrtdfjdwgqi164,tosjdjlgrpzm164,California,Married,1.96,164,Male,Asian,18.55705686138479,148.54,144.11896149120247,4.541990697,Low,Current,Moderate,Non-Diabetic,164,Insured,340.7877902157701,GLP-1 agonist
+zvbjcmzwigxltref529,kszjxghkjcsb529,California,Married,0.37,529,Male,Black,33.77556181601884,151.66542219376322,130.28302095632574,3.56,Low,Never,,Diabetic,529,Insured,1093.2694640570294,
+xealtchjrmkvvdum607,smtxwpguowhf607,California,Married,2.18,607,Female,Hispanic,22.04502064908496,91.87,130.28302095632574,20.85,Low,Never,,Diabetic,607,Insured,340.7877902157701,Insulin
+zpuhotfkgzkdxclc862,yduynvvxgvvl862,California,Married,1.96,862,Male,Asian,22.04502064908496,148.54,94.12763863039169,3.56,High,Never,,Diabetic,862,Uninsured,1181.6620256340148,Insulin
+dmtunngxqiwujjdh741,ckzeyorepmjr741,California,Single,0.53,741,Female,Asian,33.77556181601884,168.13971522677122,93.36143609,24.87,High,Never,High,Non-Diabetic,741,Insured,1893.432070757025,GLP-1 agonist
+prjztlgsbtwvnmyr866,qndqgagatzsb866,California,Single,1.41,866,Female,Asian,25.653635126421914,88.32,130.28302095632574,5.35,High,Current,Moderate,Diabetic,866,Insured,340.7877902157701,
+wcbtyksddbwozbiw967,cdducfzbxrhk967,California,Single,1.96,967,Female,Hispanic,32.78,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,967,Insured,528.1553002754529,Insulin
+hdqfynblaolyuomq40,opwruzzpvvyg40,California,Single,0.28,40,Male,White,25.41868995566916,81.98740438709201,133.36,4.541990697,Low,Never,High,Diabetic,40,Uninsured,1893.432070757025,Metformin
+pmljxbafkljopqct177,hxqffbcdrwuu177,California,Single,1.96,177,Female,Asian,33.77556181601884,168.13971522677122,130.28302095632574,20.85,Moderate,Never,,Non-Diabetic,177,Insured,811.8003645464281,GLP-1 agonist
+tripbzbfixjxxfqx694,pojhpmckcmqm694,California,Married,2.21,694,Female,Hispanic,22.04502064908496,91.87,130.28302095632574,20.85,Low,Never,,Diabetic,694,Insured,340.7877902157701,Insulin
+qgklwcmfpywsadlc167,czbculngspyz167,California,Married,1.96,167,Female,Hispanic,25.653635126421914,186.1,94.12763863039169,5.35,Moderate,Never,Moderate,Diabetic,167,Uninsured,1288.8830549174445,
+fabkdaosboiuahnb414,yamtqgwlkrgi414,California,Single,2.28,414,Female,White,26.35,151.66542219376322,152.9353998166657,10.11686127233257,Moderate,Former,High,Diabetic,414,Insured,616.0959452024674,
+osrvfjtpkguflwjx549,fwkaxviarmwt549,California,Single,1.58,549,Female,White,33.77556181601884,168.13971522677122,130.28302095632574,20.85,Low,Never,,Diabetic,549,Insured,1893.432070757025,GLP-1 agonist
+zjcjyqhqscpegihk644,adlhyqvahhfq644,California,Married,0.53,644,Female,Black,33.77556181601884,88.32,118.02,24.87,Low,Never,,Diabetic,644,Uninsured,650.2833484815307,GLP-1 agonist
+orqmclgcwyoqsodc996,scglivhyeiqz996,California,Married,1.96,996,Female,White,19.75,168.13971522677122,130.28302095632574,20.85,Moderate,Never,High,Diabetic,996,Insured,1893.432070757025,Insulin
+iiwxfyrazlgtefmh604,xzgvctpkoacv604,California,Single,2.18,604,Female,White,25.653635126421914,186.1,93.36143609,24.87,Low,Never,High,Non-Diabetic,604,Uninsured,1093.2694640570294,Metformin
+ryfqpojbwbesjadt907,eiwmghkkapft907,California,Married,2.28,907,Male,Black,22.04502064908496,148.54,130.28302095632574,2.135448124552057,Low,Former,,Diabetic,907,Uninsured,650.2833484815307,Insulin
+bnpoxpuiiqvwcfyd337,yommnkggminr337,California,Married,1.58,337,Male,White,19.75,91.59788160895998,118.02,10.15,Moderate,Current,Moderate,Diabetic,337,Insured,1181.6620256340148,Metformin
+vgzgmyxnncjslkbf853,qapdyqvlwymo853,California,Single,1.96,853,Female,Hispanic,32.31,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,853,Uninsured,528.1553002754529,
+mgyqecohkjxgfzku966,xciqpnqyftqm966,California,Married,0.2,966,Female,White,22.69909747656427,91.59788160895998,118.02,10.15,High,Never,Moderate,Diabetic,966,Insured,650.2833484815307,Metformin
+hlbbppvowxmvebtq797,tczkfrnxaolc797,California,Married,2.28,797,Male,Black,25.41868995566916,148.54,94.12763863039169,24.55,High,Current,High,Diabetic,797,Uninsured,528.1553002754529,Metformin
+wnkmqbcictatlibo75,srhakpqluzxw75,California,Married,1.96,75,Male,Black,22.04502064908496,81.98740438709201,130.28302095632574,3.56,Low,Former,High,Diabetic,75,Uninsured,1893.432070757025,Metformin
+xrzjzhkgpsvcdrxd658,chkhhzgcsokc658,California,Single,0.53,658,Male,Asian,25.41868995566916,148.54,94.12763863039169,3.56,High,Former,,Diabetic,658,Uninsured,650.2833484815307,Metformin
+ubmnyvthrlkobppl908,rbjthgodtidn908,California,Married,1.96,908,Female,Black,19.75,91.59788160895998,93.36143609,3.56,Moderate,Former,Moderate,Diabetic,908,Uninsured,811.8003645464281,Metformin
+pthliavjurekutli855,heluuvjkaofu855,California,Single,0.37,855,Female,Asian,18.55705686138479,91.59788160895998,175.79,2.135448124552057,Moderate,Never,High,Non-Diabetic,855,Insured,616.0959452024674,
+vrzclxbuwmpxdfyj412,ehigvhpgzuro412,California,Married,0.53,412,Male,Asian,22.04502064908496,148.54,94.12763863039169,3.56,Low,Current,,Diabetic,412,Insured,1093.2694640570294,Insulin
+epggedonpbzxwprv264,xtfmbvrpbekx264,California,Single,1.96,264,Female,Black,26.35,148.54,175.79,24.55,High,Never,Moderate,Non-Diabetic,264,Uninsured,528.1553002754529,Metformin
+ualxrtfchnnypxiv290,ebriyvyucoks290,California,Single,2.28,290,Male,Asian,22.04502064908496,148.54,94.12763863039169,3.56,Moderate,Former,,Diabetic,290,Uninsured,340.7877902157701,Metformin
+cravammfxszwlpmn705,ltpbunhvdegb705,California,Married,2.28,705,Male,Black,19.75,196.23,94.12763863039169,2.135448124552057,Low,Current,,Diabetic,705,Uninsured,811.8003645464281,Insulin
+hmaiqqxsxnrifqsi96,qlocezzhgzwk96,California,Married,0.28,96,Male,White,18.55705686138479,91.87,118.02,24.87,High,Current,,Non-Diabetic,96,Insured,1893.432070757025,GLP-1 agonist
+bzeixgwdrgdjllrx402,cbrowldfpvol402,California,Married,2.28,402,Female,Hispanic,19.75,196.23,144.11896149120247,2.135448124552057,High,Never,,Diabetic,402,Uninsured,1192.2370685089963,Insulin
+rjwoetltuffvqdbr478,utzmfxvcgxcx478,California,Single,1.58,478,Male,Black,18.55705686138479,196.23,130.28302095632574,20.85,High,Never,,Non-Diabetic,478,Insured,811.8003645464281,
+exnxhclcwhrcfogy406,iuxltfayiloc406,California,Single,2.18,406,Female,Hispanic,19.75,91.87,130.28302095632574,20.85,Low,Never,,Diabetic,406,Insured,340.7877902157701,Insulin
+bjsbrsgnihcydvnd571,spkuvgyenlfs571,California,Single,1.96,571,Male,Asian,33.77556181601884,88.32,175.79,3.56,High,Former,High,Diabetic,571,Insured,1181.6620256340148,GLP-1 agonist
+eozjvkxuqqzbsntk475,nnacximywvwn475,California,Married,0.28,475,Female,White,32.78,190.31,177.08993914366752,24.87,Moderate,Current,High,Non-Diabetic,475,Uninsured,1893.432070757025,Insulin
+jztizhsohlxwixea515,tvreoftoevuz515,California,Single,0.37,515,Male,Asian,33.77556181601884,168.13971522677122,93.36143609,24.87,High,Former,High,Non-Diabetic,515,Uninsured,1288.8830549174445,GLP-1 agonist
+ubmzlfcbyeesfsxf496,eifzrkakdseq496,California,Single,2.28,496,Female,White,32.78,151.66542219376322,94.12763863039169,10.11686127233257,Moderate,Former,High,Diabetic,496,Insured,616.0959452024674,
+nxxopjtrdgdochry608,svnwyaaiivjl608,California,Single,1.58,608,Female,Hispanic,22.04502064908496,91.87,130.28302095632574,20.85,High,Never,,Diabetic,608,Insured,1192.2370685089963,Insulin
+depttxowfsncrnyi202,lchxqqenjwzi202,California,Married,1.96,202,Male,Black,33.77556181601884,168.13971522677122,152.9353998166657,3.56,Moderate,Former,,Diabetic,202,Insured,340.7877902157701,GLP-1 agonist
+jqokklsntatqfypi323,pcorfnfqgnne323,California,Married,0.28,323,Male,Hispanic,26.35,81.98740438709201,118.02,4.541990697,High,Never,High,Diabetic,323,Uninsured,811.8003645464281,
+cssryhdmkzubhwpe463,aqombflsjcyq463,California,Married,0.37,463,Female,White,18.55705686138479,91.59788160895998,95.31,24.87,High,Former,Moderate,Non-Diabetic,463,Uninsured,1181.6620256340148,GLP-1 agonist
+bzynjrmxkivmztqg772,ahvqkteerpph772,California,Married,0.53,772,Female,Black,33.77556181601884,168.13971522677122,152.9353998166657,3.56,Low,Current,,Diabetic,772,Insured,340.7877902157701,GLP-1 agonist
+fjclnohoriqmaphh936,zffzpiyccejo936,California,Married,2.21,936,Female,Asian,19.75,168.13971522677122,130.28302095632574,20.85,High,Never,,Diabetic,936,Uninsured,1288.8830549174445,GLP-1 agonist
+dusjfxdpdyroynmw905,gcsycyzdsopv905,California,Married,0.2,905,Female,Hispanic,19.75,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,905,Uninsured,1192.2370685089963,Insulin
+laarfrxfkrzzjcac143,iijvyzvrzlxj143,California,Married,0.37,143,Female,Asian,22.04502064908496,186.1,175.79,24.55,Low,Never,Moderate,Non-Diabetic,143,Insured,650.2833484815307,Metformin
+xotffqidcqitvbru828,twnydoguhrkr828,California,Married,0.2,828,Female,Hispanic,18.55705686138479,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,828,Insured,340.7877902157701,
+exnxhclcwhrcfogy406,iuxltfayiloc406,California,Single,2.18,406,Female,Hispanic,19.75,91.87,130.28302095632574,20.85,Low,Never,,Diabetic,406,Insured,340.7877902157701,Insulin
+befejxhwdrckypei776,gzllyyptyjjp776,California,Married,0.37,776,Female,Black,33.77556181601884,168.13971522677122,94.12763863039169,3.56,High,Never,,Diabetic,776,Uninsured,1181.6620256340148,GLP-1 agonist
+rksilehtksneknli725,rlexbbznvqub725,California,Married,2.21,725,Female,Hispanic,32.78,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,725,Uninsured,1192.2370685089963,Insulin
+tnwxgavnliejthfv47,tmtvmwthwjsm47,California,Married,2.18,47,Female,Black,22.04502064908496,196.23,130.28302095632574,20.85,Low,Never,,Diabetic,47,Insured,811.8003645464281,Insulin
+pffengbttudmtpnc787,qxshmhzjsxok787,California,Single,2.18,787,Female,Hispanic,33.77556181601884,88.32,130.28302095632574,3.56,High,Never,High,Diabetic,787,Uninsured,1893.432070757025,GLP-1 agonist
+htdgkgjglmsteaap15,harjmaqncpnm15,California,Married,2.21,15,Male,Hispanic,19.75,91.87,130.28302095632574,20.85,Low,Never,,Diabetic,15,Insured,340.7877902157701,Insulin
+njslqzulzudmucmr615,hypgiehlusrk615,California,Single,1.96,615,Male,White,22.69909747656427,151.66542219376322,130.28302095632574,10.11686127233257,Moderate,Current,High,Diabetic,615,Uninsured,1093.2694640570294,
+dusstpherzjzglpt450,entanirssopw450,California,Married,0.37,450,Female,Asian,19.75,91.59788160895998,130.28302095632574,2.135448124552057,High,Former,,Diabetic,450,Insured,650.2833484815307,Metformin
+dnetjlhosffiueoq900,excsfmvmvsqy900,California,Married,0.28,900,Female,Asian,18.55705686138479,196.23,177.08993914366752,24.87,High,Current,High,Non-Diabetic,900,Uninsured,650.2833484815307,
+isqiksziowcylign704,cbjtgacntmnm704,California,Single,0.53,704,Female,White,19.75,91.59788160895998,93.36143609,10.15,Moderate,Never,Moderate,Diabetic,704,Uninsured,1181.6620256340148,Metformin
+ppqevoprjuaqgwaz453,yedqveuhrlyr453,California,Single,0.53,453,Female,Asian,19.75,186.1,175.79,3.56,High,Former,Moderate,Diabetic,453,Uninsured,650.2833484815307,Metformin
+tmsbyudittmoewmq810,xugzbjuodsfv810,California,Single,2.21,810,Male,Hispanic,19.75,91.87,175.79,3.56,High,Current,Moderate,Diabetic,810,Insured,1192.2370685089963,Insulin
+lwuacwnycctnopcy597,oldemzuopolp597,California,Married,0.28,597,Female,Black,22.04502064908496,190.31,177.08993914366752,24.87,Moderate,Current,High,Diabetic,597,Uninsured,340.7877902157701,Metformin
+yavatgvhxoqusqiw111,czuqqpkmhkbv111,California,Married,0.37,111,Female,Black,26.35,88.32,118.02,24.87,Moderate,Former,,Non-Diabetic,111,Insured,1181.6620256340148,
+sunkhrikkqilzqwl851,gotqxhlaaktm851,California,Married,0.2,851,Male,Asian,18.55705686138479,168.13971522677122,93.36143609,24.87,High,Former,High,Non-Diabetic,851,Insured,1288.8830549174445,GLP-1 agonist
+plnejhvynysbormf334,vuttblzqkmng334,California,Single,0.53,334,Female,White,18.55705686138479,81.98740438709201,175.79,10.15,Moderate,Never,,Non-Diabetic,334,Insured,340.7877902157701,GLP-1 agonist
+ittyrtljfsdzjerk372,hgkddhunsuwn372,California,Single,0.2,372,Female,Asian,25.653635126421914,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,372,Insured,1288.8830549174445,Metformin
+hxjqfngelsaxqndq540,emjjxfootehg540,California,Married,0.37,540,Female,Asian,19.75,148.54,94.12763863039169,3.56,High,Never,,Diabetic,540,Insured,650.2833484815307,Metformin
+viwyihhjzckhajmb723,wswslaamvjot723,California,Married,1.58,723,Female,Hispanic,22.04502064908496,186.1,133.36,5.35,High,Never,,Non-Diabetic,723,Insured,650.2833484815307,Metformin
+evqlgusydrqkypfz37,ivoskqlmpumr37,California,Married,1.41,37,Male,Asian,19.75,186.1,177.08993914366752,5.35,Low,Current,,Non-Diabetic,37,Insured,650.2833484815307,Insulin
+gclpbexbjrveitdq895,mmudaojhoath895,California,Single,2.28,895,Male,White,25.653635126421914,151.66542219376322,94.12763863039169,10.11686127233257,Moderate,Never,High,Diabetic,895,Insured,1181.6620256340148,
+yozbgregqlgcldvn29,uksirlvdilda29,California,Single,0.37,29,Female,Asian,19.75,190.31,130.28302095632574,3.56,Moderate,Current,High,Diabetic,29,Insured,616.0959452024674,Metformin
+jzarjritnjlmwpii86,lxsvkvcwlmrv86,California,Single,2.28,86,Male,White,19.75,168.13971522677122,94.12763863039169,10.11686127233257,Low,Former,High,Diabetic,86,Uninsured,1893.432070757025,Metformin
+nmrkgcyiwmetzsxb588,psutruvsnssj588,California,Married,2.28,588,Female,Hispanic,25.653635126421914,186.1,175.79,3.56,Moderate,Former,Moderate,Diabetic,588,Insured,650.2833484815307,
+doxgepoycgkpgquy447,ukswqaqhmuua447,California,Married,0.28,447,Male,White,18.55705686138479,91.87,177.08993914366752,24.87,High,Current,High,Non-Diabetic,447,Insured,1893.432070757025,GLP-1 agonist
+lycbgfbmyutfovqy904,yzkoorrclcrj904,California,Married,1.58,904,Female,Hispanic,19.75,190.31,144.11896149120247,4.541990697,Low,Never,Moderate,Non-Diabetic,904,Insured,650.2833484815307,Insulin
+jaeedjncsosxrxxf804,dnwxfollsvko804,California,Single,2.28,804,Female,Hispanic,19.75,190.31,144.11896149120247,4.541990697,Low,Current,Moderate,Non-Diabetic,804,Uninsured,650.2833484815307,Insulin
+rcouhabmrseckcrf740,vmzrgkpcfziz740,California,Single,0.28,740,Male,Hispanic,25.41868995566916,91.87,118.02,24.87,Low,Current,,Diabetic,740,Uninsured,1192.2370685089963,Metformin
+pthliavjurekutli855,heluuvjkaofu855,California,Single,0.37,855,Female,Asian,18.55705686138479,91.59788160895998,175.79,2.135448124552057,Moderate,Never,High,Non-Diabetic,855,Insured,616.0959452024674,
+ypmlreuigfcmqrmh595,htiaozikhuuc595,California,Married,1.96,595,Female,Hispanic,19.75,186.1,133.36,5.35,Moderate,Never,,Non-Diabetic,595,Uninsured,1288.8830549174445,Insulin
+vrizzjebgmcasbwo373,bngwxtybwnuu373,California,Married,2.18,373,Female,Asian,32.31,91.59788160895998,130.28302095632574,20.85,Low,Never,High,Non-Diabetic,373,Uninsured,650.2833484815307,Metformin
+dmiibqazkqyvaexq565,wddacgpndgsy565,California,Married,0.37,565,Female,Hispanic,32.31,186.1,118.02,24.55,Moderate,Never,Moderate,Non-Diabetic,565,Insured,1288.8830549174445,
+ikcwnmcphoelyzzt313,bfxuhtdodpju313,California,Married,0.37,313,Female,Black,22.04502064908496,91.59788160895998,175.79,3.56,Low,Never,Moderate,Diabetic,313,Uninsured,811.8003645464281,Insulin
+iigjjvjdqfdidrvg276,izlylqgdmthz276,California,Married,1.58,276,Female,Black,19.75,190.31,93.36143609,24.87,Low,Never,High,Non-Diabetic,276,Insured,1093.2694640570294,Insulin
+wrwhbpnvxgwnfobd646,ffpsndzlbgsl646,California,Single,2.28,646,Female,Hispanic,22.04502064908496,190.31,144.11896149120247,4.541990697,Low,Never,Moderate,Non-Diabetic,646,Uninsured,1093.2694640570294,Metformin
+cjckijekrtvmkzye985,umprtiabbeae985,California,Single,1.96,985,Female,Hispanic,22.04502064908496,91.87,177.08993914366752,3.56,Low,Former,Moderate,Diabetic,985,Insured,340.7877902157701,Insulin
+vuarufhfxfumjupg516,yduqjlsmnivh516,California,Single,2.18,516,Female,Asian,22.04502064908496,91.59788160895998,130.28302095632574,20.85,High,Never,,Diabetic,516,Insured,1181.6620256340148,Insulin
+brjkdyhhdrraedlp439,ewmshyayqnyz439,California,Married,1.41,439,Female,Asian,19.75,91.59788160895998,130.28302095632574,2.135448124552057,Low,Former,,Diabetic,439,Insured,616.0959452024674,Insulin
+glgsnejsddmripiu190,hcrmosjezziz190,California,Single,2.21,190,Male,Asian,22.04502064908496,148.54,94.12763863039169,3.56,Moderate,Current,,Diabetic,190,Uninsured,811.8003645464281,Metformin
+tnwxgavnliejthfv47,tmtvmwthwjsm47,California,Married,2.18,47,Female,Black,22.04502064908496,196.23,130.28302095632574,20.85,Low,Never,,Diabetic,47,Insured,811.8003645464281,Insulin
+logjouwzezrtplnq133,nknnvcdaptbv133,California,Married,0.28,133,Male,Asian,19.75,196.23,118.02,24.87,Low,Current,,Diabetic,133,Uninsured,1093.2694640570294,Insulin
+xszwtncxsqdootcn785,parfbkzsusut785,California,Married,0.28,785,Female,Asian,19.75,196.23,94.12763863039169,24.87,Low,Current,,Diabetic,785,Uninsured,811.8003645464281,Insulin
+ukubeduhnzlfodyx914,iruvaeowqlqn914,California,Married,2.28,914,Female,Black,32.78,91.87,133.36,24.87,High,Former,High,Non-Diabetic,914,Insured,528.1553002754529,Insulin
+jlfahwvjqouuivoi495,ipbuxzhyybus495,California,Married,2.21,495,Male,Asian,19.75,168.13971522677122,152.9353998166657,4.541990697,Low,Current,High,Diabetic,495,Insured,1893.432070757025,Metformin
+emadevzbihiebfgv61,eonfvdetgwye61,California,Married,1.96,61,Female,Hispanic,22.04502064908496,81.98740438709201,133.36,4.541990697,Moderate,Current,High,Diabetic,61,Uninsured,811.8003645464281,Metformin
+zjcjyqhqscpegihk644,adlhyqvahhfq644,California,Married,0.53,644,Female,Black,33.77556181601884,88.32,118.02,24.87,Low,Never,,Diabetic,644,Uninsured,650.2833484815307,GLP-1 agonist
+yzlxdhgbsgxralbq572,kllkxehprrua572,California,Single,1.96,572,Female,Asian,25.653635126421914,81.98740438709201,130.28302095632574,4.541990697,High,Current,,Diabetic,572,Uninsured,811.8003645464281,
+nihcirycgubilkpn302,gawnhmpcpywc302,California,Single,1.96,302,Male,Asian,25.41868995566916,148.54,152.9353998166657,3.56,Moderate,Former,,Diabetic,302,Uninsured,340.7877902157701,Metformin
+ualxrtfchnnypxiv290,ebriyvyucoks290,California,Single,2.28,290,Male,Asian,22.04502064908496,148.54,94.12763863039169,3.56,Moderate,Former,,Diabetic,290,Uninsured,340.7877902157701,Metformin
+deambqqeeavskvsl676,rwkxuqdltmed676,California,Married,2.21,676,Female,White,18.55705686138479,81.98740438709201,144.11896149120247,10.15,High,Never,,Non-Diabetic,676,Uninsured,340.7877902157701,GLP-1 agonist
+wcollauntwgvshxs338,hmdykkguivqd338,California,Married,0.28,338,Female,White,18.55705686138479,196.23,177.08993914366752,24.87,High,Current,High,Non-Diabetic,338,Uninsured,811.8003645464281,
+bwlsagssntdbhxmh116,mfuafodbbwrh116,California,Married,1.96,116,Female,Asian,22.04502064908496,190.31,144.11896149120247,4.541990697,Low,Current,Moderate,Non-Diabetic,116,Uninsured,1893.432070757025,Metformin
+vspwetvungcgvphg934,lqohceotasbq934,California,Married,2.28,934,Male,White,19.75,168.13971522677122,152.9353998166657,10.11686127233257,High,Former,High,Diabetic,934,Uninsured,1093.2694640570294,Metformin
+clyzitruktsfhmeb544,kjdgkqbwkbhy544,California,Married,0.28,544,Female,Hispanic,25.653635126421914,186.1,133.36,5.35,Low,Never,,Non-Diabetic,544,Uninsured,650.2833484815307,Metformin
+lwxcjziinzkhzzge257,noawvdkqrvcq257,California,Single,2.21,257,Male,White,22.04502064908496,148.54,144.11896149120247,4.541990697,Low,Current,Moderate,Non-Diabetic,257,Uninsured,650.2833484815307,Metformin
+ammlndnirairsgrc920,ufvflcmfghqy920,California,Married,2.18,920,Female,White,18.55705686138479,88.32,130.28302095632574,20.85,High,Never,,Non-Diabetic,920,Uninsured,1893.432070757025,GLP-1 agonist
+amqnsezqarojdwks954,fnrgipjttdhj954,California,Single,0.37,954,Female,Asian,19.75,148.54,94.12763863039169,3.56,High,Never,,Diabetic,954,Insured,650.2833484815307,Metformin
+xynrfreraltielsh652,vogwpleuffdw652,California,Married,2.18,652,Female,Black,33.77556181601884,168.13971522677122,94.12763863039169,3.56,Moderate,Never,,Diabetic,652,Uninsured,340.7877902157701,GLP-1 agonist
+zzjicpwbefyffthk387,rpponvmsbnkz387,California,Married,1.96,387,Male,Hispanic,22.69909747656427,88.32,175.79,3.56,Moderate,Former,High,Diabetic,387,Uninsured,616.0959452024674,
+jeptgipxunbwrzbo873,ricozzoicblf873,California,Single,0.37,873,Female,Asian,19.75,91.59788160895998,93.36143609,2.135448124552057,Moderate,Never,,Diabetic,873,Insured,1181.6620256340148,Metformin
+tchfvyieklfqhhae946,ifurnduhnymr946,California,Married,1.96,946,Female,Hispanic,18.55705686138479,186.1,175.79,24.55,High,Never,Moderate,Non-Diabetic,946,Insured,1093.2694640570294,GLP-1 agonist
+qoozcovjxoybajbd662,fcrytckmgmnm662,California,Married,2.18,662,Male,White,26.35,151.66542219376322,175.79,10.11686127233257,Low,Never,High,Diabetic,662,Uninsured,1093.2694640570294,
+lrpsaxwurjkxzfpj726,ckgfbqratnia726,California,Married,1.96,726,Female,Hispanic,32.78,190.31,144.11896149120247,4.541990697,Low,Current,Moderate,Non-Diabetic,726,Uninsured,1093.2694640570294,Insulin
+kzzwrrtltuzabudi837,lftkhqwqxzuu837,California,Married,0.28,837,Male,Asian,25.41868995566916,168.13971522677122,177.08993914366752,24.87,High,Current,High,Diabetic,837,Uninsured,1288.8830549174445,Metformin
+xszwtncxsqdootcn785,parfbkzsusut785,California,Married,0.28,785,Female,Asian,19.75,196.23,94.12763863039169,24.87,Low,Current,,Diabetic,785,Uninsured,811.8003645464281,Insulin
+nmchpefjttayuqmu990,dvjswojwfica990,California,Married,0.28,990,Male,Hispanic,25.41868995566916,81.98740438709201,118.02,4.541990697,Moderate,Never,,Diabetic,990,Uninsured,1181.6620256340148,GLP-1 agonist
+gwydvbwtbawgmdmx663,nbixesozxfxb663,California,Single,0.53,663,Male,Asian,19.75,148.54,94.12763863039169,3.56,Moderate,Current,,Diabetic,663,Uninsured,340.7877902157701,Metformin
+vydwyzqfrdaxtasw296,eocsnzwtfjro296,California,Single,0.37,296,Female,White,33.77556181601884,151.66542219376322,94.12763863039169,10.11686127233257,Moderate,Former,High,Diabetic,296,Insured,650.2833484815307,
+sbkkkpwrqymegnxs774,ajcqomtjoxde774,California,Married,0.37,774,Male,Black,25.653635126421914,190.31,175.79,24.55,Low,Never,Moderate,Non-Diabetic,774,Insured,1093.2694640570294,Metformin
+nihcirycgubilkpn302,gawnhmpcpywc302,California,Single,1.96,302,Male,Asian,25.41868995566916,148.54,152.9353998166657,3.56,Moderate,Former,,Diabetic,302,Uninsured,340.7877902157701,Metformin
+bkjixgzbpluovirc857,nythfzaeaszn857,California,Married,0.37,857,Female,White,26.35,151.66542219376322,94.12763863039169,10.11686127233257,High,Former,High,Diabetic,857,Insured,650.2833484815307,
+jlqswjdejvqhyrgb777,yjoiwrgcgmin777,California,Married,1.96,777,Female,Black,25.653635126421914,151.66542219376322,152.9353998166657,3.56,Moderate,Former,,Diabetic,777,Uninsured,1893.432070757025,
+rxwiuoizpludlnaf320,suvmudjzqkjq320,California,Single,0.53,320,Female,Black,25.41868995566916,81.98740438709201,130.28302095632574,3.56,High,Current,High,Diabetic,320,Uninsured,528.1553002754529,Metformin
+llekifqlnuyrlciv212,lwcgnsyktnsl212,California,Married,0.28,212,Female,White,19.75,190.31,144.11896149120247,4.541990697,High,Never,Moderate,Non-Diabetic,212,Uninsured,1181.6620256340148,Insulin
+zwbtexxnuxevgmrr683,vyhkeowxyjyr683,California,Single,0.28,683,Female,Black,18.55705686138479,88.32,94.12763863039169,24.87,High,Current,,Non-Diabetic,683,Uninsured,340.7877902157701,
+uqqtryrgtbgwvvnx799,xvnsrxgunxrj799,California,Married,0.53,799,Female,White,22.04502064908496,91.59788160895998,130.28302095632574,10.15,High,Former,Moderate,Diabetic,799,Uninsured,528.1553002754529,Metformin
+pvnxcowysyuljguk712,mfmddowdbhko712,California,Married,0.2,712,Female,Hispanic,18.55705686138479,190.31,144.11896149120247,4.541990697,Low,Current,Moderate,Non-Diabetic,712,Insured,650.2833484815307,
+idizmnwkxpzdsadv427,sndrjxshseye427,California,Married,1.58,427,Male,Black,22.04502064908496,196.23,133.36,20.85,Low,Never,,Diabetic,427,Insured,811.8003645464281,Insulin
+xpiebuescorpatfr684,anqgzatgzhuf684,California,Single,0.53,684,Female,Asian,26.35,186.1,177.08993914366752,3.56,Moderate,Former,Moderate,Diabetic,684,Insured,1181.6620256340148,
+lvdztngdavlefmwc434,xyjjtuxkptqb434,California,Married,1.96,434,Male,Black,19.75,168.13971522677122,94.12763863039169,3.56,Low,Former,,Diabetic,434,Uninsured,1093.2694640570294,Metformin
+gdqqhnaxhdpdybfe361,rvjptvweyqts361,California,Married,0.37,361,Male,Asian,18.55705686138479,168.13971522677122,118.02,24.87,High,Former,High,Non-Diabetic,361,Uninsured,1288.8830549174445,GLP-1 agonist
+wsydcatxusnetuzc215,cokqzdcnjbti215,California,Married,0.53,215,Male,Black,18.55705686138479,148.54,133.36,24.87,Moderate,Never,Moderate,Non-Diabetic,215,Insured,528.1553002754529,GLP-1 agonist
+iamqmtxxlatfaatd651,bwwaaavcgzls651,California,Married,0.2,651,Female,Hispanic,19.75,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,651,Uninsured,1192.2370685089963,Insulin
+hcwphbcizptesgdp112,aldwfgckalpb112,California,Single,1.58,112,Female,Asian,32.31,190.31,144.11896149120247,4.541990697,Moderate,Never,Moderate,Non-Diabetic,112,Uninsured,650.2833484815307,
+hfzkfqgccahxkogq988,kbcrosoazxsu988,California,Married,0.37,988,Male,Black,32.78,88.32,130.28302095632574,3.56,Moderate,Never,High,Diabetic,988,Insured,528.1553002754529,
+hopqwgtzgczjrtup309,oqlujwdvwxoa309,California,Single,2.18,309,Female,Asian,26.35,186.1,94.12763863039169,3.56,Moderate,Never,,Diabetic,309,Uninsured,650.2833484815307,
+vvlqciposvmysfpi611,atmjjqjsweqi611,California,Single,1.58,611,Female,Asian,25.41868995566916,91.59788160895998,95.31,2.135448124552057,High,Never,,Diabetic,611,Insured,528.1553002754529,Metformin
+fffysnvavsgftrno396,xwmdeedtmkhb396,California,Married,0.53,396,Female,Black,25.41868995566916,168.13971522677122,94.12763863039169,3.56,Moderate,Current,,Diabetic,396,Uninsured,1181.6620256340148,GLP-1 agonist
+nppwdwsjlukrozft461,fpwrsaspsyzc461,California,Married,2.21,461,Female,Hispanic,26.35,151.66542219376322,118.02,10.11686127233257,Moderate,Former,High,Diabetic,461,Insured,616.0959452024674,
+rezicatftmqzsxgk288,clruyrlutson288,California,Married,0.53,288,Male,Black,25.41868995566916,168.13971522677122,94.12763863039169,3.56,Moderate,Current,,Diabetic,288,Uninsured,1181.6620256340148,Metformin
+ravzffsncpoeaxhy884,jqliynvuobhk884,California,Single,0.37,884,Male,Hispanic,19.75,190.31,93.36143609,24.87,Low,Former,High,Non-Diabetic,884,Insured,650.2833484815307,Insulin
+rasqsauknudfttsq77,shazqmvortpf77,California,Married,1.41,77,Female,Asian,25.41868995566916,88.32,133.36,5.35,Low,Never,Moderate,Diabetic,77,Uninsured,340.7877902157701,GLP-1 agonist
+ajvsqzgloemniins219,teetgwhvldsl219,California,Married,0.37,219,Female,Hispanic,33.77556181601884,186.1,118.02,24.55,High,Never,Moderate,Non-Diabetic,219,Uninsured,650.2833484815307,GLP-1 agonist
+gyunprkuaefkojtp745,cxwfspxbyhtz745,California,Married,2.28,745,Male,Black,22.04502064908496,148.54,94.12763863039169,2.135448124552057,Moderate,Current,,Diabetic,745,Uninsured,811.8003645464281,Metformin
+bkekrwqyqmskzdhg438,wueuhaeksgbg438,California,Married,2.18,438,Female,White,18.55705686138479,186.1,118.02,5.35,High,Former,,Non-Diabetic,438,Uninsured,1093.2694640570294,GLP-1 agonist
+ravzffsncpoeaxhy884,jqliynvuobhk884,California,Single,0.37,884,Male,Hispanic,19.75,190.31,93.36143609,24.87,Low,Former,High,Non-Diabetic,884,Insured,650.2833484815307,Insulin
+yifndfuvnfacunwa161,avtawcfvsmxn161,California,Married,0.28,161,Male,Black,19.75,91.87,130.28302095632574,24.87,High,Current,,Diabetic,161,Uninsured,528.1553002754529,Metformin
+dmlgkvgawxecmhzo336,jtjrwfnjttmi336,California,Married,0.37,336,Male,Asian,33.77556181601884,168.13971522677122,93.36143609,24.87,High,Former,High,Diabetic,336,Uninsured,1093.2694640570294,GLP-1 agonist
+aczgewzaakyvajwa842,btzljnahzzxf842,California,Single,2.18,842,Male,Hispanic,19.75,91.87,130.28302095632574,20.85,High,Never,,Diabetic,842,Insured,1192.2370685089963,Insulin
+pkixyrldmukzrddx370,wfzdjxqpzvmx370,California,Single,1.96,370,Male,Hispanic,19.75,186.1,144.11896149120247,4.541990697,Low,Current,Moderate,Non-Diabetic,370,Uninsured,650.2833484815307,Insulin
+nchbvklhibbjkckz757,txqlxmjfndao757,California,Married,1.96,757,Female,Asian,19.75,190.31,175.79,3.56,Low,Former,High,Diabetic,757,Uninsured,1893.432070757025,Metformin
+jzotdnusmjbhrvbi576,sjzzhyuimbgo576,California,Married,0.2,576,Male,Black,25.41868995566916,148.54,94.12763863039169,24.55,Moderate,Current,High,Diabetic,576,Insured,811.8003645464281,Metformin
+bzjcmsuhbtnveidy490,cfvnimfxlgqg490,California,Married,2.21,490,Female,Hispanic,19.75,91.87,130.28302095632574,3.56,Moderate,Never,High,Diabetic,490,Insured,340.7877902157701,Metformin
+yjnrturjhflhnzmf210,vvqhbnmzzuzc210,California,Single,0.28,210,Male,Asian,18.55705686138479,168.13971522677122,177.08993914366752,24.87,High,Current,High,Non-Diabetic,210,Uninsured,1093.2694640570294,GLP-1 agonist
+logjouwzezrtplnq133,nknnvcdaptbv133,California,Married,0.28,133,Male,Asian,19.75,196.23,118.02,24.87,Low,Current,,Diabetic,133,Uninsured,1093.2694640570294,Insulin
+ddtwaxvizsvtuclo266,rjjpmsmmprzb266,California,Single,0.53,266,Female,Asian,25.653635126421914,151.66542219376322,94.12763863039169,3.56,Moderate,Current,,Diabetic,266,Insured,1181.6620256340148,
+iyxvtqhkzdjfzfvo109,occwfrmpzvqp109,California,Married,0.37,109,Male,Black,22.04502064908496,148.54,144.11896149120247,24.87,Moderate,Former,Moderate,Non-Diabetic,109,Insured,811.8003645464281,Metformin
+hdxvczbjztpkqlzl216,tcdckvsnzhgy216,California,Single,0.28,216,Male,White,22.04502064908496,81.98740438709201,133.36,4.541990697,Moderate,Former,High,Diabetic,216,Uninsured,811.8003645464281,Metformin
+vrizzjebgmcasbwo373,bngwxtybwnuu373,California,Married,2.18,373,Female,Asian,32.31,91.59788160895998,130.28302095632574,20.85,Low,Never,High,Non-Diabetic,373,Uninsured,650.2833484815307,Metformin
+orpoptvwioyrqymb169,zfpggtqjknxi169,California,Single,1.96,169,Male,Asian,25.41868995566916,190.31,130.28302095632574,3.56,High,Former,High,Diabetic,169,Uninsured,1288.8830549174445,Metformin
+xvteijrblfrupaxk752,gjaixptboihl752,California,Single,1.58,752,Female,Black,19.75,190.31,94.12763863039169,24.55,High,Current,Moderate,Non-Diabetic,752,Insured,1192.2370685089963,Insulin
+ccpbzymmncrudpen617,ejqxsbosojqt617,California,Single,1.96,617,Female,Asian,32.31,186.1,175.79,24.55,Moderate,Never,Moderate,Non-Diabetic,617,Uninsured,650.2833484815307,
+lvfdpkggdgvnnxri436,tzscrtvuutcw436,California,Married,1.58,436,Male,Hispanic,32.78,190.31,144.11896149120247,4.541990697,Low,Never,Moderate,Non-Diabetic,436,Insured,340.7877902157701,Insulin
+mkwitqygfqfcmsuk773,gyymvjencurd773,California,Married,0.53,773,Male,Asian,22.04502064908496,148.54,94.12763863039169,3.56,Low,Current,,Diabetic,773,Uninsured,650.2833484815307,Metformin
+ttnvfutxxzzoypxn957,ijyagsfgmhoj957,California,Married,2.21,957,Male,White,19.75,148.54,93.36143609,24.55,High,Never,High,Diabetic,957,Insured,650.2833484815307,Metformin
+pdjiefphdmqtcwjp51,qutmfqysagog51,California,Single,2.21,51,Male,Hispanic,19.75,168.13971522677122,152.9353998166657,10.11686127233257,High,Former,High,Diabetic,51,Insured,1093.2694640570294,Metformin
+upmnlwpvgihohsjc259,edflyuurfhee259,California,Married,1.96,259,Male,Hispanic,19.75,91.87,175.79,3.56,Moderate,Former,Moderate,Diabetic,259,Uninsured,340.7877902157701,Metformin
+vnvracmwahuavmct148,ihuvbsjzepgr148,California,Married,0.37,148,Female,Asian,32.78,186.1,175.79,24.55,Low,Never,Moderate,Non-Diabetic,148,Uninsured,650.2833484815307,Insulin
+fltsnvpbdlrnqcgq182,ecdnymrgeglg182,California,Married,0.53,182,Male,White,33.77556181601884,151.66542219376322,93.36143609,24.87,Moderate,Never,High,Non-Diabetic,182,Insured,616.0959452024674,GLP-1 agonist
+bzynjrmxkivmztqg772,ahvqkteerpph772,California,Married,0.53,772,Female,Black,33.77556181601884,168.13971522677122,152.9353998166657,3.56,Low,Current,,Diabetic,772,Insured,340.7877902157701,GLP-1 agonist
+jpesgnslizrtqurn428,wmrawowqygle428,California,Married,2.18,428,Male,Hispanic,33.77556181601884,91.87,130.28302095632574,20.85,High,Never,,Non-Diabetic,428,Uninsured,1093.2694640570294,GLP-1 agonist
+qudxndgdlxpodmvu558,huiuwxcezasu558,California,Single,0.28,558,Female,White,18.55705686138479,151.66542219376322,118.02,24.55,Low,Current,Moderate,Non-Diabetic,558,Insured,616.0959452024674,GLP-1 agonist
+hhvsvduzarnxxtvq902,faxlmpnyhufk902,California,Married,2.21,902,Male,Black,26.35,148.54,130.28302095632574,2.135448124552057,Low,Former,,Diabetic,902,Uninsured,650.2833484815307,Insulin
+vcpolrroahhfrimq87,wcjblfigujdm87,California,Single,1.96,87,Male,Black,22.04502064908496,196.23,130.28302095632574,20.85,High,Never,,Diabetic,87,Uninsured,1288.8830549174445,Insulin
+pabecabkblprccmk660,ecgwbnrzcbuh660,California,Married,2.21,660,Female,Black,19.75,196.23,130.28302095632574,20.85,High,Never,,Diabetic,660,Insured,1288.8830549174445,Insulin
+qqyaevpimwmmzfmr738,gxnzbwzigggv738,California,Married,0.37,738,Female,Black,25.41868995566916,168.13971522677122,152.9353998166657,3.56,High,Never,,Diabetic,738,Insured,528.1553002754529,Metformin
+lsfzctvuoztfjycq818,yaglhnygtaix818,California,Married,1.96,818,Female,Hispanic,19.75,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,818,Insured,1192.2370685089963,Insulin
+hwrhcuzqmpqwxvke492,ttvzpuvosspm492,California,Married,2.18,492,Female,Asian,18.55705686138479,168.13971522677122,93.36143609,24.87,High,Never,High,Non-Diabetic,492,Uninsured,1893.432070757025,GLP-1 agonist
+oyrfgxinuhqlzunb768,henxdnrrzakg768,California,Married,0.2,768,Male,Asian,18.55705686138479,186.1,118.02,24.55,High,Current,Moderate,Non-Diabetic,768,Insured,1181.6620256340148,GLP-1 agonist
+hcylguzuoyjowitz932,gfpkszlwapxt932,California,Single,1.96,932,Male,Asian,22.04502064908496,148.54,94.12763863039169,3.56,Moderate,Former,,Diabetic,932,Uninsured,811.8003645464281,Metformin
+ygrjpkanxizqbtag681,pfppsrovzsgc681,California,Married,0.53,681,Male,Black,26.35,151.66542219376322,177.08993914366752,18.67,Moderate,Never,,Diabetic,681,Insured,1893.432070757025,
+zmsbymiwpqjizygw755,fvtlwtkqqsii755,California,Single,1.96,755,Female,Hispanic,18.55705686138479,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,755,Uninsured,340.7877902157701,
+iulteijhqvupltlm606,xtqisqbvzqac606,California,Single,1.96,606,Female,Hispanic,19.75,91.87,175.79,3.56,Low,Former,Moderate,Diabetic,606,Uninsured,340.7877902157701,Insulin
+mnhenrtehtcmewrx426,zidwsgdjknsb426,California,Single,1.96,426,Female,Hispanic,33.77556181601884,186.1,118.02,24.55,High,Never,Moderate,Non-Diabetic,426,Insured,1093.2694640570294,GLP-1 agonist
+ikcwnmcphoelyzzt313,bfxuhtdodpju313,California,Married,0.37,313,Female,Black,22.04502064908496,91.59788160895998,175.79,3.56,Low,Never,Moderate,Diabetic,313,Uninsured,811.8003645464281,Insulin
+uuztzhtqaaxywrxa839,ycqaavpzoueq839,California,Married,0.28,839,Female,Black,25.653635126421914,190.31,177.08993914366752,24.87,High,Current,High,Non-Diabetic,839,Uninsured,1192.2370685089963,
+bkipbtdbnhskolmk184,gtmvbnibtofg184,California,Married,0.37,184,Male,Black,22.04502064908496,148.54,118.02,24.87,High,Former,,Non-Diabetic,184,Insured,528.1553002754529,Metformin
+chajaztthuwpsqeg702,vqcwrytbeuwj702,California,Married,1.96,702,Male,Black,19.75,168.13971522677122,94.12763863039169,3.56,High,Former,,Diabetic,702,Uninsured,1192.2370685089963,Insulin
+szswekkinlawflia500,cjgahtgbqthz500,California,Married,2.21,500,Female,Black,19.75,168.13971522677122,94.12763863039169,3.56,Moderate,Current,,Diabetic,500,Uninsured,340.7877902157701,Metformin
+gqzudptyqzmbudtc754,jlcbkncygpol754,California,Single,0.53,754,Male,Hispanic,26.35,88.32,118.02,10.15,High,Former,Moderate,Diabetic,754,Insured,1192.2370685089963,
+vvlqciposvmysfpi611,atmjjqjsweqi611,California,Single,1.58,611,Female,Asian,25.41868995566916,91.59788160895998,95.31,2.135448124552057,High,Never,,Diabetic,611,Insured,528.1553002754529,Metformin
+cravammfxszwlpmn705,ltpbunhvdegb705,California,Married,2.28,705,Male,Black,19.75,196.23,94.12763863039169,2.135448124552057,Low,Current,,Diabetic,705,Uninsured,811.8003645464281,Insulin
+mrrddamhqwtwtbdb984,ulevlejrolcw984,California,Single,2.28,984,Female,Asian,22.04502064908496,186.1,118.02,24.55,High,Former,Moderate,Non-Diabetic,984,Insured,650.2833484815307,Metformin
+dgfowauvepgvooxn399,wlaokuzumkqx399,California,Married,2.21,399,Female,Black,25.41868995566916,168.13971522677122,94.12763863039169,3.56,Moderate,Current,,Diabetic,399,Insured,340.7877902157701,Metformin
+yfqyvbvarkzboiyo750,vgxgcojakyvs750,California,Married,2.28,750,Male,Hispanic,32.78,168.13971522677122,152.9353998166657,10.11686127233257,High,Former,High,Diabetic,750,Insured,1093.2694640570294,GLP-1 agonist
+sqjebpglgkhwgwus225,hlksstgdkglk225,California,Single,1.58,225,Female,Hispanic,18.55705686138479,186.1,118.02,24.55,High,Current,Moderate,Non-Diabetic,225,Insured,650.2833484815307,GLP-1 agonist
+nbuymafinsscrnvf530,okyaiawkhvip530,California,Married,1.96,530,Male,Black,22.04502064908496,168.13971522677122,94.12763863039169,3.56,Moderate,Former,,Diabetic,530,Uninsured,340.7877902157701,Metformin
+lfgwdkzvunwwdwzp792,ytztdmqudfdo792,California,Married,0.37,792,Male,Black,32.78,91.87,118.02,24.87,Low,Former,,Non-Diabetic,792,Insured,340.7877902157701,Insulin
+dswgxblruwzlpxik329,eyssfilzfxbw329,California,Married,2.21,329,Male,Hispanic,22.04502064908496,91.87,175.79,3.56,High,Current,Moderate,Diabetic,329,Insured,1192.2370685089963,Insulin
+tfrfufszdmdrojjf701,coiectfbgcna701,California,Single,0.53,701,Female,Black,26.35,88.32,133.36,5.35,High,Never,Moderate,Diabetic,701,Insured,340.7877902157701,
+rmygifbaksjkswoq159,uqzmtsxyhtff159,California,Married,0.37,159,Female,Black,25.41868995566916,168.13971522677122,94.12763863039169,3.56,High,Current,,Diabetic,159,Uninsured,1181.6620256340148,GLP-1 agonist
+wnkmqbcictatlibo75,srhakpqluzxw75,California,Married,1.96,75,Male,Black,22.04502064908496,81.98740438709201,130.28302095632574,3.56,Low,Former,High,Diabetic,75,Uninsured,1893.432070757025,Metformin
+fvbtophygruhyidd827,inakatmnkdkv827,California,Single,2.28,827,Female,Asian,22.04502064908496,186.1,118.02,24.55,High,Former,Moderate,Non-Diabetic,827,Insured,650.2833484815307,Metformin
+buzttgnobgnfcudb722,fqxhnvkliuoi722,California,Married,0.53,722,Female,Black,19.75,81.98740438709201,144.11896149120247,3.56,Moderate,Current,High,Diabetic,722,Uninsured,340.7877902157701,Metformin
+uuuysdjyguiptzvc592,txvkrwkdlcrm592,California,Married,1.58,592,Male,Black,25.653635126421914,196.23,130.28302095632574,20.85,High,Never,,Non-Diabetic,592,Uninsured,811.8003645464281,
+srmtyxwaorrtzeja906,sfcgaqpjaxrh906,California,Married,1.96,906,Male,Asian,19.75,148.54,94.12763863039169,3.56,Low,Former,,Diabetic,906,Uninsured,650.2833484815307,Metformin
+donnkqdvhkxajptu510,peaczqcjfjgc510,California,Married,2.21,510,Female,Black,19.75,196.23,130.28302095632574,20.85,Moderate,Never,,Diabetic,510,Insured,1288.8830549174445,Insulin
+zwbtexxnuxevgmrr683,vyhkeowxyjyr683,California,Single,0.28,683,Female,Black,18.55705686138479,88.32,94.12763863039169,24.87,High,Current,,Non-Diabetic,683,Uninsured,340.7877902157701,
+nyfijibapgdtegbh547,txqkcrgbgohh547,California,Single,2.28,547,Male,Asian,18.55705686138479,91.59788160895998,177.08993914366752,2.135448124552057,Moderate,Current,High,Non-Diabetic,547,Insured,650.2833484815307,
+yzlxdhgbsgxralbq572,kllkxehprrua572,California,Single,1.96,572,Female,Asian,25.653635126421914,81.98740438709201,130.28302095632574,4.541990697,High,Current,,Diabetic,572,Uninsured,811.8003645464281,
+yipzjixdkfnovadg466,yqtbeolulmra466,California,Single,1.96,466,Female,Asian,26.35,186.1,95.31,3.56,High,Former,Moderate,Diabetic,466,Uninsured,650.2833484815307,
+hwysbjlsgexxgscw137,ghbjpcpsawcx137,California,Single,0.2,137,Male,White,22.04502064908496,186.1,144.11896149120247,4.541990697,Moderate,Current,Moderate,Non-Diabetic,137,Insured,811.8003645464281,Metformin
+dlcekvppkurtgntp244,rkpskquawooh244,California,Married,2.18,244,Male,Black,26.35,88.32,152.9353998166657,24.87,Moderate,Never,,Non-Diabetic,244,Uninsured,1181.6620256340148,
+mvqmzsjffjvhricc744,eaiuxmujakki744,California,Married,1.96,744,Female,Asian,25.653635126421914,190.31,144.11896149120247,4.541990697,Low,Current,Moderate,Non-Diabetic,744,Uninsured,1893.432070757025,Metformin
+ogigvzkjtsrrrumf246,ahhnjrdctedm246,California,Single,2.18,246,Male,Asian,26.35,196.23,93.36143609,24.87,Moderate,Never,High,Non-Diabetic,246,Uninsured,811.8003645464281,Metformin
+bzjcmsuhbtnveidy490,cfvnimfxlgqg490,California,Married,2.21,490,Female,Hispanic,19.75,91.87,130.28302095632574,3.56,Moderate,Never,High,Diabetic,490,Insured,340.7877902157701,Metformin
+vvdhoglphhrpkugz633,kzlwuxauiipb633,California,Single,0.53,633,Male,Asian,25.41868995566916,148.54,94.12763863039169,3.56,Moderate,Current,,Diabetic,633,Uninsured,340.7877902157701,Metformin
+fqarelzxktqoocai231,lajjiufzlfrm231,California,Single,1.96,231,Female,Asian,33.77556181601884,196.23,152.9353998166657,4.541990697,High,Current,High,Diabetic,231,Insured,1093.2694640570294,GLP-1 agonist
+fqynydjskjsaibcf442,zdsegjshflzc442,California,Married,0.28,442,Male,Asian,18.55705686138479,196.23,177.08993914366752,24.87,Low,Current,High,Non-Diabetic,442,Uninsured,1093.2694640570294,
+zpuhotfkgzkdxclc862,yduynvvxgvvl862,California,Married,1.96,862,Male,Asian,22.04502064908496,148.54,94.12763863039169,3.56,High,Never,,Diabetic,862,Uninsured,1181.6620256340148,Insulin
+wdbwcilunmyclpem731,kdpdgaiitcwl731,California,Married,2.21,731,Male,Hispanic,33.77556181601884,168.13971522677122,133.36,10.11686127233257,Low,Never,High,Diabetic,731,Uninsured,1192.2370685089963,GLP-1 agonist
+wrhmdcddcwuqbhua634,jzmorrahhkoj634,California,Single,0.28,634,Female,White,22.04502064908496,196.23,177.08993914366752,24.87,Low,Current,High,Non-Diabetic,634,Uninsured,650.2833484815307,Metformin
+nhcoucwmoqjdpang841,crgxlyslnequ841,California,Single,1.58,841,Male,Hispanic,26.35,91.87,130.28302095632574,20.85,Low,Never,,Diabetic,841,Insured,340.7877902157701,Insulin
+uuuysdjyguiptzvc592,txvkrwkdlcrm592,California,Married,1.58,592,Male,Black,25.653635126421914,196.23,130.28302095632574,20.85,High,Never,,Non-Diabetic,592,Uninsured,811.8003645464281,
+emadevzbihiebfgv61,eonfvdetgwye61,California,Married,1.96,61,Female,Hispanic,22.04502064908496,81.98740438709201,133.36,4.541990697,Moderate,Current,High,Diabetic,61,Uninsured,811.8003645464281,Metformin
+xikjztftamjaxceq629,ycsupoxovxtv629,California,Single,0.53,629,Male,Asian,19.75,81.98740438709201,130.28302095632574,4.541990697,Moderate,Former,,Diabetic,629,Uninsured,811.8003645464281,GLP-1 agonist
+qagpfisepxsosdxy950,lrliswgaztny950,California,Married,2.28,950,Female,White,25.653635126421914,186.1,177.08993914366752,18.67,High,Never,High,Diabetic,950,Insured,811.8003645464281,
+ulpjmkwllozlnzte103,exqucgwbcvkl103,California,Single,0.53,103,Female,Hispanic,26.35,190.31,144.11896149120247,4.541990697,Low,Current,Moderate,Non-Diabetic,103,Insured,528.1553002754529,
+oqvjhpufoqtrcqvw563,fgupvvqdtugw563,California,Married,0.37,563,Female,Asian,18.55705686138479,196.23,93.36143609,24.87,High,Former,High,Non-Diabetic,563,Insured,811.8003645464281,
+ohorasbawhxaxfrz675,lkghqyalnlkm675,California,Single,1.96,675,Female,Asian,19.75,190.31,144.11896149120247,4.541990697,Moderate,Current,Moderate,Non-Diabetic,675,Uninsured,1288.8830549174445,Insulin
+sxleskmaesxfpdqm673,uajwfxhxdugy673,California,Married,2.18,673,Male,Black,19.75,196.23,130.28302095632574,20.85,High,Never,,Diabetic,673,Insured,1288.8830549174445,Insulin
+utntbtvrdxouxcrf788,vtljsznrrubv788,California,Married,0.28,788,Female,White,25.41868995566916,81.98740438709201,118.02,4.541990697,Low,Never,,Diabetic,788,Uninsured,1093.2694640570294,Metformin
+tnwxgavnliejthfv47,tmtvmwthwjsm47,California,Married,2.18,47,Female,Black,22.04502064908496,196.23,130.28302095632574,20.85,Low,Never,,Diabetic,47,Insured,811.8003645464281,Insulin
+fzqhkxdenhxatsgh567,ctpwqpxixxcp567,California,Married,2.28,567,Male,White,33.77556181601884,151.66542219376322,175.79,2.135448124552057,High,Never,High,Non-Diabetic,567,Insured,1093.2694640570294,GLP-1 agonist
+cbxwfbzkfuwcsbke848,ygmqmkwwxqyb848,California,Married,1.96,848,Male,Asian,26.35,148.54,94.12763863039169,3.56,Low,Former,,Diabetic,848,Insured,811.8003645464281,Insulin
+llekifqlnuyrlciv212,lwcgnsyktnsl212,California,Married,0.28,212,Female,White,19.75,190.31,144.11896149120247,4.541990697,High,Never,Moderate,Non-Diabetic,212,Uninsured,1181.6620256340148,Insulin
+ktdajyyfqutmmcrd746,dyuovoqdgytv746,California,Married,0.37,746,Female,Asian,26.35,186.1,175.79,24.55,Low,Never,Moderate,Non-Diabetic,746,Insured,650.2833484815307,Metformin
+vqrljhfhsifzaqnl375,pphjwuelhoat375,California,Single,2.28,375,Male,Hispanic,33.77556181601884,168.13971522677122,152.9353998166657,10.11686127233257,Low,Former,High,Diabetic,375,Insured,1192.2370685089963,GLP-1 agonist
+iphesbpqrzeovnee706,fmtvsnfvgaar706,California,Married,1.58,706,Female,Black,26.35,196.23,130.28302095632574,20.85,Low,Never,,Diabetic,706,Insured,811.8003645464281,Insulin
+kuahgxmnxkextdmq991,heikiaxcbcxc991,California,Married,1.96,991,Male,Asian,19.75,148.54,94.12763863039169,3.56,Low,Former,,Diabetic,991,Uninsured,1093.2694640570294,Metformin
+tfrfufszdmdrojjf701,coiectfbgcna701,California,Single,0.53,701,Female,Black,26.35,88.32,133.36,5.35,High,Never,Moderate,Diabetic,701,Insured,340.7877902157701,
+jnzfrowhtrghfyjd389,bteqaoomvlzp389,California,Married,0.53,389,Male,Hispanic,19.75,168.13971522677122,94.12763863039169,3.56,Low,Former,,Diabetic,389,Uninsured,1192.2370685089963,Metformin
+znejqqvkmgtmyiyx188,xkjqshlfrnko188,California,Married,1.96,188,Female,Hispanic,19.75,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,188,Insured,1192.2370685089963,Insulin
+vjbqsxrqfoanvkkz146,zmzzauwhmalt146,California,Single,0.2,146,Male,White,26.35,91.87,94.12763863039169,24.55,Low,Current,High,Diabetic,146,Uninsured,340.7877902157701,Insulin
+yxjjrbkhwstymlou922,ngazcysdupdl922,California,Single,2.28,922,Female,White,33.77556181601884,151.66542219376322,94.12763863039169,10.11686127233257,Moderate,Former,High,Diabetic,922,Insured,650.2833484815307,
+qrlrsdfpnhiddwof874,lmzbemnblqxt874,California,Married,2.28,874,Male,Black,33.77556181601884,168.13971522677122,94.12763863039169,3.56,Moderate,Former,,Diabetic,874,Insured,1192.2370685089963,GLP-1 agonist
+ieiykbfsuyuzbhqa358,csdczgruktkg358,California,Married,2.18,358,Female,Hispanic,22.04502064908496,91.87,130.28302095632574,20.85,Moderate,Never,,Diabetic,358,Uninsured,340.7877902157701,Metformin
+abthzuqlxiqezeal240,ilacrqfjkmjj240,California,Single,1.58,240,Male,Hispanic,22.04502064908496,190.31,144.11896149120247,4.541990697,High,Never,Moderate,Non-Diabetic,240,Insured,528.1553002754529,Metformin
+vjbaqhwlxgfiwonr659,mazjwwfmdmkf659,California,Married,1.58,659,Male,White,25.653635126421914,148.54,118.02,24.55,High,Current,Moderate,Non-Diabetic,659,Insured,650.2833484815307,Metformin
+ygrjpkanxizqbtag681,pfppsrovzsgc681,California,Married,0.53,681,Male,Black,26.35,151.66542219376322,177.08993914366752,18.67,Moderate,Never,,Diabetic,681,Insured,1893.432070757025,
+ffmuitbabdzmbfld995,ybixexrautqp995,California,Married,0.37,995,Male,Asian,22.04502064908496,148.54,94.12763863039169,3.56,Low,Never,,Diabetic,995,Uninsured,811.8003645464281,Insulin
+ozkbiwbnhnvjdewa84,gbfszkhnfrar84,California,Single,0.28,84,Female,Black,32.31,190.31,177.08993914366752,24.87,High,Current,High,Non-Diabetic,84,Uninsured,811.8003645464281,
+dlcekvppkurtgntp244,rkpskquawooh244,California,Married,2.18,244,Male,Black,26.35,88.32,152.9353998166657,24.87,Moderate,Never,,Non-Diabetic,244,Uninsured,1181.6620256340148,
+yzlxdhgbsgxralbq572,kllkxehprrua572,California,Single,1.96,572,Female,Asian,25.653635126421914,81.98740438709201,130.28302095632574,4.541990697,High,Current,,Diabetic,572,Uninsured,811.8003645464281,
+cjckijekrtvmkzye985,umprtiabbeae985,California,Single,1.96,985,Female,Hispanic,22.04502064908496,91.87,177.08993914366752,3.56,Low,Former,Moderate,Diabetic,985,Insured,340.7877902157701,Insulin
+ltnhcdzgfnsatlvs79,takpyilxzgly79,California,Married,2.21,79,Male,Black,22.69909747656427,151.66542219376322,94.12763863039169,3.56,Moderate,Current,,Diabetic,79,Insured,1893.432070757025,
+jaanmfkwifrtysuo455,ledpwasiyrlx455,California,Single,2.18,455,Female,Hispanic,19.75,190.31,93.36143609,24.87,Low,Never,High,Diabetic,455,Uninsured,1192.2370685089963,Metformin
+bibvqiqmhsmiakem437,huzkuqshwsxs437,California,Married,0.53,437,Male,Hispanic,22.04502064908496,91.87,177.08993914366752,3.56,Low,Former,Moderate,Diabetic,437,Insured,340.7877902157701,Insulin
+snjwgoebmkrnprod363,xrdjkofxdggu363,California,Married,2.18,363,Female,Asian,19.75,91.59788160895998,130.28302095632574,20.85,High,Never,,Diabetic,363,Uninsured,528.1553002754529,Metformin
+pkixyrldmukzrddx370,wfzdjxqpzvmx370,California,Single,1.96,370,Male,Hispanic,19.75,186.1,144.11896149120247,4.541990697,Low,Current,Moderate,Non-Diabetic,370,Uninsured,650.2833484815307,Insulin
+wjcticomsefdfcba328,alcmttzhagwr328,California,Married,1.96,328,Female,Asian,26.35,186.1,175.79,3.56,High,Former,Moderate,Diabetic,328,Uninsured,340.7877902157701,
+sihjhsniquedijpo67,yrrjgcgmzomt67,California,Single,1.58,67,Female,Black,19.75,186.1,93.36143609,18.67,High,Never,,Diabetic,67,Insured,1093.2694640570294,Metformin
+dybjrerskcvwlcdu483,usorlzsptipe483,California,Single,2.21,483,Male,White,19.75,168.13971522677122,95.31,20.85,Low,Former,High,Diabetic,483,Uninsured,650.2833484815307,GLP-1 agonist
+ayovtggafwtrfwkx207,brqcxtfpwioh207,California,Married,2.18,207,Female,White,19.75,186.1,93.36143609,24.87,Moderate,Never,High,Diabetic,207,Insured,616.0959452024674,Metformin
+wohltrieybquogrc650,ajwjklrxbewu650,California,Married,1.96,650,Male,Black,22.04502064908496,168.13971522677122,152.9353998166657,3.56,Low,Former,,Diabetic,650,Uninsured,340.7877902157701,Insulin
+ywolzbmevrpwybux758,xuzhjgerwmzg758,California,Single,2.21,758,Male,White,33.77556181601884,151.66542219376322,152.9353998166657,3.56,Low,Never,,Diabetic,758,Uninsured,1093.2694640570294,
+laarfrxfkrzzjcac143,iijvyzvrzlxj143,California,Married,0.37,143,Female,Asian,22.04502064908496,186.1,175.79,24.55,Low,Never,Moderate,Non-Diabetic,143,Insured,650.2833484815307,Metformin
+jzotdnusmjbhrvbi576,sjzzhyuimbgo576,California,Married,0.2,576,Male,Black,25.41868995566916,148.54,94.12763863039169,24.55,Moderate,Current,High,Diabetic,576,Insured,811.8003645464281,Metformin
+ahhtvjzvwjaojnjk42,ootdquoadejp42,California,Single,1.96,42,Female,Hispanic,18.55705686138479,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,42,Uninsured,340.7877902157701,
+bkhokwdgylitchoj952,fdxzwutvrqhy952,California,Married,1.58,952,Male,White,33.77556181601884,88.32,130.28302095632574,20.85,High,Never,,Diabetic,952,Insured,340.7877902157701,GLP-1 agonist
+ymaompgltcicylgb872,pvhlwfuaemos872,California,Single,0.28,872,Female,Asian,18.55705686138479,196.23,93.36143609,24.87,High,Former,High,Non-Diabetic,872,Uninsured,811.8003645464281,
+gjkdzjuviszrfoer7,jjwhyjzxvmab7,California,Married,2.28,7,Female,Hispanic,18.55705686138479,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,7,Insured,1192.2370685089963,
+fqarelzxktqoocai231,lajjiufzlfrm231,California,Single,1.96,231,Female,Asian,33.77556181601884,196.23,152.9353998166657,4.541990697,High,Current,High,Diabetic,231,Insured,1093.2694640570294,GLP-1 agonist
+ghknggftslnrzqfo65,jwzawyeprjum65,California,Married,0.28,65,Male,Black,19.75,91.87,177.08993914366752,24.87,High,Current,High,Diabetic,65,Uninsured,528.1553002754529,Insulin
+lsucjcghagfmevrx762,bsowhpfgglnd762,California,Married,2.18,762,Female,Black,19.75,168.13971522677122,94.12763863039169,3.56,Moderate,Never,,Diabetic,762,Uninsured,340.7877902157701,Metformin
+bkekrwqyqmskzdhg438,wueuhaeksgbg438,California,Married,2.18,438,Female,White,18.55705686138479,186.1,118.02,5.35,High,Former,,Non-Diabetic,438,Uninsured,1093.2694640570294,GLP-1 agonist
+oqzllbrpfrfcacrg229,uqmeutsrqcjh229,California,Married,2.28,229,Male,White,22.04502064908496,148.54,118.02,24.55,Low,Never,Moderate,Non-Diabetic,229,Uninsured,1093.2694640570294,Metformin
+sivxoxsadlsexaws894,pnrpwfbqkbwh894,California,Married,1.58,894,Male,Asian,19.75,190.31,144.11896149120247,4.541990697,Low,Never,Moderate,Non-Diabetic,894,Insured,650.2833484815307,Insulin
+qbpnqdpwzlvehngs898,upsckitevxyy898,California,Married,0.53,898,Male,Black,32.31,168.13971522677122,94.12763863039169,3.56,Moderate,Current,,Diabetic,898,Insured,528.1553002754529,GLP-1 agonist
+fstebrrjeaxmrdeb923,nmnzjdzgfwoy923,California,Single,1.96,923,Female,Asian,19.75,190.31,144.11896149120247,4.541990697,Moderate,Current,Moderate,Non-Diabetic,923,Uninsured,1893.432070757025,Insulin
+vgzgmyxnncjslkbf853,qapdyqvlwymo853,California,Single,1.96,853,Female,Hispanic,32.31,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,853,Uninsured,528.1553002754529,
+gzhiqfnbdhxdxcrp583,jmrkjzepczhx583,California,Married,2.18,583,Female,Black,22.04502064908496,196.23,130.28302095632574,20.85,Low,Never,,Diabetic,583,Insured,811.8003645464281,Insulin
+dikccswbjkrbywni896,jfyhmqvdourn896,California,Single,0.53,896,Female,White,19.75,91.87,93.36143609,24.87,Moderate,Never,High,Non-Diabetic,896,Insured,1893.432070757025,Insulin
+hcammkqgzbqfscns131,bvtamsvchkzg131,California,Married,0.53,131,Male,Hispanic,22.04502064908496,91.87,118.02,3.56,Moderate,Former,Moderate,Diabetic,131,Insured,340.7877902157701,Insulin
+ouycttnegyiuybza513,mgwdrtijruum513,California,Single,2.18,513,Male,Asian,18.55705686138479,196.23,93.36143609,24.87,Moderate,Never,High,Non-Diabetic,513,Uninsured,650.2833484815307,
+psijzaiasmaywsrl251,eolztiidujwd251,California,Married,0.2,251,Female,Asian,26.35,190.31,144.11896149120247,4.541990697,Low,Current,Moderate,Non-Diabetic,251,Uninsured,1093.2694640570294,
+wzfvopfsctchhquh362,lfzupzkbasxd362,California,Single,0.2,362,Female,Asian,18.55705686138479,190.31,144.11896149120247,4.541990697,Moderate,Current,Moderate,Non-Diabetic,362,Uninsured,1893.432070757025,
+oxyalelinaeelvwm511,awbazbuhgzax511,California,Married,1.96,511,Female,Hispanic,22.69909747656427,151.66542219376322,144.11896149120247,20.85,Moderate,Current,Moderate,Diabetic,511,Uninsured,616.0959452024674,
+zrocvydlsrbffbri667,zkgbzsukrqic667,California,Single,2.28,667,Male,Hispanic,22.04502064908496,91.87,130.28302095632574,20.85,Low,Never,,Diabetic,667,Uninsured,340.7877902157701,Insulin
+tgerummdpigycrgx446,iddvjbidmqin446,California,Single,1.96,446,Female,Hispanic,19.75,190.31,144.11896149120247,4.541990697,Low,Current,Moderate,Non-Diabetic,446,Insured,650.2833484815307,Insulin
+iqmtwhjmtdwarbfr889,xlfidhnqpwrj889,California,Married,0.2,889,Female,Hispanic,25.653635126421914,91.87,130.28302095632574,20.85,Moderate,Never,,Non-Diabetic,889,Insured,340.7877902157701,Metformin
+zflvyypbfkalsyeh488,ywarcijfccmb488,California,Single,0.37,488,Female,Black,19.75,190.31,93.36143609,24.87,High,Former,High,Non-Diabetic,488,Uninsured,1181.6620256340148,Insulin
+ykgdpjqcuzaktela444,ndymaivyehhr444,California,Married,0.2,444,Male,Asian,19.75,196.23,133.36,4.541990697,High,Former,High,Diabetic,444,Uninsured,1093.2694640570294,Insulin
+apwhxjjzsvycnypc503,jhtlvjrmzknl503,California,Single,2.18,503,Female,Asian,32.31,196.23,175.79,24.87,Moderate,Never,Moderate,Non-Diabetic,503,Uninsured,1893.432070757025,
+ualxrtfchnnypxiv290,ebriyvyucoks290,California,Single,2.28,290,Male,Asian,22.04502064908496,148.54,94.12763863039169,3.56,Moderate,Former,,Diabetic,290,Uninsured,340.7877902157701,Metformin
+baueewryklkmhcvj286,wwoesspvspwx286,California,Married,1.96,286,Female,Hispanic,19.75,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,286,Uninsured,1192.2370685089963,Insulin
+vfitrmeqsyotpxni149,gcfftbezxcdk149,California,Married,2.18,149,Female,Asian,33.77556181601884,168.13971522677122,93.36143609,24.87,High,Never,High,Non-Diabetic,149,Uninsured,1093.2694640570294,GLP-1 agonist
+mhkxyrulfkwqpjcf493,bewlfflkobea493,California,Married,0.28,493,Female,Hispanic,25.41868995566916,91.87,118.02,20.85,Moderate,Never,,Diabetic,493,Uninsured,340.7877902157701,Metformin
+zkcbjornnsesvwpx649,ptjlhdwgooqp649,California,Married,0.2,649,Male,Hispanic,22.04502064908496,148.54,95.31,20.85,Moderate,Former,High,Diabetic,649,Insured,616.0959452024674,Metformin
+xealtchjrmkvvdum607,smtxwpguowhf607,California,Married,2.18,607,Female,Hispanic,22.04502064908496,91.87,130.28302095632574,20.85,Low,Never,,Diabetic,607,Insured,340.7877902157701,Insulin
+qozwouzdwvrrwflf445,cgeadftskqum445,California,Single,1.96,445,Female,Hispanic,26.35,91.87,144.11896149120247,3.56,High,Former,High,Diabetic,445,Insured,1093.2694640570294,Insulin
+scndtsksizemrvtw6,tygnlaxemqdv6,California,Single,2.28,6,Male,Black,22.04502064908496,148.54,118.02,2.135448124552057,High,Former,,Diabetic,6,Uninsured,528.1553002754529,Insulin
+ckumcwtcxbxcvnxt625,bltxpaezhoyp625,California,Single,1.96,625,Male,Asian,18.55705686138479,186.1,144.11896149120247,4.541990697,Moderate,Current,Moderate,Non-Diabetic,625,Uninsured,650.2833484815307,
+qlmjmcwcsgymutrw382,iufnbdifejjm382,California,Married,2.21,382,Male,Black,32.31,196.23,130.28302095632574,20.85,Moderate,Never,,Non-Diabetic,382,Uninsured,1288.8830549174445,
+nssyazxizukidehl36,vhzmlbaholdu36,California,Married,1.58,36,Male,Asian,19.75,186.1,118.02,5.35,Low,Current,,Non-Diabetic,36,Insured,650.2833484815307,Insulin
+ddemhnpwtdxdtpgn142,jvkswhzhyjer142,California,Married,2.28,142,Male,Black,19.75,148.54,130.28302095632574,2.135448124552057,Moderate,Current,,Diabetic,142,Insured,811.8003645464281,Metformin
+jvbzgwszaerthkzb577,ldrtpemriuid577,California,Single,1.96,577,Female,Hispanic,19.75,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,577,Insured,1192.2370685089963,Insulin
+qqyaevpimwmmzfmr738,gxnzbwzigggv738,California,Married,0.37,738,Female,Black,25.41868995566916,168.13971522677122,152.9353998166657,3.56,High,Never,,Diabetic,738,Insured,528.1553002754529,Metformin
+xssmyyqapueyilvq798,pwccglmxzzeb798,California,Single,2.18,798,Female,Asian,19.75,91.59788160895998,118.02,20.85,Moderate,Never,,Diabetic,798,Uninsured,616.0959452024674,Metformin
+gyunprkuaefkojtp745,cxwfspxbyhtz745,California,Married,2.28,745,Male,Black,22.04502064908496,148.54,94.12763863039169,2.135448124552057,Moderate,Current,,Diabetic,745,Uninsured,811.8003645464281,Metformin
+mhkxyrulfkwqpjcf493,bewlfflkobea493,California,Married,0.28,493,Female,Hispanic,25.41868995566916,91.87,118.02,20.85,Moderate,Never,,Diabetic,493,Uninsured,340.7877902157701,Metformin
+ipjwilfatxgugepc942,tltbntwkyghi942,California,Married,0.37,942,Male,Black,19.75,148.54,175.79,24.87,High,Former,,Diabetic,942,Uninsured,528.1553002754529,Insulin
+tjagxjipnyyrjvmu887,rkludczvfumv887,California,Married,0.37,887,Female,Black,22.04502064908496,190.31,175.79,24.55,Moderate,Never,Moderate,Non-Diabetic,887,Insured,340.7877902157701,Metformin
+tfzqjwzabrurppwq728,ehiaqxejncbn728,California,Single,0.53,728,Female,Hispanic,19.75,190.31,144.11896149120247,4.541990697,Low,Current,Moderate,Non-Diabetic,728,Insured,650.2833484815307,Insulin
+mtesutrgqcslixyw870,fqlgkhnschwb870,California,Single,0.28,870,Female,Asian,18.55705686138479,186.1,144.11896149120247,4.541990697,High,Never,Moderate,Non-Diabetic,870,Uninsured,650.2833484815307,GLP-1 agonist
+esjiqoitoulrkqvh553,oamnckticbty553,California,Single,2.18,553,Female,Asian,19.75,91.59788160895998,130.28302095632574,20.85,High,Never,High,Diabetic,553,Uninsured,650.2833484815307,Metformin
+jsvqrnusntxhwjxv955,hskvdlollvey955,California,Married,0.37,955,Male,White,19.75,168.13971522677122,152.9353998166657,10.11686127233257,High,Former,High,Diabetic,955,Insured,1093.2694640570294,Metformin
+xpiebuescorpatfr684,anqgzatgzhuf684,California,Single,0.53,684,Female,Asian,26.35,186.1,177.08993914366752,3.56,Moderate,Former,Moderate,Diabetic,684,Insured,1181.6620256340148,
+ngmposdivmtnnhsa527,wlsfllljuzkr527,California,Married,0.28,527,Female,Black,19.75,190.31,177.08993914366752,24.87,Low,Current,High,Non-Diabetic,527,Uninsured,340.7877902157701,Insulin
+balrhzlflleahebn849,fwejplikeenf849,California,Married,2.21,849,Female,Asian,25.41868995566916,88.32,93.36143609,10.15,Low,Never,Moderate,Diabetic,849,Uninsured,1192.2370685089963,GLP-1 agonist
+rsbehwwxlvmteewc724,pxizkcbxbiyw724,California,Married,0.53,724,Female,Asian,19.75,168.13971522677122,93.36143609,24.87,High,Never,High,Diabetic,724,Insured,1288.8830549174445,GLP-1 agonist
+mmmbnmbehjdfsucp867,pgylvclvseht867,California,Married,0.37,867,Female,Asian,22.04502064908496,148.54,130.28302095632574,3.56,Low,Never,,Diabetic,867,Insured,650.2833484815307,Metformin
+tsydeinoetbfhwgq271,hglgyykutjnl271,California,Single,1.96,271,Female,Asian,26.35,190.31,144.11896149120247,4.541990697,Moderate,Current,Moderate,Non-Diabetic,271,Uninsured,1093.2694640570294,
+xnvyjchwtpndbmct386,rlzjkyvljcnk386,California,Single,2.28,386,Female,Asian,32.31,196.23,93.36143609,24.87,High,Never,High,Non-Diabetic,386,Insured,811.8003645464281,
+lpiacrsnerpvovfu622,cimzqimcbxuf622,California,Single,1.96,622,Female,Asian,26.35,190.31,144.11896149120247,4.541990697,Moderate,Current,Moderate,Non-Diabetic,622,Uninsured,1893.432070757025,
+cthsrqxjwwbnrhoe394,damhuhgfkrlx394,California,Single,0.28,394,Male,White,25.653635126421914,151.66542219376322,130.28302095632574,10.11686127233257,Low,Never,High,Diabetic,394,Uninsured,650.2833484815307,
+viwyihhjzckhajmb723,wswslaamvjot723,California,Married,1.58,723,Female,Hispanic,22.04502064908496,186.1,133.36,5.35,High,Never,,Non-Diabetic,723,Insured,650.2833484815307,Metformin
+eozjvkxuqqzbsntk475,nnacximywvwn475,California,Married,0.28,475,Female,White,32.78,190.31,177.08993914366752,24.87,Moderate,Current,High,Non-Diabetic,475,Uninsured,1893.432070757025,Insulin
+dulmatlhiinprkqs645,iyhylwcyjdgk645,California,Married,2.21,645,Female,White,19.75,91.59788160895998,93.36143609,10.15,Moderate,Never,Moderate,Diabetic,645,Uninsured,1181.6620256340148,Metformin
+ahhtvjzvwjaojnjk42,ootdquoadejp42,California,Single,1.96,42,Female,Hispanic,18.55705686138479,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,42,Uninsured,340.7877902157701,
+edspwubccdfvnmkl345,gqbmovqvsncd345,California,Married,0.37,345,Female,Black,19.75,190.31,175.79,24.55,Low,Never,High,Diabetic,345,Insured,1093.2694640570294,Metformin
+buzttgnobgnfcudb722,fqxhnvkliuoi722,California,Married,0.53,722,Female,Black,19.75,81.98740438709201,144.11896149120247,3.56,Moderate,Current,High,Diabetic,722,Uninsured,340.7877902157701,Metformin
+aqndksbqijzjffsq885,rhzbavzhnehp885,California,Married,1.96,885,Female,White,25.41868995566916,168.13971522677122,130.28302095632574,10.11686127233257,High,Never,High,Diabetic,885,Insured,1893.432070757025,GLP-1 agonist
+gssgsqvublkeszva833,nitdxsvpgfwd833,California,Married,1.41,833,Female,Asian,18.55705686138479,186.1,118.02,24.55,High,Former,Moderate,Non-Diabetic,833,Uninsured,1181.6620256340148,GLP-1 agonist
+vjbqsxrqfoanvkkz146,zmzzauwhmalt146,California,Single,0.2,146,Male,White,26.35,91.87,94.12763863039169,24.55,Low,Current,High,Diabetic,146,Uninsured,340.7877902157701,Insulin
+bkutpynavltlzuhj400,fvqhtluqrxnh400,California,Married,0.2,400,Male,Black,19.75,196.23,130.28302095632574,20.85,Low,Never,,Diabetic,400,Uninsured,811.8003645464281,Insulin
+cndlbadirifkrbwf972,lxticqnjlksw972,California,Married,0.53,972,Male,Hispanic,25.653635126421914,196.23,144.11896149120247,10.15,High,Never,,Non-Diabetic,972,Uninsured,1288.8830549174445,Metformin
+nusrfisvhafvhhgr751,gkoeubgdhvoe751,California,Married,0.37,751,Female,White,33.77556181601884,186.1,118.02,24.87,Moderate,Never,High,Non-Diabetic,751,Uninsured,1192.2370685089963,GLP-1 agonist
+jnzfrowhtrghfyjd389,bteqaoomvlzp389,California,Married,0.53,389,Male,Hispanic,19.75,168.13971522677122,94.12763863039169,3.56,Low,Former,,Diabetic,389,Uninsured,1192.2370685089963,Metformin
+sctxzaqhfidkpbdv802,zlbxgeuhsgte802,California,Married,0.37,802,Male,White,32.78,81.98740438709201,130.28302095632574,3.56,High,Never,High,Diabetic,802,Insured,811.8003645464281,
+wfhbfzkwufhwacvn199,bpibyhwoglkw199,California,Single,2.28,199,Male,Asian,22.04502064908496,168.13971522677122,152.9353998166657,10.11686127233257,High,Former,High,Diabetic,199,Uninsured,1288.8830549174445,Metformin
+lsucjcghagfmevrx762,bsowhpfgglnd762,California,Married,2.18,762,Female,Black,19.75,168.13971522677122,94.12763863039169,3.56,Moderate,Never,,Diabetic,762,Uninsured,340.7877902157701,Metformin
+cepfrrzswjsmiqzf915,lcomfdblwkuq915,California,Single,1.58,915,Female,Hispanic,19.75,190.31,144.11896149120247,4.541990697,High,Never,Moderate,Non-Diabetic,915,Insured,1192.2370685089963,Insulin
+pffengbttudmtpnc787,qxshmhzjsxok787,California,Single,2.18,787,Female,Hispanic,33.77556181601884,88.32,130.28302095632574,3.56,High,Never,High,Diabetic,787,Uninsured,1893.432070757025,GLP-1 agonist
+zvhrrkbjpifkeoyr550,gbeultjosxzg550,California,Married,0.37,550,Female,White,32.31,148.54,175.79,24.55,High,Never,Moderate,Non-Diabetic,550,Insured,1093.2694640570294,Metformin
+tnwxgavnliejthfv47,tmtvmwthwjsm47,California,Married,2.18,47,Female,Black,22.04502064908496,196.23,130.28302095632574,20.85,Low,Never,,Diabetic,47,Insured,811.8003645464281,Insulin
+logjouwzezrtplnq133,nknnvcdaptbv133,California,Married,0.28,133,Male,Asian,19.75,196.23,118.02,24.87,Low,Current,,Diabetic,133,Uninsured,1093.2694640570294,Insulin
+ptwgyhkotrqawvmn224,bdrawnhxeyku224,California,Married,0.28,224,Male,Asian,19.75,81.98740438709201,175.79,4.541990697,High,Never,High,Diabetic,224,Uninsured,528.1553002754529,Metformin
+abnvimcxcvzatdun551,dgfgnddbkwry551,California,Married,1.96,551,Male,Black,33.77556181601884,168.13971522677122,94.12763863039169,3.56,Moderate,Former,,Diabetic,551,Insured,1181.6620256340148,GLP-1 agonist
+herpgpvwhdrfzqyb581,xdyoxyjfnuzs581,California,Single,0.28,581,Male,Black,22.04502064908496,148.54,94.12763863039169,24.87,High,Current,,Non-Diabetic,581,Uninsured,528.1553002754529,Metformin
+smmmfzlzipilpwrf736,legzptraipie736,California,Married,0.53,736,Male,Black,19.75,168.13971522677122,94.12763863039169,3.56,Low,Former,,Diabetic,736,Uninsured,1192.2370685089963,Metformin
+nxxopjtrdgdochry608,svnwyaaiivjl608,California,Single,1.58,608,Female,Hispanic,22.04502064908496,91.87,130.28302095632574,20.85,High,Never,,Diabetic,608,Insured,1192.2370685089963,Insulin
+adagoyduwuqoshux3,fqwnjjcelxwv3,California,Married,0.2,3,Female,Asian,25.653635126421914,190.31,144.11896149120247,4.541990697,Low,Current,Moderate,Non-Diabetic,3,Insured,1893.432070757025,Metformin
+ihbletpwvkewslxx449,iwdgoseqtitt449,California,Married,0.2,449,Female,White,22.04502064908496,196.23,133.36,24.87,High,Former,,Non-Diabetic,449,Insured,528.1553002754529,Metformin
+gcyjbjxyylqmjblo703,sglbqlzcpati703,California,Married,2.21,703,Male,Asian,22.04502064908496,148.54,94.12763863039169,3.56,Low,Never,,Diabetic,703,Uninsured,340.7877902157701,Insulin
+egkkashdvtnvuikk130,vxuqltefdzir130,California,Married,0.53,130,Female,Asian,18.55705686138479,196.23,93.36143609,24.87,Low,Never,High,Non-Diabetic,130,Insured,1093.2694640570294,
+fmkuruwpdctqteog672,wlewwxapssqg672,California,Married,2.21,672,Male,Hispanic,33.77556181601884,91.87,95.31,20.85,Moderate,Former,High,Non-Diabetic,672,Uninsured,340.7877902157701,GLP-1 agonist
+mhhtskmekxnyxmkv464,kitvmzazykuz464,California,Single,1.96,464,Male,Black,19.75,81.98740438709201,133.36,5.35,High,Never,Moderate,Diabetic,464,Uninsured,528.1553002754529,Metformin
+ahaweepvmoaprvni295,svvkfotfwdpv295,California,Single,2.28,295,Male,Black,22.04502064908496,148.54,144.11896149120247,2.135448124552057,High,Never,,Diabetic,295,Uninsured,528.1553002754529,Metformin
+msapihjvoioklipr525,fposqupcbnwp525,California,Single,0.53,525,Female,White,19.75,91.59788160895998,93.36143609,10.15,Moderate,Never,Moderate,Diabetic,525,Uninsured,1181.6620256340148,Metformin
+ycaiiohubcgdajst440,rvbaizixayxx440,California,Married,0.53,440,Male,White,19.75,81.98740438709201,175.79,4.541990697,Low,Former,High,Diabetic,440,Uninsured,1093.2694640570294,Metformin
+aczgewzaakyvajwa842,btzljnahzzxf842,California,Single,2.18,842,Male,Hispanic,19.75,91.87,130.28302095632574,20.85,High,Never,,Diabetic,842,Insured,1192.2370685089963,Insulin
+lesclpojiduzvajs129,brirejunolqs129,California,Married,1.58,129,Male,Hispanic,19.75,190.31,133.36,5.35,High,Never,Moderate,Diabetic,129,Insured,650.2833484815307,Metformin
+anvfnhwnuiuwqymm194,eqcikpmuvdey194,California,Single,1.96,194,Female,Hispanic,22.04502064908496,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,194,Uninsured,528.1553002754529,Metformin
+fqynydjskjsaibcf442,zdsegjshflzc442,California,Married,0.28,442,Male,Asian,18.55705686138479,196.23,177.08993914366752,24.87,Low,Current,High,Non-Diabetic,442,Uninsured,1093.2694640570294,
+nppwdwsjlukrozft461,fpwrsaspsyzc461,California,Married,2.21,461,Female,Hispanic,26.35,151.66542219376322,118.02,10.11686127233257,Moderate,Former,High,Diabetic,461,Insured,616.0959452024674,
+mnuvsfungzendvgg459,uoropnqrrdmy459,California,Married,0.37,459,Female,Hispanic,19.75,186.1,118.02,24.55,High,Never,Moderate,Non-Diabetic,459,Insured,1288.8830549174445,Insulin
+uuztzhtqaaxywrxa839,ycqaavpzoueq839,California,Married,0.28,839,Female,Black,25.653635126421914,190.31,177.08993914366752,24.87,High,Current,High,Non-Diabetic,839,Uninsured,1192.2370685089963,
+dtgevrtezvdesbuy469,vxiqzmjjggzp469,California,Married,2.18,469,Male,Hispanic,19.75,168.13971522677122,152.9353998166657,10.11686127233257,Moderate,Former,High,Diabetic,469,Uninsured,811.8003645464281,Metformin
+mhkxyrulfkwqpjcf493,bewlfflkobea493,California,Married,0.28,493,Female,Hispanic,25.41868995566916,91.87,118.02,20.85,Moderate,Never,,Diabetic,493,Uninsured,340.7877902157701,Metformin
+limyopgvkxhqejvo820,ehclkwvywfbv820,California,Married,1.96,820,Male,White,32.78,186.1,144.11896149120247,4.541990697,Moderate,Current,,Diabetic,820,Uninsured,1192.2370685089963,
+srmtyxwaorrtzeja906,sfcgaqpjaxrh906,California,Married,1.96,906,Male,Asian,19.75,148.54,94.12763863039169,3.56,Low,Former,,Diabetic,906,Uninsured,650.2833484815307,Metformin
+sfmagmpkmlfnxrhv793,ccttuoqcrqtl793,California,Married,2.21,793,Female,White,25.653635126421914,151.66542219376322,152.9353998166657,10.11686127233257,Moderate,Former,High,Diabetic,793,Uninsured,616.0959452024674,
+udgtaopovemkantr110,ngdjtnekumhu110,California,Married,2.21,110,Female,Black,19.75,196.23,130.28302095632574,20.85,Low,Never,,Diabetic,110,Uninsured,811.8003645464281,Insulin
+jqqxvmaojryhzjmr546,ttdexgitdeno546,California,Married,2.21,546,Female,Hispanic,22.04502064908496,148.54,130.28302095632574,20.85,Moderate,Never,High,Non-Diabetic,546,Uninsured,616.0959452024674,Metformin
+nhcoucwmoqjdpang841,crgxlyslnequ841,California,Single,1.58,841,Male,Hispanic,26.35,91.87,130.28302095632574,20.85,Low,Never,,Diabetic,841,Insured,340.7877902157701,Insulin
+jvfvgwnneihimufr241,qtyyweguaqow241,California,Married,0.28,241,Female,Black,22.69909747656427,88.32,94.12763863039169,24.87,High,Current,,Diabetic,241,Uninsured,528.1553002754529,
+oofqjwbvhiwzzcjd28,zumjiqiowwbu28,California,Married,0.37,28,Male,Asian,19.75,168.13971522677122,152.9353998166657,10.11686127233257,Low,Former,High,Diabetic,28,Insured,1893.432070757025,Metformin
+aczgewzaakyvajwa842,btzljnahzzxf842,California,Single,2.18,842,Male,Hispanic,19.75,91.87,130.28302095632574,20.85,High,Never,,Diabetic,842,Insured,1192.2370685089963,Insulin
+nxxopjtrdgdochry608,svnwyaaiivjl608,California,Single,1.58,608,Female,Hispanic,22.04502064908496,91.87,130.28302095632574,20.85,High,Never,,Diabetic,608,Insured,1192.2370685089963,Insulin
+dusstpherzjzglpt450,entanirssopw450,California,Married,0.37,450,Female,Asian,19.75,91.59788160895998,130.28302095632574,2.135448124552057,High,Former,,Diabetic,450,Insured,650.2833484815307,Metformin
+yqxczzihtetzdvns252,fvatuoupyvug252,California,Single,2.18,252,Female,Asian,18.55705686138479,91.59788160895998,130.28302095632574,20.85,Moderate,Never,,Non-Diabetic,252,Uninsured,340.7877902157701,GLP-1 agonist
+abnvimcxcvzatdun551,dgfgnddbkwry551,California,Married,1.96,551,Male,Black,33.77556181601884,168.13971522677122,94.12763863039169,3.56,Moderate,Former,,Diabetic,551,Insured,1181.6620256340148,GLP-1 agonist
+mtesutrgqcslixyw870,fqlgkhnschwb870,California,Single,0.28,870,Female,Asian,18.55705686138479,186.1,144.11896149120247,4.541990697,High,Never,Moderate,Non-Diabetic,870,Uninsured,650.2833484815307,GLP-1 agonist
+naxygofpafpfbnor601,xvoqmdtrokrx601,California,Married,2.28,601,Male,White,33.77556181601884,168.13971522677122,152.9353998166657,10.11686127233257,High,Former,High,Diabetic,601,Insured,1893.432070757025,GLP-1 agonist
+ogigvzkjtsrrrumf246,ahhnjrdctedm246,California,Single,2.18,246,Male,Asian,26.35,196.23,93.36143609,24.87,Moderate,Never,High,Non-Diabetic,246,Uninsured,811.8003645464281,Metformin
+jqnfqlkfarevdbky206,ltzajilczsuz206,California,Married,0.28,206,Female,Asian,32.78,186.1,118.02,24.55,Low,Current,Moderate,Non-Diabetic,206,Uninsured,650.2833484815307,Insulin
+zzjicpwbefyffthk387,rpponvmsbnkz387,California,Married,1.96,387,Male,Hispanic,22.69909747656427,88.32,175.79,3.56,Moderate,Former,High,Diabetic,387,Uninsured,616.0959452024674,
+cbxwfbzkfuwcsbke848,ygmqmkwwxqyb848,California,Married,1.96,848,Male,Asian,26.35,148.54,94.12763863039169,3.56,Low,Former,,Diabetic,848,Insured,811.8003645464281,Insulin
+gyahkckrbcccokmz34,ugpjzbplwyci34,California,Married,1.41,34,Male,Black,22.04502064908496,148.54,130.28302095632574,2.135448124552057,Low,Former,,Diabetic,34,Insured,811.8003645464281,Insulin
+wgpdqqvluwrwseyz315,zutxsylzhehn315,California,Married,0.53,315,Male,Hispanic,19.75,148.54,130.28302095632574,4.541990697,Moderate,Former,,Diabetic,315,Uninsured,1181.6620256340148,Metformin
+znejqqvkmgtmyiyx188,xkjqshlfrnko188,California,Married,1.96,188,Female,Hispanic,19.75,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,188,Insured,1192.2370685089963,Insulin
+qufmfkbgscojmapg770,zcgjdwrxapxf770,California,Single,1.58,770,Female,White,26.35,91.59788160895998,93.36143609,24.87,Moderate,Never,Moderate,Non-Diabetic,770,Uninsured,650.2833484815307,
+gfigutnryjfyakvi779,awhhohenswta779,California,Married,2.28,779,Female,Asian,33.77556181601884,186.1,118.02,24.55,Low,Current,Moderate,Non-Diabetic,779,Insured,650.2833484815307,GLP-1 agonist
+ualxrtfchnnypxiv290,ebriyvyucoks290,California,Single,2.28,290,Male,Asian,22.04502064908496,148.54,94.12763863039169,3.56,Moderate,Former,,Diabetic,290,Uninsured,340.7877902157701,Metformin
+wwqiffvdtufqzvdi117,kdhablxylnpq117,California,Single,0.28,117,Male,White,18.55705686138479,148.54,118.02,24.55,Low,Current,Moderate,Non-Diabetic,117,Uninsured,650.2833484815307,GLP-1 agonist
+oyrcgxwxyxobwuuv479,quybqecflcvf479,California,Married,0.28,479,Female,White,25.653635126421914,186.1,118.02,24.87,Moderate,Current,,Diabetic,479,Uninsured,1192.2370685089963,
+pxoqfasevvobdpzw265,uszwzfqpmfek265,California,Single,1.58,265,Female,Asian,33.77556181601884,168.13971522677122,93.36143609,24.87,Moderate,Never,High,Non-Diabetic,265,Insured,811.8003645464281,GLP-1 agonist
+auczonpodolpurfh330,fescqosljcrj330,California,Single,0.28,330,Female,Asian,22.04502064908496,148.54,118.02,4.541990697,Moderate,Never,,Diabetic,330,Uninsured,340.7877902157701,Metformin
+qirgusaxnrrijjss64,vvunittajnlm64,California,Single,2.28,64,Male,White,19.75,91.87,130.28302095632574,24.87,Moderate,Never,,Diabetic,64,Uninsured,1893.432070757025,Insulin
+cjckijekrtvmkzye985,umprtiabbeae985,California,Single,1.96,985,Female,Hispanic,22.04502064908496,91.87,177.08993914366752,3.56,Low,Former,Moderate,Diabetic,985,Insured,340.7877902157701,Insulin
+bnpoxpuiiqvwcfyd337,yommnkggminr337,California,Married,1.58,337,Male,White,19.75,91.59788160895998,118.02,10.15,Moderate,Current,Moderate,Diabetic,337,Insured,1181.6620256340148,Metformin
+omfzbsalwthecrsl183,pacpcbvzfixs183,California,Married,1.58,183,Female,Hispanic,26.35,186.1,152.9353998166657,5.35,Moderate,Former,Moderate,Diabetic,183,Uninsured,1288.8830549174445,
+lfqclmcoknkeittx642,yawjmcvoejvt642,California,Married,1.41,642,Female,Hispanic,18.55705686138479,186.1,118.02,5.35,High,Current,,Non-Diabetic,642,Uninsured,1288.8830549174445,GLP-1 agonist
+ivrkhjivbzyjwfbh381,ewitajbtlgxp381,California,Married,0.37,381,Male,Asian,22.04502064908496,91.59788160895998,94.12763863039169,2.135448124552057,High,Current,,Diabetic,381,Insured,1181.6620256340148,Insulin
+touaomjhjmtygndo781,gsqrzblrczmo781,California,Single,0.37,781,Male,Black,25.653635126421914,88.32,118.02,24.87,High,Former,,Diabetic,781,Insured,340.7877902157701,
+pphgtsgbvicriavs2,owoohurmofnk2,California,Married,2.21,2,Female,Hispanic,18.55705686138479,91.87,95.31,20.85,High,Former,High,Non-Diabetic,2,Uninsured,340.7877902157701,GLP-1 agonist
+puypateicbdmhqhv125,dbjdvszhblun125,California,Married,0.37,125,Male,Black,25.653635126421914,190.31,175.79,24.55,Low,Never,Moderate,Non-Diabetic,125,Insured,1093.2694640570294,
+eqqoaqmecxgvxhiv610,gjltwplkujqu610,California,Single,2.28,610,Male,Asian,19.75,91.59788160895998,94.12763863039169,2.135448124552057,Moderate,Current,,Diabetic,610,Uninsured,616.0959452024674,Insulin
+ltnhcdzgfnsatlvs79,takpyilxzgly79,California,Married,2.21,79,Male,Black,22.69909747656427,151.66542219376322,94.12763863039169,3.56,Moderate,Current,,Diabetic,79,Insured,1893.432070757025,
+jrxxfffhjpcxtcae56,xwueosdvhpqc56,California,Married,0.28,56,Male,Asian,26.35,196.23,177.08993914366752,24.87,High,Current,High,Non-Diabetic,56,Uninsured,528.1553002754529,Metformin
+mgphbffdpjzrkrkd826,oqzszdiueaen826,California,Single,1.96,826,Male,Asian,25.41868995566916,88.32,133.36,5.35,Moderate,Never,Moderate,Diabetic,826,Insured,1181.6620256340148,GLP-1 agonist
+wtvuqpccfmxmdhnm13,tydumrcuyjir13,California,Single,2.28,13,Female,Asian,18.55705686138479,186.1,118.02,24.55,High,Former,Moderate,Non-Diabetic,13,Insured,650.2833484815307,GLP-1 agonist
+rimsvrbzexeeyisx404,amfzbnayuvhd404,California,Married,0.28,404,Female,Hispanic,32.78,190.31,177.08993914366752,24.87,Low,Current,High,Non-Diabetic,404,Uninsured,340.7877902157701,Insulin
+fzqhkxdenhxatsgh567,ctpwqpxixxcp567,California,Married,2.28,567,Male,White,33.77556181601884,151.66542219376322,175.79,2.135448124552057,High,Never,High,Non-Diabetic,567,Insured,1093.2694640570294,GLP-1 agonist
+vgdalpsfrembzsog616,urbvjgsckjwq616,California,Single,2.21,616,Female,Hispanic,26.35,186.1,133.36,5.35,High,Never,,Non-Diabetic,616,Uninsured,1288.8830549174445,Metformin
+viwyihhjzckhajmb723,wswslaamvjot723,California,Married,1.58,723,Female,Hispanic,22.04502064908496,186.1,133.36,5.35,High,Never,,Non-Diabetic,723,Insured,650.2833484815307,Metformin
+jlqswjdejvqhyrgb777,yjoiwrgcgmin777,California,Married,1.96,777,Female,Black,25.653635126421914,151.66542219376322,152.9353998166657,3.56,Moderate,Former,,Diabetic,777,Uninsured,1893.432070757025,
+xepaxnkqeoegrvqd279,affujsstuaku279,California,Married,0.28,279,Female,White,32.31,196.23,177.08993914366752,24.87,Low,Current,High,Non-Diabetic,279,Uninsured,650.2833484815307,
+oohkqgonqsaacqsf269,kfvdwtpyoahu269,California,Married,0.53,269,Male,Black,26.35,151.66542219376322,177.08993914366752,18.67,Low,Never,,Diabetic,269,Insured,1093.2694640570294,
+rdijyrmlcquplatf791,cnvbdgbkalbo791,California,Married,1.96,791,Male,Asian,19.75,196.23,175.79,4.541990697,Low,Current,High,Diabetic,791,Uninsured,1093.2694640570294,Insulin
+eukgrloxjyvzhpmy395,dcenrochmsbf395,California,Married,0.53,395,Female,Asian,33.77556181601884,168.13971522677122,93.36143609,24.87,High,Never,High,Non-Diabetic,395,Uninsured,1893.432070757025,GLP-1 agonist
+gwydvbwtbawgmdmx663,nbixesozxfxb663,California,Single,0.53,663,Male,Asian,19.75,148.54,94.12763863039169,3.56,Moderate,Current,,Diabetic,663,Uninsured,340.7877902157701,Metformin
+tnwxgavnliejthfv47,tmtvmwthwjsm47,California,Married,2.18,47,Female,Black,22.04502064908496,196.23,130.28302095632574,20.85,Low,Never,,Diabetic,47,Insured,811.8003645464281,Insulin
+hdmuphyonjrczghj339,nybbuvzblamb339,California,Married,1.58,339,Female,Black,26.35,91.59788160895998,177.08993914366752,3.56,Moderate,Former,Moderate,Diabetic,339,Insured,1893.432070757025,Insulin
+ysmqqspcpijejpnm737,ggcbwxvjcgkk737,California,Married,1.96,737,Male,Black,19.75,168.13971522677122,175.79,3.56,Low,Former,Moderate,Diabetic,737,Uninsured,1192.2370685089963,Metformin
+wcrsynlwaiigkuqn470,lglprusufpfl470,California,Married,1.96,470,Female,Black,19.75,190.31,94.12763863039169,3.56,Low,Never,,Diabetic,470,Uninsured,1192.2370685089963,Metformin
+yzlxdhgbsgxralbq572,kllkxehprrua572,California,Single,1.96,572,Female,Asian,25.653635126421914,81.98740438709201,130.28302095632574,4.541990697,High,Current,,Diabetic,572,Uninsured,811.8003645464281,
+bwqpjbioudaybxrf172,pcwqhzsgcxca172,California,Married,2.18,172,Female,Asian,19.75,168.13971522677122,93.36143609,24.87,Low,Never,High,Diabetic,172,Uninsured,1192.2370685089963,Metformin
+fjetayxiowerzzvk835,nsmzwpffzusg835,California,Married,1.96,835,Male,Hispanic,22.04502064908496,91.87,175.79,3.56,High,Former,Moderate,Diabetic,835,Uninsured,1192.2370685089963,Insulin
+klnouqfxryvhtrsd589,ryapvwmgnbhd589,California,Married,2.28,589,Female,Asian,32.31,196.23,118.02,24.87,High,Former,,Non-Diabetic,589,Insured,528.1553002754529,
+udtdnxlnuvjdsdtg573,akwbulgqcolv573,California,Single,2.21,573,Male,Black,26.35,196.23,130.28302095632574,20.85,High,Never,,Diabetic,573,Uninsured,1288.8830549174445,Insulin
+rasqsauknudfttsq77,shazqmvortpf77,California,Married,1.41,77,Female,Asian,25.41868995566916,88.32,133.36,5.35,Low,Never,Moderate,Diabetic,77,Uninsured,340.7877902157701,GLP-1 agonist
+pxuoxzfivexhmagi812,xtiwggpvtdyh812,California,Single,0.53,812,Male,Black,22.04502064908496,168.13971522677122,94.12763863039169,3.56,High,Former,,Diabetic,812,Insured,1192.2370685089963,Insulin
+wrwhbpnvxgwnfobd646,ffpsndzlbgsl646,California,Single,2.28,646,Female,Hispanic,22.04502064908496,190.31,144.11896149120247,4.541990697,Low,Never,Moderate,Non-Diabetic,646,Uninsured,1093.2694640570294,Metformin
+fcxauxohfuthjctg311,mcjzoygyjgwk311,California,Single,2.28,311,Male,Asian,19.75,168.13971522677122,152.9353998166657,10.11686127233257,High,Former,High,Diabetic,311,Insured,1893.432070757025,GLP-1 agonist
+oyrcgxwxyxobwuuv479,quybqecflcvf479,California,Married,0.28,479,Female,White,25.653635126421914,186.1,118.02,24.87,Moderate,Current,,Diabetic,479,Uninsured,1192.2370685089963,
+wgeozpjhaecdrkis273,rwntyfrndgif273,California,Married,2.21,273,Male,White,32.31,196.23,144.11896149120247,10.15,High,Never,,Non-Diabetic,273,Uninsured,811.8003645464281,
+xemfjfbjisykvaqj535,epkncgxrmcyq535,California,Single,0.28,535,Male,Asian,19.75,91.59788160895998,94.12763863039169,2.135448124552057,Moderate,Current,,Diabetic,535,Uninsured,1181.6620256340148,Metformin
+kbkvsdczgiwdekpr341,ysofjrequxtp341,California,Married,0.37,341,Male,Asian,19.75,196.23,118.02,24.87,Low,Former,,Diabetic,341,Uninsured,811.8003645464281,Insulin
+bdmyejteixkcgukg594,amdlamnzittq594,California,Married,0.53,594,Male,White,19.75,91.59788160895998,94.12763863039169,10.15,High,Current,Moderate,Diabetic,594,Uninsured,650.2833484815307,Metformin
+yffefephxcjjyodi974,thioaoldpoki974,California,Married,1.58,974,Male,Hispanic,22.04502064908496,91.87,130.28302095632574,20.85,Moderate,Never,High,Non-Diabetic,974,Insured,340.7877902157701,Metformin
+gdegkoreioazwops831,wrbgawuzxuzn831,California,Single,0.53,831,Male,Black,22.04502064908496,148.54,177.08993914366752,24.55,High,Current,High,Diabetic,831,Uninsured,528.1553002754529,Metformin
+llpesfgmelkplycb53,ilemuhepdcie53,California,Married,0.28,53,Female,Black,25.41868995566916,190.31,177.08993914366752,24.87,Moderate,Current,High,Diabetic,53,Uninsured,811.8003645464281,Metformin
+dzobjkgjetducisi393,vjacqjaicapf393,California,Single,1.96,393,Female,Hispanic,33.77556181601884,186.1,175.79,24.55,High,Never,Moderate,Non-Diabetic,393,Insured,1288.8830549174445,GLP-1 agonist
+mhkxyrulfkwqpjcf493,bewlfflkobea493,California,Married,0.28,493,Female,Hispanic,25.41868995566916,91.87,118.02,20.85,Moderate,Never,,Diabetic,493,Uninsured,340.7877902157701,Metformin
+iunpjjzmqsnzopue379,szjlrqeoblrc379,California,Single,2.21,379,Male,Black,32.31,196.23,130.28302095632574,20.85,High,Never,,Non-Diabetic,379,Insured,811.8003645464281,
+ntlnzvflicvwmgoy714,bhdupqwffelt714,California,Married,1.96,714,Female,Asian,25.653635126421914,186.1,177.08993914366752,3.56,Low,Former,Moderate,Diabetic,714,Uninsured,1093.2694640570294,
+zzjicpwbefyffthk387,rpponvmsbnkz387,California,Married,1.96,387,Male,Hispanic,22.69909747656427,88.32,175.79,3.56,Moderate,Former,High,Diabetic,387,Uninsured,616.0959452024674,
+whaszcpmjhzcmtyd860,nsoxndqfsfkr860,California,Single,0.28,860,Female,Asian,33.77556181601884,168.13971522677122,130.28302095632574,20.85,High,Never,,Non-Diabetic,860,Insured,1181.6620256340148,GLP-1 agonist
+sygcysgyqgxzwmux532,ohraodfwflbd532,California,Married,0.37,532,Female,Hispanic,18.55705686138479,186.1,118.02,24.55,High,Never,Moderate,Non-Diabetic,532,Uninsured,1893.432070757025,GLP-1 agonist
+awmkordoyautelgi627,ycetxtlmintu627,California,Married,2.28,627,Female,Asian,18.55705686138479,186.1,118.02,24.55,Low,Current,Moderate,Non-Diabetic,627,Insured,1093.2694640570294,
+gyahkckrbcccokmz34,ugpjzbplwyci34,California,Married,1.41,34,Male,Black,22.04502064908496,148.54,130.28302095632574,2.135448124552057,Low,Former,,Diabetic,34,Insured,811.8003645464281,Insulin
+wdbwcilunmyclpem731,kdpdgaiitcwl731,California,Married,2.21,731,Male,Hispanic,33.77556181601884,168.13971522677122,133.36,10.11686127233257,Low,Never,High,Diabetic,731,Uninsured,1192.2370685089963,GLP-1 agonist
+hfzkfqgccahxkogq988,kbcrosoazxsu988,California,Married,0.37,988,Male,Black,32.78,88.32,130.28302095632574,3.56,Moderate,Never,High,Diabetic,988,Insured,528.1553002754529,
+flvdthmhycjznjpz765,fouyseujbzdc765,California,Single,0.28,765,Male,Asian,32.31,196.23,177.08993914366752,24.87,Moderate,Current,High,Non-Diabetic,765,Uninsured,1093.2694640570294,
+leljazrahwphpfei324,xzbktrvvmlck324,California,Single,2.18,324,Male,Hispanic,22.04502064908496,91.87,133.36,20.85,Low,Never,,Diabetic,324,Insured,340.7877902157701,Insulin
+xfsbgzccswjfjhzu626,ycckyqcevnlf626,California,Single,0.53,626,Female,Hispanic,18.55705686138479,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,626,Insured,1192.2370685089963,
+aczgewzaakyvajwa842,btzljnahzzxf842,California,Single,2.18,842,Male,Hispanic,19.75,91.87,130.28302095632574,20.85,High,Never,,Diabetic,842,Insured,1192.2370685089963,Insulin
+jzotdnusmjbhrvbi576,sjzzhyuimbgo576,California,Married,0.2,576,Male,Black,25.41868995566916,148.54,94.12763863039169,24.55,Moderate,Current,High,Diabetic,576,Insured,811.8003645464281,Metformin
+iyxvtqhkzdjfzfvo109,occwfrmpzvqp109,California,Married,0.37,109,Male,Black,22.04502064908496,148.54,144.11896149120247,24.87,Moderate,Former,Moderate,Non-Diabetic,109,Insured,811.8003645464281,Metformin
+bzynjrmxkivmztqg772,ahvqkteerpph772,California,Married,0.53,772,Female,Black,33.77556181601884,168.13971522677122,152.9353998166657,3.56,Low,Current,,Diabetic,772,Insured,340.7877902157701,GLP-1 agonist
+syltxlydhjkbusnf44,gpbnfthryeam44,California,Single,0.53,44,Female,Asian,26.35,196.23,93.36143609,24.87,Moderate,Never,High,Non-Diabetic,44,Insured,1893.432070757025,
+uwiigjfytpupzost35,tcoalqppoohu35,California,Married,0.37,35,Male,Asian,22.04502064908496,196.23,93.36143609,24.87,High,Never,High,Non-Diabetic,35,Insured,1093.2694640570294,Metformin
+xvknqyxmseuzxneq11,kduguuduuhxo11,California,Single,2.21,11,Female,White,25.41868995566916,91.59788160895998,93.36143609,10.15,Moderate,Never,Moderate,Diabetic,11,Uninsured,1181.6620256340148,Metformin
+tjagxjipnyyrjvmu887,rkludczvfumv887,California,Married,0.37,887,Female,Black,22.04502064908496,190.31,175.79,24.55,Moderate,Never,Moderate,Non-Diabetic,887,Insured,340.7877902157701,Metformin
+zeullkbotmblvrhz691,cwrfytwfkygq691,California,Single,2.28,691,Female,White,22.69909747656427,151.66542219376322,152.9353998166657,10.11686127233257,Moderate,Former,High,Diabetic,691,Insured,650.2833484815307,
+ujirdnmxshmqlwjx538,voijbbzqbjhg538,California,Married,0.53,538,Female,Black,18.55705686138479,190.31,177.08993914366752,24.55,Low,Current,Moderate,Non-Diabetic,538,Insured,1093.2694640570294,
+bqdnddowlhcamixb407,kdyzatwdzngb407,California,Married,1.41,407,Male,White,25.41868995566916,168.13971522677122,95.31,2.135448124552057,High,Former,,Diabetic,407,Uninsured,1093.2694640570294,GLP-1 agonist
+vafdqgzouofehvay685,jbmnsnujfqpe685,California,Single,2.18,685,Female,Asian,18.55705686138479,168.13971522677122,93.36143609,24.87,High,Never,High,Non-Diabetic,685,Uninsured,1288.8830549174445,GLP-1 agonist
+kynttpiwuuusnxij880,bimwoblmnrmc880,California,Single,2.28,880,Male,Asian,26.35,91.59788160895998,175.79,2.135448124552057,Moderate,Current,High,Non-Diabetic,880,Insured,1181.6620256340148,
+dwfxedejsqsatsvg213,meehxqwnuqrx213,California,Married,1.41,213,Female,Black,32.31,81.98740438709201,130.28302095632574,5.35,Moderate,Current,Moderate,Diabetic,213,Uninsured,528.1553002754529,GLP-1 agonist
+nxxopjtrdgdochry608,svnwyaaiivjl608,California,Single,1.58,608,Female,Hispanic,22.04502064908496,91.87,130.28302095632574,20.85,High,Never,,Diabetic,608,Insured,1192.2370685089963,Insulin
+axbixsnnberezuyg134,llgxxyqywmxu134,California,Married,1.96,134,Female,Asian,19.75,190.31,144.11896149120247,4.541990697,Low,Current,Moderate,Non-Diabetic,134,Insured,650.2833484815307,Insulin
+dqvoduybprtngdng415,kcqhnvrnjjjl415,California,Married,0.28,415,Male,White,19.75,91.87,94.12763863039169,24.87,Moderate,Current,,Diabetic,415,Uninsured,340.7877902157701,Insulin
+zfzclfzshjctnwtd457,wligawbioqos457,California,Single,0.53,457,Male,Hispanic,22.04502064908496,91.87,175.79,3.56,Low,Former,Moderate,Diabetic,457,Insured,1093.2694640570294,Insulin
+fcxauxohfuthjctg311,mcjzoygyjgwk311,California,Single,2.28,311,Male,Asian,19.75,168.13971522677122,152.9353998166657,10.11686127233257,High,Former,High,Diabetic,311,Insured,1893.432070757025,GLP-1 agonist
+chhmwqcocuvfhzac410,eylpkuowwbol410,California,Married,2.28,410,Male,Hispanic,22.04502064908496,148.54,133.36,4.541990697,Moderate,Current,,Diabetic,410,Uninsured,616.0959452024674,Metformin
+jluomstkwhohwlgl559,snwqunogywdq559,California,Married,2.21,559,Male,Black,32.31,148.54,175.79,24.55,Moderate,Never,Moderate,Non-Diabetic,559,Insured,811.8003645464281,Metformin
+pfgqqffcsthojoal805,mjhqmpluqkra805,California,Single,0.2,805,Female,Hispanic,19.75,190.31,144.11896149120247,4.541990697,High,Current,Moderate,Non-Diabetic,805,Uninsured,1192.2370685089963,Insulin
+jeptgipxunbwrzbo873,ricozzoicblf873,California,Single,0.37,873,Female,Asian,19.75,91.59788160895998,93.36143609,2.135448124552057,Moderate,Never,,Diabetic,873,Insured,1181.6620256340148,Metformin
+jcnfodieagdktfqm912,gshgdgakydnb912,California,Single,0.53,912,Female,Hispanic,26.35,190.31,93.36143609,24.87,Low,Never,High,Non-Diabetic,912,Uninsured,1192.2370685089963,Metformin
+lesclpojiduzvajs129,brirejunolqs129,California,Married,1.58,129,Male,Hispanic,19.75,190.31,133.36,5.35,High,Never,Moderate,Diabetic,129,Insured,650.2833484815307,Metformin
+feowvekoghwkibkz883,dyhcmtybnbdv883,California,Married,2.28,883,Female,White,33.77556181601884,151.66542219376322,118.02,24.55,Moderate,Former,Moderate,Non-Diabetic,883,Insured,1181.6620256340148,GLP-1 agonist
+uwgjmelzaveeesip976,cfnpidusrcyo976,California,Married,2.21,976,Male,Black,26.35,196.23,130.28302095632574,20.85,High,Never,,Non-Diabetic,976,Insured,1288.8830549174445,Metformin
+dmtunngxqiwujjdh741,ckzeyorepmjr741,California,Single,0.53,741,Female,Asian,33.77556181601884,168.13971522677122,93.36143609,24.87,High,Never,High,Non-Diabetic,741,Insured,1893.432070757025,GLP-1 agonist
+gszzmacdwicgaefd638,yfxrrudvsmdd638,California,Married,2.28,638,Female,Black,19.75,190.31,175.79,24.55,Low,Never,Moderate,Non-Diabetic,638,Insured,340.7877902157701,Insulin
+dtgevrtezvdesbuy469,vxiqzmjjggzp469,California,Married,2.18,469,Male,Hispanic,19.75,168.13971522677122,152.9353998166657,10.11686127233257,Moderate,Former,High,Diabetic,469,Uninsured,811.8003645464281,Metformin
+yuagdqsoyyygbbly33,iabrdvylwiaz33,California,Single,0.2,33,Male,White,18.55705686138479,148.54,118.02,24.55,Low,Current,Moderate,Non-Diabetic,33,Insured,650.2833484815307,GLP-1 agonist
+nyqdglpppifsrwbn310,djoysawznbwp310,California,Married,0.28,310,Female,White,32.31,186.1,177.08993914366752,24.87,Moderate,Current,High,Non-Diabetic,310,Uninsured,616.0959452024674,Metformin
+vklfumhvitokxvlw609,zqanjcomjoel609,California,Married,2.28,609,Female,Asian,22.04502064908496,168.13971522677122,93.36143609,24.87,Low,Never,High,Diabetic,609,Uninsured,1192.2370685089963,Metformin
+mezeyffmbgogknfh220,ovhdfvaylpis220,California,Single,1.58,220,Male,Hispanic,18.55705686138479,148.54,130.28302095632574,20.85,Low,Never,High,Non-Diabetic,220,Insured,528.1553002754529,GLP-1 agonist
+ebxjllufelytwhsd507,vrffzffcqmrm507,California,Married,0.37,507,Male,Black,19.75,148.54,93.36143609,2.135448124552057,High,Never,,Diabetic,507,Insured,528.1553002754529,Metformin
+nusrfisvhafvhhgr751,gkoeubgdhvoe751,California,Married,0.37,751,Female,White,33.77556181601884,186.1,118.02,24.87,Moderate,Never,High,Non-Diabetic,751,Uninsured,1192.2370685089963,GLP-1 agonist
+qiyibmzdomjtsrzy82,mpxayddkephv82,California,Single,2.28,82,Female,Asian,19.75,91.59788160895998,95.31,2.135448124552057,High,Former,,Diabetic,82,Insured,1181.6620256340148,Insulin
+ixhcjwlethtxdtvb181,npiqvctjtujh181,California,Married,1.41,181,Female,White,18.55705686138479,168.13971522677122,144.11896149120247,20.85,High,Current,High,Non-Diabetic,181,Uninsured,1893.432070757025,GLP-1 agonist
+mfqltsgogccvcsxh700,jhidizczontu700,California,Married,2.21,700,Female,Hispanic,19.75,88.32,130.28302095632574,3.56,Moderate,Current,High,Diabetic,700,Uninsured,811.8003645464281,GLP-1 agonist
+dtvvkredsrkwvepf377,ffexojrocttl377,California,Single,1.41,377,Male,Hispanic,32.31,186.1,118.02,5.35,Low,Current,,Non-Diabetic,377,Insured,1893.432070757025,Metformin
+yxdzsdnefusjwkkx983,ynnhbkpdpgbi983,California,Single,2.28,983,Female,White,32.31,186.1,175.79,2.135448124552057,Low,Former,High,Non-Diabetic,983,Insured,1093.2694640570294,
+pffengbttudmtpnc787,qxshmhzjsxok787,California,Single,2.18,787,Female,Hispanic,33.77556181601884,88.32,130.28302095632574,3.56,High,Never,High,Diabetic,787,Uninsured,1893.432070757025,GLP-1 agonist
+apbryfwruiburuay489,plylhtmrcbhx489,California,Single,0.28,489,Female,Asian,18.55705686138479,196.23,177.08993914366752,24.87,High,Current,High,Non-Diabetic,489,Uninsured,811.8003645464281,
+apwhxjjzsvycnypc503,jhtlvjrmzknl503,California,Single,2.18,503,Female,Asian,32.31,196.23,175.79,24.87,Moderate,Never,Moderate,Non-Diabetic,503,Uninsured,1893.432070757025,
+wgeozpjhaecdrkis273,rwntyfrndgif273,California,Married,2.21,273,Male,White,32.31,196.23,144.11896149120247,10.15,High,Never,,Non-Diabetic,273,Uninsured,811.8003645464281,
+nrvilffqaxbyfwhl899,fupzaxmwaxps899,California,Married,2.21,899,Female,Asian,19.75,91.59788160895998,118.02,20.85,Low,Never,,Diabetic,899,Insured,616.0959452024674,Metformin
+voituddtnqflokwz392,wievxhwxjkcq392,California,Married,2.21,392,Male,Black,22.04502064908496,196.23,130.28302095632574,20.85,High,Never,,Diabetic,392,Insured,1288.8830549174445,Insulin
+ngphdmybpkcinvqm367,zttunbeuzxfg367,California,Married,0.53,367,Female,Black,25.41868995566916,91.59788160895998,175.79,3.56,Low,Former,Moderate,Diabetic,367,Uninsured,1893.432070757025,Metformin
+hamzwpeppvpkslyo38,wtakzlpdcgor38,California,Single,1.41,38,Female,Asian,18.55705686138479,91.59788160895998,175.79,2.135448124552057,High,Former,High,Non-Diabetic,38,Insured,340.7877902157701,
+tvefhabmiejvslbd10,vmmmnqwuqzof10,California,Married,0.37,10,Female,Black,19.75,190.31,93.36143609,24.87,Low,Never,High,Non-Diabetic,10,Uninsured,811.8003645464281,Insulin
+yjfgiwdpjdniehkc811,wtffieqrtdiz811,California,Married,0.28,811,Female,Black,19.75,190.31,177.08993914366752,24.55,High,Current,Moderate,Non-Diabetic,811,Uninsured,1093.2694640570294,Insulin
+plnejhvynysbormf334,vuttblzqkmng334,California,Single,0.53,334,Female,White,18.55705686138479,81.98740438709201,175.79,10.15,Moderate,Never,,Non-Diabetic,334,Insured,340.7877902157701,GLP-1 agonist
+dopjepikwqppqswa690,mxakjiycyvdd690,California,Married,2.21,690,Male,White,18.55705686138479,81.98740438709201,144.11896149120247,10.15,High,Never,,Non-Diabetic,690,Uninsured,1093.2694640570294,GLP-1 agonist
+rvozpqdmyxifqlry517,obyzsodxscup517,California,Single,1.96,517,Male,Asian,19.75,148.54,94.12763863039169,3.56,Moderate,Never,,Diabetic,517,Uninsured,811.8003645464281,Metformin
+wiwomnjrsiqzjoab687,eykjctxkwykt687,California,Married,0.37,687,Female,White,22.04502064908496,91.87,118.02,24.87,Low,Former,,Non-Diabetic,687,Insured,1893.432070757025,Metformin
+riyhgzmchsijwllt245,qxkzahdggibw245,California,Married,0.28,245,Male,Black,22.04502064908496,91.87,118.02,24.87,Moderate,Current,,Diabetic,245,Uninsured,1893.432070757025,Insulin
+pffengbttudmtpnc787,qxshmhzjsxok787,California,Single,2.18,787,Female,Hispanic,33.77556181601884,88.32,130.28302095632574,3.56,High,Never,High,Diabetic,787,Uninsured,1893.432070757025,GLP-1 agonist
+yfqyvbvarkzboiyo750,vgxgcojakyvs750,California,Married,2.28,750,Male,Hispanic,32.78,168.13971522677122,152.9353998166657,10.11686127233257,High,Former,High,Diabetic,750,Insured,1093.2694640570294,GLP-1 agonist
+gyahkckrbcccokmz34,ugpjzbplwyci34,California,Married,1.41,34,Male,Black,22.04502064908496,148.54,130.28302095632574,2.135448124552057,Low,Former,,Diabetic,34,Insured,811.8003645464281,Insulin
+hxjqfngelsaxqndq540,emjjxfootehg540,California,Married,0.37,540,Female,Asian,19.75,148.54,94.12763863039169,3.56,High,Never,,Diabetic,540,Insured,650.2833484815307,Metformin
+vixhigeudwluhjny481,pqkefjgawaeg481,California,Married,0.37,481,Female,Black,25.653635126421914,151.66542219376322,94.12763863039169,3.56,Moderate,Current,,Diabetic,481,Insured,1181.6620256340148,
+zjcjyqhqscpegihk644,adlhyqvahhfq644,California,Married,0.53,644,Female,Black,33.77556181601884,88.32,118.02,24.87,Low,Never,,Diabetic,644,Uninsured,650.2833484815307,GLP-1 agonist
+susmgivujknobrcm557,irosrbxurkpz557,California,Single,0.28,557,Male,White,22.04502064908496,91.87,130.28302095632574,24.87,Low,Current,,Diabetic,557,Uninsured,340.7877902157701,Insulin
+yxjjrbkhwstymlou922,ngazcysdupdl922,California,Single,2.28,922,Female,White,33.77556181601884,151.66542219376322,94.12763863039169,10.11686127233257,Moderate,Former,High,Diabetic,922,Insured,650.2833484815307,
+ymjbfopsfjsphmzg970,brhpxyynvepa970,California,Married,0.2,970,Male,White,33.77556181601884,91.87,133.36,24.87,High,Former,High,Non-Diabetic,970,Insured,1893.432070757025,GLP-1 agonist
+ceenmbwwoifemsob114,tayamkoxhumf114,California,Married,1.96,114,Female,Hispanic,18.55705686138479,186.1,175.79,24.55,Moderate,Never,Moderate,Non-Diabetic,114,Uninsured,1093.2694640570294,
+vfitrmeqsyotpxni149,gcfftbezxcdk149,California,Married,2.18,149,Female,Asian,33.77556181601884,168.13971522677122,93.36143609,24.87,High,Never,High,Non-Diabetic,149,Uninsured,1093.2694640570294,GLP-1 agonist
+donnkqdvhkxajptu510,peaczqcjfjgc510,California,Married,2.21,510,Female,Black,19.75,196.23,130.28302095632574,20.85,Moderate,Never,,Diabetic,510,Insured,1288.8830549174445,Insulin
+vgoygbeziqlrsqyo680,vqltygbcltlv680,California,Married,0.37,680,Male,White,19.75,168.13971522677122,118.02,10.11686127233257,High,Former,High,Diabetic,680,Insured,1093.2694640570294,Insulin
+oofqjwbvhiwzzcjd28,zumjiqiowwbu28,California,Married,0.37,28,Male,Asian,19.75,168.13971522677122,152.9353998166657,10.11686127233257,Low,Former,High,Diabetic,28,Insured,1893.432070757025,Metformin
+hmaiqqxsxnrifqsi96,qlocezzhgzwk96,California,Married,0.28,96,Male,White,18.55705686138479,91.87,118.02,24.87,High,Current,,Non-Diabetic,96,Insured,1893.432070757025,GLP-1 agonist
+wskrdvcfejemtjnu272,uyqifbzqtmdz272,California,Married,1.96,272,Female,Hispanic,25.41868995566916,91.87,177.08993914366752,3.56,Low,Former,Moderate,Diabetic,272,Uninsured,1192.2370685089963,Metformin
+echtwrdeezmbveje234,eorfwyvdndgi234,California,Married,2.28,234,Female,Asian,19.75,91.59788160895998,144.11896149120247,2.135448124552057,Low,Never,,Diabetic,234,Uninsured,650.2833484815307,Insulin
+moxjijnkigetoiyh380,uchpfycevewb380,California,Married,2.28,380,Male,Asian,18.55705686138479,91.59788160895998,177.08993914366752,2.135448124552057,High,Current,High,Non-Diabetic,380,Insured,528.1553002754529,
+zyrbwxmizewkrgop122,rmwsltuuzxtr122,California,Single,0.28,122,Female,Black,18.55705686138479,196.23,95.31,20.85,High,Former,High,Non-Diabetic,122,Uninsured,811.8003645464281,
+aaeebgetrakdtfue892,wlbsdkqigqio892,California,Married,0.37,892,Male,Black,25.41868995566916,168.13971522677122,94.12763863039169,3.56,Moderate,Current,,Diabetic,892,Uninsured,1192.2370685089963,GLP-1 agonist
+nkndmhkstsaduzsd809,emgaqzhusior809,California,Married,1.58,809,Female,Asian,19.75,186.1,177.08993914366752,24.55,Low,Current,Moderate,Non-Diabetic,809,Insured,650.2833484815307,Insulin
+ivdqliqnuqvxikyb882,thigsvfnehpx882,California,Single,2.28,882,Male,White,32.31,196.23,175.79,2.135448124552057,Moderate,Current,High,Non-Diabetic,882,Insured,650.2833484815307,
+pphgtsgbvicriavs2,owoohurmofnk2,California,Married,2.21,2,Female,Hispanic,18.55705686138479,91.87,95.31,20.85,High,Former,High,Non-Diabetic,2,Uninsured,340.7877902157701,GLP-1 agonist
+yozbgregqlgcldvn29,uksirlvdilda29,California,Single,0.37,29,Female,Asian,19.75,190.31,130.28302095632574,3.56,Moderate,Current,High,Diabetic,29,Insured,616.0959452024674,Metformin
+jaanmfkwifrtysuo455,ledpwasiyrlx455,California,Single,2.18,455,Female,Hispanic,19.75,190.31,93.36143609,24.87,Low,Never,High,Diabetic,455,Uninsured,1192.2370685089963,Metformin
+fmkuruwpdctqteog672,wlewwxapssqg672,California,Married,2.21,672,Male,Hispanic,33.77556181601884,91.87,95.31,20.85,Moderate,Former,High,Non-Diabetic,672,Uninsured,340.7877902157701,GLP-1 agonist
