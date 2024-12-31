@@ -5,7 +5,7 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 
 **Project Overview**
 This project is a machine learning-based application designed to predict the likelihood of diabetes based on patient-specific input parameters. The application provides personalized health recommendations based on the prediction and the input values to assist users in taking proactive steps toward managing their health.
-The application leverages a Random Forest classifier trained on synthetic diabetes data generated using Synthea. It is built with a user-friendly interface using Gradio and incorporates a blood pressure calculator for added functionality.
+The application leverages a Random Forest classifier trained on synthetic diabetes data generated using data synthesizer. It is built with a user-friendly interface using Gradio and incorporates a blood pressure calculator for added functionality.
 
 **Key Features**
 Diabetes Prediction: Determines whether a user is diabetic or non-diabetic based on provided health metrics.
